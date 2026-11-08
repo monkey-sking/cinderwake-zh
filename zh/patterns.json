@@ -566,5 +566,197 @@
   {
     "en": "{0} at full Heat: spend it all. {1}: {*2} {3} damage where they erupt.",
     "zh": "满积热时按 {0} 耗尽积热。{1}：{2} 喷发处造成 {3} 点伤害。"
+  },
+  {
+    "en": "{0} VI",
+    "zh": "{0} VI"
+  },
+  {
+    "en": "{0} VII",
+    "zh": "{0} VII"
+  },
+  {
+    "en": "{0} VIII",
+    "zh": "{0} VIII"
+  },
+  {
+    "en": "{0} IX",
+    "zh": "{0} IX"
+  },
+  {
+    "en": "{0} X",
+    "zh": "{0} X"
+  },
+  {
+    "en": "{0} XI",
+    "zh": "{0} XI"
+  },
+  {
+    "en": "{0} XII",
+    "zh": "{0} XII"
+  },
+  {
+    "en": "{0} XIII",
+    "zh": "{0} XIII"
+  },
+  {
+    "en": "{0} XIV",
+    "zh": "{0} XIV"
+  },
+  {
+    "en": "{0} XV",
+    "zh": "{0} XV"
+  },
+  {
+    "en": "{0} XVI",
+    "zh": "{0} XVI"
+  },
+  {
+    "en": "{0} XVII",
+    "zh": "{0} XVII"
+  },
+  {
+    "en": "{0} XVIII",
+    "zh": "{0} XVIII"
+  },
+  {
+    "en": "{0} XIX",
+    "zh": "{0} XIX"
+  },
+  {
+    "en": "{0} XX",
+    "zh": "{0} XX"
+  },
+  {
+    "en": "+{0}% damage → +{1}% damage",
+    "zh": "+{0}% 伤害 → +{1}% 伤害"
+  },
+  {
+    "en": "+{0}% move speed → +{1}% move speed",
+    "zh": "+{0}% 移动速度 → +{1}% 移动速度"
+  },
+  {
+    "en": "+{0}% pickup range → +{1}% pickup range",
+    "zh": "+{0}% 拾取范围 → +{1}% 拾取范围"
+  },
+  {
+    "en": "+{0}% cooldowns → +{1}% cooldowns",
+    "zh": "+{0}% 冷却缩减 → +{1}% 冷却缩减"
+  },
+  {
+    "en": "+{0}% health → +{1}% health",
+    "zh": "+{0}% 生命 → +{1}% 生命"
+  },
+  {
+    "en": "+{0}% regeneration → +{1}% regeneration",
+    "zh": "+{0}% 生命回复 → +{1}% 生命回复"
+  },
+  {
+    "en": "+{0}% area → +{1}% area",
+    "zh": "+{0}% 范围 → +{1}% 范围"
+  },
+  {
+    "en": "+{0}% damage -> +{1}% damage",
+    "zh": "+{0}% 伤害 → +{1}% 伤害"
+  },
+  {
+    "en": "+{0}% move speed -> +{1}% move speed",
+    "zh": "+{0}% 移动速度 → +{1}% 移动速度"
+  },
+  {
+    "en": "+{0}% pickup range -> +{1}% pickup range",
+    "zh": "+{0}% 拾取范围 → +{1}% 拾取范围"
+  },
+  {
+    "en": "+{0}% cooldowns -> +{1}% cooldowns",
+    "zh": "+{0}% 冷却缩减 → +{1}% 冷却缩减"
+  },
+  {
+    "en": "+{0}% health -> +{1}% health",
+    "zh": "+{0}% 生命 → +{1}% 生命"
+  },
+  {
+    "en": "+{0}% regeneration -> +{1}% regeneration",
+    "zh": "+{0}% 生命回复 → +{1}% 生命回复"
+  },
+  {
+    "en": "+{0}% area -> +{1}% area",
+    "zh": "+{0}% 范围 → +{1}% 范围"
+  },
+  {
+    "en": "Normal Total damage {0} · {1} per second",
+    "zh": "普通 总伤害 {0} · 每秒 {1}"
+  },
+  {
+    "en": "Hard Total damage {0} · {1} per second",
+    "zh": "困难 总伤害 {0} · 每秒 {1}"
+  },
+  {
+    "en": "Endless Total damage {0} · {1} per second",
+    "zh": "无尽 总伤害 {0} · 每秒 {1}"
+  },
+  {
+    "en": "Normal · Total damage {0} · {1} per second",
+    "zh": "普通 · 总伤害 {0} · 每秒 {1}"
+  },
+  {
+    "en": "Hard · Total damage {0} · {1} per second",
+    "zh": "困难 · 总伤害 {0} · 每秒 {1}"
+  },
+  {
+    "en": "Endless · Total damage {0} · {1} per second",
+    "zh": "无尽 · 总伤害 {0} · 每秒 {1}"
+  },
+  {
+    "en": "Normal {*0}",
+    "zh": "普通 {0}"
+  },
+  {
+    "en": "Hard {*0}",
+    "zh": "困难 {0}"
+  },
+  {
+    "en": "Endless {*0}",
+    "zh": "无尽 {0}"
+  },
+  {
+    "en": "+{0} → {1} {*2}",
+    "zh": "+{0} → {1} {2}"
+  },
+  {
+    "en": "+{0} -> {1} {*2}",
+    "zh": "+{0} → {1} {2}"
+  },
+  {
+    "en": "Upgrade {0} needed {1} Cinders",
+    "zh": "升级 {0} 还需 {1} 余烬"
+  },
+  {
+    "en": "Upgrade {0} needs {1} Cinders",
+    "zh": "升级 {0} 需要 {1} 余烬"
+  },
+  {
+    "en": "Medium Total damage {0} · {1} per second",
+    "zh": "普通 总伤害 {0} · 每秒 {1}"
+  },
+  {
+    "en": "Easy Total damage {0} · {1} per second",
+    "zh": "简单 总伤害 {0} · 每秒 {1}"
+  },
+  {
+    "en": "Medium · Total damage {0} · {1} per second",
+    "zh": "普通 · 总伤害 {0} · 每秒 {1}"
+  },
+  {
+    "en": "Easy · Total damage {0} · {1} per second",
+    "zh": "简单 · 总伤害 {0} · 每秒 {1}"
+  },
+  {
+    "en": "Medium {*0}",
+    "zh": "普通 {0}"
+  },
+  {
+    "en": "Easy {*0}",
+    "zh": "简单 {0}"
   }
 ]

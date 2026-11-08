@@ -142,7 +142,7 @@ const compiledPatterns = patterns.map((p) => ({
 const userScriptHeader = `// ==UserScript==
 // @name         Cinderwake 简体中文汉化
 // @namespace    https://cinderwake.io/
-// @version      1.3.1
+// @version      1.3.2
 // @description  Cinderwake (cinderwake.io) 简体中文汉化油猴脚本，支持 DOM 动态翻译
 // @author       runking
 // @match        https://cinderwake.io/*

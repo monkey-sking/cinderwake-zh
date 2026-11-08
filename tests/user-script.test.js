@@ -143,6 +143,31 @@ describe("Cinderwake User Script End-to-End Tests", () => {
 
       assert.equal(kills.textContent, "击杀 11075");
       assert.equal(bossTimer.textContent, "空洞守卫 还有 1:34");
+
+      // 暖炉双段属性与高阶罗马数字升级测试
+      const hearthStat = document.createElement("div");
+      hearthStat.textContent = "+29% damage → +31% damage";
+      document.body.appendChild(hearthStat);
+
+      const hearthRoman = document.createElement("div");
+      hearthRoman.textContent = "Vitality VII";
+      document.body.appendChild(hearthRoman);
+
+      const hearthUpgrade = document.createElement("div");
+      hearthUpgrade.textContent = "Upgrade Vitality VII needed 105 Cinders";
+      document.body.appendChild(hearthUpgrade);
+
+      // 结算复杂嵌套与单位测试
+      const settlement = document.createElement("div");
+      settlement.textContent = "Survived 23:19 · Level 61 · 16111 kills · Medium Total damage 3,259,026 · 2.33k per second";
+      document.body.appendChild(settlement);
+
+      runScript();
+
+      assert.equal(hearthStat.textContent, "+29% 伤害 → +31% 伤害");
+      assert.equal(hearthRoman.textContent, "生命力 VII");
+      assert.equal(hearthUpgrade.textContent, "升级 生命力 VII 还需 105 余烬");
+      assert.equal(settlement.textContent, "生存 23:19 · 等级 61 · 击杀 16111 · 普通 总伤害 3,259,026 · 每秒 2.33k");
       assert.equal(titleLine.textContent, "当前角色：灰烬使者 · 难度：普通");
       assert.equal(keepButton.textContent, "保留灰烬使者");
       assert.equal(beginButton.textContent, "开始游戏");

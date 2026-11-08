@@ -61,7 +61,7 @@ function createI18nCore(EXACT_MAP, RAW_PATTERNS) {
         slotIndices.push(parseInt(greedy ? name.slice(1) : name, 10));
         // 贪婪插槽：允许整段文本（含逗号、句号），用于 "A → B" 这类双段预览
         // 普通插槽：允许除首尾句点外的任意短语，兼容 "Stoke! (you don't have it)"
-        regexParts.push(greedy ? "(.+)" : "([0-9.,+\\-]+|[^,.?]+?)");
+        regexParts.push(greedy ? "(.+)" : "([0-9.,+\\-%a-zA-Z/]+|[^,.?\\u2192→\\n]+?)");
       }
     }
     try {
@@ -153,15 +153,19 @@ function createI18nCore(EXACT_MAP, RAW_PATTERNS) {
     if (level < 2) {
       const byPattern = matchPattern(normalize(trimmed));
       if (byPattern) return wrap(text, byPattern);
-      if (trimmed.indexOf("\u2192") !== -1) {
-        const halves = trimmed.split(/\s*\u2192\s*/);
+      if (trimmed.indexOf("\u2192") !== -1 || trimmed.indexOf("→") !== -1) {
+        const halves = trimmed.split(/\s*(?:\u2192|→)\s*/);
         if (halves.length >= 2) {
           const translated = [];
           let ok = true;
           for (const half of halves) {
-            const t = slotValue(half, level + 1);
-            if (t === half.trim()) { ok = false; break; }
-            translated.push(t);
+            const trimmedHalf = half.trim();
+            const t = slotValue(trimmedHalf, level + 1);
+            if (t === trimmedHalf && !/^[0-9.,%+/:#\-\u00d7\s]+$/.test(trimmedHalf)) {
+              ok = false;
+              break;
+            }
+            translated.push(t || trimmedHalf);
           }
           if (ok) return wrap(text, translated.join(" \u2192 "));
         }
