@@ -1,0 +1,1789 @@
+[
+  {
+    "en": " A boss walks through it, hit all the same.",
+    "zh": " 首领可直接穿过石阵，但仍会承受全额伤害。",
+    "contexts": [
+      "Stones rise around the thick of the crowd: 52 damage to all inside, and none of them gets out for 3.9s. Then they fall in, for 116. A boss walks through it, hit all the same.",
+      "Stones rise around the thick of the crowd: 68 damage to all inside, and none of them gets out for 4.2s. Then they fall in, for 152. A boss walks through it, hit all the same."
+    ]
+  },
+  {
+    "en": " A second wave follows, arcing to foes on land.",
+    "zh": " 随后引发第二道冲击波，电弧跃向陆地上的敌人。",
+    "contexts": [
+      "Every 4.8s, a wave of storm surges out, shocking all it passes for 70 damage. Runs far over water, soon dies on land. A second wave follows, arcing to foes on land.",
+      "Every 4.5s, a wave of storm surges out, shocking all it passes for 77 damage. Runs far over water, soon dies on land. A second wave follows, arcing to foes on land."
+    ]
+  },
+  {
+    "en": " A wider burst.",
+    "zh": "爆炸范围更广。",
+    "contexts": [
+      "A shell of ash soaks 22% of your max health in damage, then bursts for 44 around you. Reforms after 8.6s. A wider burst.",
+      "A shell of ash soaks 24% of your max health in damage, then bursts for 52 around you. Reforms after 7.8s. A wider burst."
+    ]
+  },
+  {
+    "en": " Behind you too.",
+    "zh": "身后也会出现。",
+    "contexts": [
+      "Every 2.0s, a wave snaps out the way you face, dealing 30 damage and hurling foes aside. Twice. Behind you too.",
+      "Every 1.8s, a wave snaps out the way you face, dealing 34 damage and hurling foes aside. Twice. Behind you too."
+    ]
+  },
+  {
+    "en": " Burning foes.",
+    "zh": " 燃烧中的敌人。",
+    "contexts": [
+      "Every 7.2s, a fireball bursts on the thickest crowd for 82 damage, setting it burning; lightning chains to 4 Burning foes.",
+      "Every 6.8s, a fireball bursts on the thickest crowd for 104 damage, setting it burning; lightning chains to 5 Burning foes."
+    ]
+  },
+  {
+    "en": " Burns for ",
+    "zh": " 造成持续燃烧伤害：",
+    "contexts": [
+      "Two brands mark the toughest foe near you: it takes 20% more damage, and explodes for 130 when it dies. Burns for 36 a second.",
+      "Two brands mark the toughest foe near you: it takes 20% more damage, and explodes for 145 when it dies. Burns for 40 a second."
+    ]
+  },
+  {
+    "en": " Bursts spread the boil.",
+    "zh": " 爆裂时会蔓延沸腾效果。",
+    "contexts": [
+      "Every 6.2s, the thickest crowd boils for 6s. Foes slain have a 65% chance to burst for 56 damage, more in water. Bursts spread the boil.",
+      "Every 5.8s, the thickest crowd boils for 6s. Foes slain have a 70% chance to burst for 63 damage, more in water. Bursts spread the boil."
+    ]
+  },
+  {
+    "en": " Each bursts too.",
+    "zh": " 连锁目标同样会发生爆裂。",
+    "contexts": [
+      "Every 5.2s, a fireball bursts on the thickest crowd for 192 damage, setting it burning; lightning chains to 9 Burning foes. Each bursts too.",
+      "Every 4.8s, a fireball bursts on the thickest crowd for 214 damage, setting it burning; lightning chains to 10 Burning foes. Each bursts too."
+    ]
+  },
+  {
+    "en": " Each hit splashes fire on the foes around it.",
+    "zh": "每次命中都会向周围敌人溅射火焰。",
+    "contexts": [
+      "6 fireflies drift around you and dart at foes for 40 damage, rekindling after each hit. Each hit splashes fire on the foes around it.",
+      "6 fireflies drift around you and dart at foes for 45 damage, rekindling after each hit. Each hit splashes fire on the foes around it."
+    ]
+  },
+  {
+    "en": " It arcs to foes on land.",
+    "zh": " 电弧会跃向陆地上的敌人。",
+    "contexts": [
+      "Every 5.7s, a wave of storm surges out, shocking all it passes for 49 damage. Runs far over water, soon dies on land. It arcs to foes on land.",
+      "Every 5.4s, a wave of storm surges out, shocking all it passes for 56 damage. Runs far over water, soon dies on land. It arcs to foes on land."
+    ]
+  },
+  {
+    "en": " It burns hotter the faster you move.",
+    "zh": "你移动得越快，火焰燃烧得越旺。",
+    "contexts": [
+      "You leave a trail of fire that deals 38 damage twice a second to foes in it, for 5.0s. It burns hotter the faster you move.",
+      "You leave a trail of fire that deals 44 damage twice a second to foes in it, for 5.5s. It burns hotter the faster you move."
+    ]
+  },
+  {
+    "en": " It burns wider.",
+    "zh": "火焰范围更广。",
+    "contexts": [
+      "You leave a trail of fire that deals 26 damage twice a second to foes in it, for 4.0s. It burns wider.",
+      "You leave a trail of fire that deals 26 damage twice a second to foes in it, for 4.0s. It burns wider."
+    ]
+  },
+  {
+    "en": " It collapses into an Ash Nova for ",
+    "zh": " 随后坍缩成一次爆炸，造成 ",
+    "contexts": [
+      "Every 5.0s, a whirl of ash drags the foes around it together for 2.6s, dealing 34 damage a second. Longer, and wider. It collapses into an Ash Nova for 130 damage.",
+      "Every 4.8s, a whirl of ash drags the foes around it together for 2.6s, dealing 38 damage a second. Longer, and wider. It collapses into an Ash Nova for 145 damage."
+    ]
+  },
+  {
+    "en": " It goes off twice.",
+    "zh": " 触发两次。",
+    "contexts": [
+      "Each foe he kills adds a stone to it. At 30, they all come back: 330 damage around him, and 24 stones thrown out all round for 124. It goes off twice.",
+      "Each foe he kills adds a stone to it. At 30, they all come back: 370 damage around him, and 24 stones thrown out all round for 139. It goes off twice."
+    ]
+  },
+  {
+    "en": " It knocks them flying.",
+    "zh": " 将敌人击飞。",
+    "contexts": [
+      "Leaves stones behind him as he goes, up to 11. Whatever steps on one takes 58 damage and goes down for a moment, with those beside it. It knocks them flying.",
+      "Leaves stones behind him as he goes, up to 12. Whatever steps on one takes 65 damage and goes down for a moment, with those beside it. It knocks them flying."
+    ]
+  },
+  {
+    "en": " It sweeps round itself before it sinks.",
+    "zh": " 它在沉落前会绕自身横扫一圈。",
+    "contexts": [
+      "Every 8.8s, an arm of molten slag rise behind the thickest crowd near you and slam through it for 148 damage. It sweeps round itself before it sinks.",
+      "Every 8.4s, an arm of molten slag rise behind the thickest crowd near you and slam through it for 174 damage. It sweeps round itself before it sinks."
+    ]
+  },
+  {
+    "en": " It throws shards.",
+    "zh": " 爆裂时四散碎片。",
+    "contexts": [
+      "Lodges a stone in the toughest foe near. 1.9s later it bursts: 192 damage around it, half as much again to that foe. The last hit of a Skipstone lodges a weaker one. It throws shards.",
+      "Lodges a stone in the toughest foe near. 1.9s later it bursts: 214 damage around it, half as much again to that foe. The last hit of a Skipstone lodges a weaker one. It throws shards."
+    ]
+  },
+  {
+    "en": " It zaps a foe inside for ",
+    "zh": " 它会电击范围内的一名敌人，造成 ",
+    "contexts": [
+      "A crackling field around you slows foes inside by 40%. Wider. It zaps a foe inside for 30 damage twice a second.",
+      "A crackling field around you slows foes inside by 44%. Wider. It zaps a foe inside for 30 damage twice a second."
+    ]
+  },
+  {
+    "en": " Longer, and wider.",
+    "zh": "持续时间更长，范围更广。",
+    "contexts": [
+      "Every 5.6s, a whirl of ash drags the foes around it together for 2.6s, dealing 22 damage a second. Longer, and wider.",
+      "Every 5.4s, a whirl of ash drags the foes around it together for 2.6s, dealing 26 damage a second. Longer, and wider."
+    ]
+  },
+  {
+    "en": " The burst sets the ground alight.",
+    "zh": "爆炸会点燃地面。",
+    "contexts": [
+      "A shell of ash soaks 29% of your max health in damage, then bursts for 68 around you. Reforms after 6.2s. A wider burst. The burst sets the ground alight.",
+      "A shell of ash soaks 32% of your max health in damage, then bursts for 76 around you. Reforms after 5.4s. A wider burst. The burst sets the ground alight."
+    ]
+  },
+  {
+    "en": " The ground burns for ",
+    "zh": " 地面会燃烧，造成 ",
+    "contexts": [
+      "Every 2.8s, three meteors fall on the thickest crowds near you for 102 damage. The ground burns for 26 damage a second.",
+      "Every 2.8s, three meteors fall on the thickest crowds near you for 114 damage. The ground burns for 29 damage a second."
+    ]
+  },
+  {
+    "en": " The surge throws back foes round you.",
+    "zh": " 爆发会把身边的敌人推开。",
+    "contexts": [
+      "Every 5.0s while moving, you surge 54% faster for 2.0s, leaving a trail of steam that deals 54 damage twice a second. The surge throws back foes round you.",
+      "Every 4.6s while moving, you surge 58% faster for 2.1s, leaving a trail of steam that deals 61 damage twice a second. The surge throws back foes round you."
+    ]
+  },
+  {
+    "en": " The trail slows foes.",
+    "zh": " 轨迹会减速敌人。",
+    "contexts": [
+      "Every 6.2s while moving, you surge 42% faster for 1.7s, leaving a trail of steam that deals 33 damage twice a second. The trail slows foes.",
+      "Every 5.8s while moving, you surge 46% faster for 1.8s, leaving a trail of steam that deals 40 damage twice a second. The trail slows foes."
+    ]
+  },
+  {
+    "en": " They burst at the end.",
+    "zh": " 终点处发生爆裂。",
+    "contexts": [
+      "Every 4.4s, 8 orbs of lightning curl out, shocking all they pass for 49 damage and arcing to Shocked foes. Wider over water. They burst at the end.",
+      "Every 4.2s, 8 orbs of lightning curl out, shocking all they pass for 55 damage and arcing to Shocked foes. Wider over water. They burst at the end."
+    ]
+  },
+  {
+    "en": " They burst where they meet, and every third sweep swings back.",
+    "zh": " 光束交汇处爆裂，且每第 3 次扫击会折返。",
+    "contexts": [
+      "Every 4.6s, two beams sweep round you, dealing 62 damage to all they pass and leaving them Burning. They burst where they meet, and every third sweep swings back.",
+      "Every 4.3s, two beams sweep round you, dealing 69 damage to all they pass and leaving them Burning. They burst where they meet, and every third sweep swings back."
+    ]
+  },
+  {
+    "en": " They burst where they meet.",
+    "zh": " 光束交汇处会爆裂。",
+    "contexts": [
+      "Every 5.5s, two beams sweep round you, dealing 42 damage to all they pass and leaving them Burning. They burst where they meet.",
+      "Every 5.2s, two beams sweep round you, dealing 48 damage to all they pass and leaving them Burning. They burst where they meet."
+    ]
+  },
+  {
+    "en": " They come back slowly.",
+    "zh": " 击退后减速返回。",
+    "contexts": [
+      "Whirls the sling low around him: 19 damage to all in reach, knocking them back. They come back slowly.",
+      "Whirls the sling low around him: 22 damage to all in reach, knocking them back. They come back slowly."
+    ]
+  },
+  {
+    "en": " They go through the first ",
+    "zh": " 穿透前 ",
+    "contexts": [
+      "Empties the pouch at the nearest foe: 8 stones in a cone, 56 damage each. They go through the first one they hit.",
+      "Empties the pouch at the nearest foe: 8 stones in a cone, 66 damage each. They go through the first one they hit."
+    ]
+  },
+  {
+    "en": " They take ",
+    "zh": "它们受到的伤害提高 ",
+    "contexts": [
+      "Every 4.6s, thunder cracks around you: 68 damage, and foes are stunned for 1.1s. Wider. They take 25% more damage for 3s.",
+      "Every 4.5s, thunder cracks around you: 76 damage, and foes are stunned for 1.1s. Wider. They take 25% more damage for 3s."
+    ]
+  },
+  {
+    "en": " Those inside are slowed.",
+    "zh": " 内部的敌人被减速。",
+    "contexts": [
+      "Stones rise around the thick of the crowd: 84 damage to all inside, and none of them gets out for 4.5s. Then they fall in, for 188. Those inside are slowed. A boss walks through it, hit all the same.",
+      "Stones rise around the thick of the crowd: 100 damage to all inside, and none of them gets out for 4.8s. Then they fall in, for 224. Those inside are slowed. A boss walks through it, hit all the same."
+    ]
+  },
+  {
+    "en": " Twice round.",
+    "zh": " 挥旋两圈。",
+    "contexts": [
+      "Whirls the sling low around him: 28 damage to all in reach, knocking them back. They come back slowly. Twice round.",
+      "Whirls the sling low around him: 31 damage to all in reach, knocking them back. They come back slowly. Twice round."
+    ]
+  },
+  {
+    "en": " Twice.",
+    "zh": "触发两次。",
+    "contexts": [
+      "Every 2.6s, a wave snaps out the way you face, dealing 18 damage and hurling foes aside. Twice.",
+      "Every 2.4s, a wave snaps out the way you face, dealing 22 damage and hurling foes aside. Twice."
+    ]
+  },
+  {
+    "en": " Two at once.",
+    "zh": " 一次升起两座。",
+    "contexts": [
+      "Raises a cairn where the crowd is, for 9.0s: it slows all near it and shakes them for 33 damage. A Skipstone that's done comes off it at someone new. Two at once.",
+      "Raises a cairn where the crowd is, for 9.5s: it slows all near it and shakes them for 37 damage. A Skipstone that's done comes off it at someone new. Two at once."
+    ]
+  },
+  {
+    "en": " Two more break off it, to either side.",
+    "zh": " 两侧额外分裂出两块巨石。",
+    "contexts": [
+      "The big one: from the pile to the pouch to the whirl, then a boulder that rolls far through everything on its way for 352 damage. Two more break off it, to either side.",
+      "The big one: from the pile to the pouch to the whirl, then a boulder that rolls far through everything on its way for 394 damage. Two more break off it, to either side."
+    ]
+  },
+  {
+    "en": " Two, fanned.",
+    "zh": " 扇形掷出两枚。",
+    "contexts": [
+      "Skims a stone at the nearest foe, far along the ground and through everything on its line: 76 damage. Two, fanned.",
+      "Skims a stone at the nearest foe, far along the ground and through everything on its line: 85 damage. Two, fanned."
+    ]
+  },
+  {
+    "en": " Wider.",
+    "zh": "范围更广。",
+    "contexts": [
+      "A crackling field around you slows foes inside by 28%. Wider.",
+      "A crackling field around you slows foes inside by 32%. Wider."
+    ]
+  },
+  {
+    "en": " Zaps jump to 2 more foes.",
+    "zh": "电击会跳跃至另外 2 名敌人。",
+    "contexts": [
+      "Every 3.6s, plants a spire that zaps the nearest foe for 40 damage for 5s. Two can stand at once. Zaps jump to 2 more foes.",
+      "Every 3.2s, plants a spire that zaps the nearest foe for 45 damage for 5s. Two can stand at once. Zaps jump to 2 more foes."
+    ]
+  },
+  {
+    "en": " a second.",
+    "zh": "/秒。",
+    "contexts": [
+      "Every 7.0s while moving, you surge 34% faster for 1.5s, leaving a trail of steam that deals 19 damage twice a second.",
+      "Every 6.6s while moving, you surge 38% faster for 1.6s, leaving a trail of steam that deals 26 damage twice a second."
+    ]
+  },
+  {
+    "en": " a swing.",
+    "zh": "/挥动。",
+    "contexts": [
+      "Swings the shovel in a wide arc ahead of you for 45 damage, shoving foes aside, wider. Heals 1% of your max health per foe, up to 3 a swing.",
+      "Swings the shovel in a wide arc ahead of you for 54 damage, shoving foes aside, wider. Heals 1.5% of your max health per foe, up to 3 a swing."
+    ]
+  },
+  {
+    "en": " and stuns them",
+    "zh": "，并眩晕它们",
+    "contexts": [
+      "When surrounded or badly hurt, a bellow shoves foes back and stuns them, and for 5.2s you take 37% less damage. Every 22s.",
+      "When surrounded or badly hurt, a bellow shoves foes back and stuns them, and for 5.6s you take 40% less damage. Every 21s."
+    ]
+  },
+  {
+    "en": " around you. Reforms after ",
+    "zh": " 点伤害。重组需要 ",
+    "contexts": [
+      "A shell of ash soaks 17% of your max health in damage, then bursts for 28 around you. Reforms after 10.2s.",
+      "A shell of ash soaks 19% of your max health in damage, then bursts for 36 around you. Reforms after 9.4s."
+    ]
+  },
+  {
+    "en": " at full Heat",
+    "zh": "（满积热时）",
+    "contexts": [
+      "LMB at full Heat: spend it all. Fissure: A few cracks run out to the crowds nearest him, and erupt. 350 damage where they erupt.",
+      "LMB at full Heat: spend it all. Vein: More of them, forking, and the ground burns along them. 1000 damage where they erupt."
+    ]
+  },
+  {
+    "en": " at the nearest foes for ",
+    "zh": "，造成 ",
+    "contexts": [
+      "Hurls 1 bolt at the nearest foes for 22 damage.",
+      "Hurls 2 bolts at the nearest foes for 28 damage."
+    ]
+  },
+  {
+    "en": " beside it are bound where they stand for ",
+    "zh": " 与其身旁的敌人被束缚在原地持续 ",
+    "contexts": [
+      "Throws a bola at the toughest foe near: 37 damage, and it and 2 beside it are bound where they stand for 1.8s. A boss is only slowed.",
+      "Throws a bola at the toughest foe near: 48 damage, and it and 2 beside it are bound where they stand for 2.0s. A boss is only slowed."
+    ]
+  },
+  {
+    "en": " brands mark",
+    "zh": "道烙印会标记",
+    "contexts": [
+      "Two brands mark the toughest foe near you: it takes 20% more damage, and explodes for 85 when it dies.",
+      "Two brands mark the toughest foe near you: it takes 20% more damage, and explodes for 100 when it dies."
+    ]
+  },
+  {
+    "en": " can stand at once.",
+    "zh": " 座可以同时存在。",
+    "contexts": [
+      "Every 4.8s, plants a spire that zaps the nearest foe for 25 damage for 5s. Two can stand at once.",
+      "Every 4.4s, plants a spire that zaps the nearest foe for 30 damage for 5s. Two can stand at once."
+    ]
+  },
+  {
+    "en": " damage a second, for ",
+    "zh": " 点伤害/秒，持续 ",
+    "contexts": [
+      "Tips the firebox out: a pool of burning coals burns all in it for 35 damage a second, for 5.3s.",
+      "Tips the firebox out: a pool of burning coals burns all in it for 48 damage a second, for 5.6s."
+    ]
+  },
+  {
+    "en": " damage a second.",
+    "zh": " 点伤害/秒。",
+    "contexts": [
+      "Every 2.8s, three meteors fall on the thickest crowds near you for 102 damage. The ground burns for 26 damage a second.",
+      "Every 2.8s, three meteors fall on the thickest crowds near you for 114 damage. The ground burns for 29 damage a second."
+    ]
+  },
+  {
+    "en": " damage about you with every turn",
+    "zh": " 点伤害",
+    "contexts": [
+      "When foes close in, spins with the shovel out for 3.8s: 13 damage about you with every turn. You can keep moving.",
+      "When foes close in, spins with the shovel out for 4.1s: 17 damage about you with every turn. You can keep moving."
+    ]
+  },
+  {
+    "en": " damage and arcing to Shocked foes. Wider over water.",
+    "zh": " 点伤害，并连锁至感电目标。在水面上范围更广。",
+    "contexts": [
+      "Every 5.4s, 4 orbs of lightning curl out, shocking all they pass for 19 damage and arcing to Shocked foes. Wider over water.",
+      "Every 5.2s, 4 orbs of lightning curl out, shocking all they pass for 25 damage and arcing to Shocked foes. Wider over water."
+    ]
+  },
+  {
+    "en": " damage and goes down for a moment, with those beside it.",
+    "zh": " 点伤害并与其身旁的敌人一同倒地片刻。",
+    "contexts": [
+      "Leaves stones behind him as he goes, up to 6. Whatever steps on one takes 23 damage and goes down for a moment, with those beside it.",
+      "Leaves stones behind him as he goes, up to 7. Whatever steps on one takes 30 damage and goes down for a moment, with those beside it."
+    ]
+  },
+  {
+    "en": " damage and hurling foes aside.",
+    "zh": " 点伤害，并将敌人击退。",
+    "contexts": [
+      "Every 3.0s, a wave snaps out the way you face, dealing 10 damage and hurling foes aside.",
+      "Every 2.8s, a wave snaps out the way you face, dealing 14 damage and hurling foes aside."
+    ]
+  },
+  {
+    "en": " damage around him, and ",
+    "zh": " 点范围伤害，并向周围掷出 ",
+    "contexts": [
+      "Each foe he kills adds a stone to it. At 36, they all come back: 130 damage around him, and 24 stones thrown out all round for 49.",
+      "Each foe he kills adds a stone to it. At 36, they all come back: 170 damage around him, and 24 stones thrown out all round for 64."
+    ]
+  },
+  {
+    "en": " damage around it, half as much again to that foe. The last hit of a Skipstone lodges a weaker one.",
+    "zh": " 点范围伤害，该敌人额外承受 50% 伤害。跳石的最后一次命中也会附着一枚弱效爆裂石。",
+    "contexts": [
+      "Lodges a stone in the toughest foe near. 2.4s later it bursts: 82 damage around it, half as much again to that foe. The last hit of a Skipstone lodges a weaker one.",
+      "Lodges a stone in the toughest foe near. 2.4s later it bursts: 104 damage around it, half as much again to that foe. The last hit of a Skipstone lodges a weaker one."
+    ]
+  },
+  {
+    "en": " damage around you and shoves foes back.",
+    "zh": " 点范围伤害，并击退敌人。",
+    "contexts": [
+      "Every 4.2s, a blast of ash deals 22 damage around you and shoves foes back.",
+      "Every 3.8s, a blast of ash deals 32 damage around you and shoves foes back."
+    ]
+  },
+  {
+    "en": " damage each, taking ",
+    "zh": " 点伤害，承受伤害降低 ",
+    "contexts": [
+      "L Shift: charge through foes, steering as you run, for 24 damage each, taking 60% less. Press again to slam for 64.",
+      "L Shift: charge through foes, steering as you run, for 32 damage each, taking 60% less. Press again to slam for 84."
+    ]
+  },
+  {
+    "en": " damage each.",
+    "zh": " 点伤害。",
+    "contexts": [
+      "Empties the pouch at the nearest foe: 6 stones in a cone, 36 damage each.",
+      "Empties the pouch at the nearest foe: 6 stones in a cone, 46 damage each."
+    ]
+  },
+  {
+    "en": " damage for ",
+    "zh": " 点伤害，持续 ",
+    "contexts": [
+      "Every 5.6s, plants a spire that zaps the nearest foe for 15 damage for 5s.",
+      "Every 5.2s, plants a spire that zaps the nearest foe for 20 damage for 5s."
+    ]
+  },
+  {
+    "en": " damage in a ring of broken ground",
+    "zh": " 点伤害，并留下一圈碎裂地面",
+    "contexts": [
+      "Brings the shovel down ahead of you: 68 damage in a ring of broken ground.",
+      "Brings the shovel down ahead of you: 90 damage in a ring of broken ground."
+    ]
+  },
+  {
+    "en": " damage in all to what it catches, and the kick shoves you back.",
+    "zh": " 点总伤害，后坐力会将你推开。",
+    "contexts": [
+      "Blasts a long jet of furnace fire ahead of you: 672 damage in all to what it catches, and the kick shoves you back.",
+      "Blasts a long jet of furnace fire ahead of you: 924 damage in all to what it catches, and the kick shoves you back."
+    ]
+  },
+  {
+    "en": " damage nearby.",
+    "zh": " 点伤害。",
+    "contexts": [
+      "Slain foes have a 16% chance to burst into flame, dealing 25 damage nearby.",
+      "Slain foes have a 22% chance to burst into flame, dealing 35 damage nearby."
+    ]
+  },
+  {
+    "en": " damage to all in reach, knocking them back.",
+    "zh": " 点伤害并击退范围内的所有敌人。",
+    "contexts": [
+      "Whirls the sling low around him: 13 damage to all in reach, knocking them back.",
+      "Whirls the sling low around him: 16 damage to all in reach, knocking them back."
+    ]
+  },
+  {
+    "en": " damage to all inside, and none of them gets out for ",
+    "zh": " 点伤害，且在接下来的 ",
+    "contexts": [
+      "Stones rise around the thick of the crowd: 52 damage to all inside, and none of them gets out for 3.9s. Then they fall in, for 116. A boss walks through it, hit all the same.",
+      "Stones rise around the thick of the crowd: 68 damage to all inside, and none of them gets out for 4.2s. Then they fall in, for 152. A boss walks through it, hit all the same."
+    ]
+  },
+  {
+    "en": " damage to all it lands on. A foe too big to throw takes a heavy stone instead.",
+    "zh": " 点伤害。对于无法投掷的大型敌人，改掷重石造成伤害。",
+    "contexts": [
+      "Slings one of them into the thick of the rest: 34 damage to all it lands on. A foe too big to throw takes a heavy stone instead.",
+      "Slings one of them into the thick of the rest: 43 damage to all it lands on. A foe too big to throw takes a heavy stone instead."
+    ]
+  },
+  {
+    "en": " damage to all it passes, and it keeps burning.",
+    "zh": " 点伤害，火线会持续燃烧。",
+    "contexts": [
+      "Drags the shovel through the ground: a line of fire runs ahead of you, 31 damage to all it passes, and it keeps burning.",
+      "Drags the shovel through the ground: a line of fire runs ahead of you, 40 damage to all it passes, and it keeps burning."
+    ]
+  },
+  {
+    "en": " damage to all they pass and leaving them Burning.",
+    "zh": " 点伤害并使途经目标陷入燃烧。",
+    "contexts": [
+      "Every 6.1s, two beams sweep round you, dealing 28 damage to all they pass and leaving them Burning.",
+      "Every 5.8s, two beams sweep round you, dealing 35 damage to all they pass and leaving them Burning."
+    ]
+  },
+  {
+    "en": " damage to all they pass.",
+    "zh": " 点伤害，所有被穿过的敌人都会受到伤害。",
+    "contexts": [
+      "Every 6th blow, 5 fissures of fire run out ahead of you: 47 damage to all they pass.",
+      "Every 6th blow, 5 fissures of fire run out ahead of you: 62 damage to all they pass."
+    ]
+  },
+  {
+    "en": " damage twice a second to foes in it, for ",
+    "zh": " 点伤害，每秒两次，持续 ",
+    "contexts": [
+      "You leave a trail of fire that deals 14 damage twice a second to foes in it, for 3.0s.",
+      "You leave a trail of fire that deals 20 damage twice a second to foes in it, for 3.5s."
+    ]
+  },
+  {
+    "en": " damage twice a second.",
+    "zh": " 点伤害，每秒两次。",
+    "contexts": [
+      "Every 7.0s while moving, you surge 34% faster for 1.5s, leaving a trail of steam that deals 19 damage twice a second.",
+      "Every 6.6s while moving, you surge 38% faster for 1.6s, leaving a trail of steam that deals 26 damage twice a second."
+    ]
+  },
+  {
+    "en": " damage where each lands, and it leaves the ground burning.",
+    "zh": " 点伤害，并点燃落点周围。",
+    "contexts": [
+      "Flings 6 hot coals ahead of you: 24 damage where each lands, and it leaves the ground burning.",
+      "Flings 7 hot coals ahead of you: 32 damage where each lands, and it leaves the ground burning."
+    ]
+  },
+  {
+    "en": " damage where they erupt.",
+    "zh": " 点伤害（喷发处）。",
+    "contexts": [
+      "LMB at full Heat: spend it all. Fissure: A few cracks run out to the crowds nearest him, and erupt. 350 damage where they erupt.",
+      "LMB at full Heat: spend it all. Vein: More of them, forking, and the ground burns along them. 1000 damage where they erupt."
+    ]
+  },
+  {
+    "en": " damage where you land",
+    "zh": " 点伤害",
+    "contexts": [
+      "Space: leap towards the cursor, over everything, and bring the shovel down: 80 damage where you land. Every 7.1s.",
+      "Space: leap towards the cursor, over everything, and bring the shovel down: 104 damage where you land. Every 6.7s."
+    ]
+  },
+  {
+    "en": " damage, and foes are stunned for ",
+    "zh": " 点伤害，并眩晕敌人 ",
+    "contexts": [
+      "Every 5.1s, thunder cracks around you: 28 damage, and foes are stunned for 0.8s.",
+      "Every 5.0s, thunder cracks around you: 36 damage, and foes are stunned for 0.8s."
+    ]
+  },
+  {
+    "en": " damage, and it and ",
+    "zh": " 点伤害，且该敌人与 ",
+    "contexts": [
+      "Throws a bola at the toughest foe near: 37 damage, and it and 2 beside it are bound where they stand for 1.8s. A boss is only slowed.",
+      "Throws a bola at the toughest foe near: 48 damage, and it and 2 beside it are bound where they stand for 2.0s. A boss is only slowed."
+    ]
+  },
+  {
+    "en": " damage, more in water.",
+    "zh": " 点伤害，水域中伤害更高。",
+    "contexts": [
+      "Every 8.2s, the thickest crowd boils for 6s. Foes slain have a 40% chance to burst for 21 damage, more in water.",
+      "Every 7.8s, the thickest crowd boils for 6s. Foes slain have a 45% chance to burst for 28 damage, more in water."
+    ]
+  },
+  {
+    "en": " damage, rekindling after each hit.",
+    "zh": " 点伤害，每次命中后会重新凝聚。",
+    "contexts": [
+      "4 fireflies drift around you and dart at foes for 15 damage, rekindling after each hit.",
+      "4 fireflies drift around you and dart at foes for 20 damage, rekindling after each hit."
+    ]
+  },
+  {
+    "en": " damage, setting it burning; lightning chains to ",
+    "zh": " 点伤害并点燃目标；闪电链跃向 ",
+    "contexts": [
+      "Every 7.2s, a fireball bursts on the thickest crowd for 82 damage, setting it burning; lightning chains to 4 Burning foes.",
+      "Every 6.8s, a fireball bursts on the thickest crowd for 104 damage, setting it burning; lightning chains to 5 Burning foes."
+    ]
+  },
+  {
+    "en": " damage, shoving foes aside",
+    "zh": " 点伤害，推开两旁的敌人",
+    "contexts": [
+      "Swings the shovel in a wide arc ahead of you for 27 damage, shoving foes aside.",
+      "Swings the shovel in a wide arc ahead of you for 36 damage, shoving foes aside."
+    ]
+  },
+  {
+    "en": " damage, throwing them in the air. Stronger in water; swarmed, one bursts at your feet.",
+    "zh": " 点伤害并将其抛向空中。在水中威力更强；被围攻时，你脚下也会喷出一道。",
+    "contexts": [
+      "Every 5.1s, a geyser bursts up under the thickest crowds near you for 34 damage, throwing them in the air. Stronger in water; swarmed, one bursts at your feet.",
+      "Every 4.8s, a geyser bursts up under the thickest crowds near you for 44 damage, throwing them in the air. Stronger in water; swarmed, one bursts at your feet."
+    ]
+  },
+  {
+    "en": " damage.",
+    "zh": " 点伤害。",
+    "contexts": [
+      "Every 6.3s, a wave of storm surges out, shocking all it passes for 35 damage. Runs far over water, soon dies on land.",
+      "Every 6.0s, a wave of storm surges out, shocking all it passes for 42 damage. Runs far over water, soon dies on land."
+    ]
+  },
+  {
+    "en": " damage. A Skipstone that's done comes off it at someone new.",
+    "zh": " 点伤害。耗尽弹跳的跳石会从石标处反弹向新的敌人。",
+    "contexts": [
+      "Raises a cairn where the crowd is, for 6.5s: it slows all near it and shakes them for 13 damage. A Skipstone that's done comes off it at someone new.",
+      "Raises a cairn where the crowd is, for 7.0s: it slows all near it and shakes them for 17 damage. A Skipstone that's done comes off it at someone new."
+    ]
+  },
+  {
+    "en": " damage. It skips on to ",
+    "zh": " 点伤害，随后弹跳向至多 ",
+    "contexts": [
+      "Slings a stone at the nearest foe for 24 damage. It skips on to 2 more, a quarter weaker each time.",
+      "Slings a stone at the nearest foe for 30 damage. It skips on to 2 more, a quarter weaker each time."
+    ]
+  },
+  {
+    "en": " damage. Runs far over water, soon dies on land.",
+    "zh": " 点伤害。在水面扩散极远，在陆地迅速消散。",
+    "contexts": [
+      "Every 6.3s, a wave of storm surges out, shocking all it passes for 35 damage. Runs far over water, soon dies on land.",
+      "Every 6.0s, a wave of storm surges out, shocking all it passes for 42 damage. Runs far over water, soon dies on land."
+    ]
+  },
+  {
+    "en": " familiars in all.",
+    "zh": "只魔宠。",
+    "contexts": [
+      "An ember spirit follows you. Every 1.9s it hurls a heavy fireball that bursts for 76 damage. A wider burst. Two familiars in all.",
+      "An ember spirit follows you. Every 1.7s it hurls a heavy fireball that bursts for 85 damage. A wider burst. Two familiars in all."
+    ]
+  },
+  {
+    "en": " fireflies drift around you and dart at foes for ",
+    "zh": " 只萤火虫围绕你飞舞，冲向敌人造成 ",
+    "contexts": [
+      "4 fireflies drift around you and dart at foes for 15 damage, rekindling after each hit.",
+      "4 fireflies drift around you and dart at foes for 20 damage, rekindling after each hit."
+    ]
+  },
+  {
+    "en": " fissures of fire run out ahead of you: ",
+    "zh": " 道火焰裂隙向前方蔓延：",
+    "contexts": [
+      "Every 6th blow, 5 fissures of fire run out ahead of you: 47 damage to all they pass.",
+      "Every 6th blow, 5 fissures of fire run out ahead of you: 62 damage to all they pass."
+    ]
+  },
+  {
+    "en": " foes for ",
+    "zh": " 名敌人之间跳跃，造成 ",
+    "contexts": [
+      "Hurls 1 bolt at the nearest foes for 22 damage.",
+      "Hurls 2 bolts at the nearest foes for 28 damage."
+    ]
+  },
+  {
+    "en": " geysers burst",
+    "zh": " 道地热泉",
+    "contexts": [
+      "Every 4.5s, 2 geysers burst up under the thickest crowds near you for 54 damage, throwing them in the air. Stronger in water; swarmed, one bursts at your feet.",
+      "Every 4.2s, 2 geysers burst up under the thickest crowds near you for 64 damage, throwing them in the air. Stronger in water; swarmed, one bursts at your feet."
+    ]
+  },
+  {
+    "en": " hot coals ahead of you: ",
+    "zh": " 块炽热煤块：",
+    "contexts": [
+      "Flings 6 hot coals ahead of you: 24 damage where each lands, and it leaves the ground burning.",
+      "Flings 7 hot coals ahead of you: 32 damage where each lands, and it leaves the ground burning."
+    ]
+  },
+  {
+    "en": " into the thick of the rest: ",
+    "zh": " 掷入敌群中央：对落点处所有敌人造成 ",
+    "contexts": [
+      "Slings one of them into the thick of the rest: 34 damage to all it lands on. A foe too big to throw takes a heavy stone instead.",
+      "Slings one of them into the thick of the rest: 43 damage to all it lands on. A foe too big to throw takes a heavy stone instead."
+    ]
+  },
+  {
+    "en": " meteors fall",
+    "zh": " 颗流星坠落",
+    "contexts": [
+      "Every 2.8s, two meteors fall on the thickest crowds near you for 66 damage.",
+      "Every 2.8s, two meteors fall on the thickest crowds near you for 78 damage."
+    ]
+  },
+  {
+    "en": " more, a quarter weaker each time.",
+    "zh": " 个额外目标，每次弹跳伤害递减 25%。",
+    "contexts": [
+      "Slings a stone at the nearest foe for 24 damage. It skips on to 2 more, a quarter weaker each time.",
+      "Slings a stone at the nearest foe for 30 damage. It skips on to 2 more, a quarter weaker each time."
+    ]
+  },
+  {
+    "en": " of molten slag rise behind the thickest crowd near you and slam through it for ",
+    "zh": "熔渣之臂从你附近最密集的敌群身后升起并砸穿它们，造成 ",
+    "contexts": [
+      "Every 9.6s, an arm of molten slag rise behind the thickest crowd near you and slam through it for 96 damage.",
+      "Every 9.2s, an arm of molten slag rise behind the thickest crowd near you and slam through it for 122 damage."
+    ]
+  },
+  {
+    "en": " of them",
+    "zh": " 个敌人",
+    "contexts": [
+      "LMB at full Heat: spend it all. Vein: More of them, forking, and the ground burns along them. 1000 damage where they erupt.",
+      "Slings one of them into the thick of the rest: 34 damage to all it lands on. A foe too big to throw takes a heavy stone instead."
+    ]
+  },
+  {
+    "en": " on the thickest crowds near you for ",
+    "zh": "，砸向附近最密集的敌群，造成 ",
+    "contexts": [
+      "Every 3.2s, a meteor falls on the thickest crowds near you for 42 damage.",
+      "Every 3.2s, a meteor falls on the thickest crowds near you for 54 damage."
+    ]
+  },
+  {
+    "en": " orbs of lightning curl out, shocking all they pass for ",
+    "zh": " 枚雷暴法球螺旋飞出，对途经目标造成 ",
+    "contexts": [
+      "Every 5.4s, 4 orbs of lightning curl out, shocking all they pass for 19 damage and arcing to Shocked foes. Wider over water.",
+      "Every 5.2s, 4 orbs of lightning curl out, shocking all they pass for 25 damage and arcing to Shocked foes. Wider over water."
+    ]
+  },
+  {
+    "en": " runestones circle you, striking foes for ",
+    "zh": " 枚符文石环绕你，撞击敌人造成 ",
+    "contexts": [
+      "2 runestones circle you, striking foes for 11 damage.",
+      "3 runestones circle you, striking foes for 16 damage."
+    ]
+  },
+  {
+    "en": " stones in a cone, ",
+    "zh": " 颗石子，每颗造成 ",
+    "contexts": [
+      "Empties the pouch at the nearest foe: 6 stones in a cone, 36 damage each.",
+      "Empties the pouch at the nearest foe: 6 stones in a cone, 46 damage each."
+    ]
+  },
+  {
+    "en": " stones thrown out all round for ",
+    "zh": " 颗石子，各自造成 ",
+    "contexts": [
+      "Each foe he kills adds a stone to it. At 36, they all come back: 130 damage around him, and 24 stones thrown out all round for 49.",
+      "Each foe he kills adds a stone to it. At 36, they all come back: 170 damage around him, and 24 stones thrown out all round for 64."
+    ]
+  },
+  {
+    "en": " the toughest foe near you: it takes ",
+    "zh": "你附近最强的敌人：它受到的伤害提高 ",
+    "contexts": [
+      "A brand marks the toughest foe near you: it takes 20% more damage, and explodes for 55 when it dies.",
+      "A brand marks the toughest foe near you: it takes 20% more damage, and explodes for 70 when it dies."
+    ]
+  },
+  {
+    "en": " they hit.",
+    "zh": " 个击中的敌人。",
+    "contexts": [
+      "Empties the pouch at the nearest foe: 8 stones in a cone, 56 damage each. They go through the first one they hit.",
+      "Empties the pouch at the nearest foe: 8 stones in a cone, 66 damage each. They go through the first one they hit."
+    ]
+  },
+  {
+    "en": " through foes, steering as you run, for ",
+    "zh": " 穿梭于敌群中并可转向控制，对每名敌人造成 ",
+    "contexts": [
+      "L Shift: charge through foes, steering as you run, for 24 damage each, taking 60% less. Press again to slam for 64.",
+      "L Shift: charge through foes, steering as you run, for 32 damage each, taking 60% less. Press again to slam for 84."
+    ]
+  },
+  {
+    "en": " up under the thickest crowds near you for ",
+    "zh": "在你附近最密集的敌群脚下喷出，造成 ",
+    "contexts": [
+      "Every 5.1s, a geyser bursts up under the thickest crowds near you for 34 damage, throwing them in the air. Stronger in water; swarmed, one bursts at your feet.",
+      "Every 4.8s, a geyser bursts up under the thickest crowds near you for 44 damage, throwing them in the air. Stronger in water; swarmed, one bursts at your feet."
+    ]
+  },
+  {
+    "en": " when it dies.",
+    "zh": "（目标死亡时）。",
+    "contexts": [
+      "A brand marks the toughest foe near you: it takes 20% more damage, and explodes for 55 when it dies.",
+      "A brand marks the toughest foe near you: it takes 20% more damage, and explodes for 70 when it dies."
+    ]
+  },
+  {
+    "en": "% chance to burst for ",
+    "zh": "% 概率引爆造成 ",
+    "contexts": [
+      "Every 8.2s, the thickest crowd boils for 6s. Foes slain have a 40% chance to burst for 21 damage, more in water.",
+      "Every 7.8s, the thickest crowd boils for 6s. Foes slain have a 45% chance to burst for 28 damage, more in water."
+    ]
+  },
+  {
+    "en": "% chance to burst into flame, dealing ",
+    "zh": "% 的几率爆燃，造成 ",
+    "contexts": [
+      "Slain foes have a 16% chance to burst into flame, dealing 25 damage nearby.",
+      "Slain foes have a 22% chance to burst into flame, dealing 35 damage nearby."
+    ]
+  },
+  {
+    "en": "% damage",
+    "zh": "% 伤害",
+    "contexts": [
+      "+12% damage.",
+      "+12% damage."
+    ]
+  },
+  {
+    "en": "% faster for ",
+    "zh": "% 加速，持续 ",
+    "contexts": [
+      "Every 7.0s while moving, you surge 34% faster for 1.5s, leaving a trail of steam that deals 19 damage twice a second.",
+      "Every 6.6s while moving, you surge 38% faster for 1.6s, leaving a trail of steam that deals 26 damage twice a second."
+    ]
+  },
+  {
+    "en": "% less damage. Every ",
+    "zh": "%。每 ",
+    "contexts": [
+      "When surrounded or badly hurt, a bellow shoves foes back, and for 4.4s you take 31% less damage. Every 24s.",
+      "When surrounded or badly hurt, a bellow shoves foes back, and for 4.8s you take 34% less damage. Every 23s."
+    ]
+  },
+  {
+    "en": "% less. Press again to slam for ",
+    "zh": "%。再次按下重击地面，造成 ",
+    "contexts": [
+      "L Shift: charge through foes, steering as you run, for 24 damage each, taking 60% less. Press again to slam for 64.",
+      "L Shift: charge through foes, steering as you run, for 32 damage each, taking 60% less. Press again to slam for 84."
+    ]
+  },
+  {
+    "en": "% more and your skills recharge a third faster.",
+    "zh": "%，且技能冷却速度提高三分之一。",
+    "contexts": [
+      "Every 22s when foes press in, a roar: for 5.5s all your blows deal 24% more and your skills recharge a third faster.",
+      "Every 21s when foes press in, a roar: for 6.0s all your blows deal 28% more and your skills recharge a third faster."
+    ]
+  },
+  {
+    "en": "% more damage for ",
+    "zh": "%，持续 ",
+    "contexts": [
+      "Every 4.6s, thunder cracks around you: 68 damage, and foes are stunned for 1.1s. Wider. They take 25% more damage for 3s.",
+      "Every 4.5s, thunder cracks around you: 76 damage, and foes are stunned for 1.1s. Wider. They take 25% more damage for 3s."
+    ]
+  },
+  {
+    "en": "% more damage, and explodes for ",
+    "zh": "%，并在其死亡时爆炸，造成 ",
+    "contexts": [
+      "A brand marks the toughest foe near you: it takes 20% more damage, and explodes for 55 when it dies.",
+      "A brand marks the toughest foe near you: it takes 20% more damage, and explodes for 70 when it dies."
+    ]
+  },
+  {
+    "en": "% move speed",
+    "zh": "% 移动速度",
+    "contexts": []
+  },
+  {
+    "en": "% of your max health in damage, then bursts for ",
+    "zh": "% 最大生命等量的伤害，随后爆炸，造成 ",
+    "contexts": [
+      "A shell of ash soaks 17% of your max health in damage, then bursts for 28 around you. Reforms after 10.2s.",
+      "A shell of ash soaks 19% of your max health in damage, then bursts for 36 around you. Reforms after 9.4s."
+    ]
+  },
+  {
+    "en": "% of your max health per foe, up to ",
+    "zh": "% 最大生命值的生命回复（受击中敌人数量加成，至多 ",
+    "contexts": [
+      "Swings the shovel in a wide arc ahead of you for 45 damage, shoving foes aside, wider. Heals 1% of your max health per foe, up to 3 a swing.",
+      "Swings the shovel in a wide arc ahead of you for 54 damage, shoving foes aside, wider. Heals 1.5% of your max health per foe, up to 3 a swing."
+    ]
+  },
+  {
+    "en": "% pickup range",
+    "zh": "% 拾取范围",
+    "contexts": []
+  },
+  {
+    "en": "(pointer: coarse)",
+    "zh": "(pointer: coarse)",
+    "contexts": []
+  },
+  {
+    "en": "+1 to every skill’s count: bolts, jumps, meteors, brands…",
+    "zh": "所有技能的数量 +1：闪电、跳跃、流星、烙印……",
+    "contexts": [
+      "+1 to every skill’s count: bolts, jumps, meteors, brands…",
+      "+1 to every skill’s count: bolts, jumps, meteors, brands…"
+    ]
+  },
+  {
+    "en": "+10% area for novas, stones and flames.",
+    "zh": "新星、符文石与火焰的范围 +10%。",
+    "contexts": [
+      "+10% area for novas, stones and flames.",
+      "+10% area for novas, stones and flames."
+    ]
+  },
+  {
+    "en": "+12% damage.",
+    "zh": "伤害 +12%。",
+    "contexts": [
+      "+12% damage.",
+      "+12% damage."
+    ]
+  },
+  {
+    "en": "+20 max health.",
+    "zh": "最大生命 +20。",
+    "contexts": [
+      "+20 max health.",
+      "+20 max health."
+    ]
+  },
+  {
+    "en": "+35% shard pickup range.",
+    "zh": "碎片拾取范围 +35%。",
+    "contexts": [
+      "+35% shard pickup range.",
+      "+35% shard pickup range."
+    ]
+  },
+  {
+    "en": "+8% movement speed.",
+    "zh": "移动速度 +8%。",
+    "contexts": [
+      "+8% movement speed.",
+      "+8% movement speed."
+    ]
+  },
+  {
+    "en": ", and for ",
+    "zh": "；在 ",
+    "contexts": [
+      "When surrounded or badly hurt, a bellow shoves foes back, and for 4.4s you take 31% less damage. Every 24s.",
+      "When surrounded or badly hurt, a bellow shoves foes back, and for 4.8s you take 34% less damage. Every 23s."
+    ]
+  },
+  {
+    "en": ", burning away and re-forming there, untouched as you go. ",
+    "zh": "，身形化为灰烬并在目标处重聚，位移途中处于无敌。",
+    "contexts": [
+      "Space: step towards the cursor, as far as it is, burning away and re-forming there, untouched as you go. 25s cooldown.",
+      "Space: step towards the cursor, as far as it is, burning away and re-forming there, untouched as you go. 22s cooldown."
+    ]
+  },
+  {
+    "en": ", further out",
+    "zh": "，范围更远",
+    "contexts": [
+      "When foes close in, spins with the shovel out for 4.4s: 21 damage about you with every turn, further out. You can keep moving.",
+      "When foes close in, spins with the shovel out for 4.7s: 25 damage about you with every turn, further out. You can keep moving."
+    ]
+  },
+  {
+    "en": ", over everything, and bring the shovel down: ",
+    "zh": "，越过一切，并将铲刃砸下：落点造成 ",
+    "contexts": [
+      "Space: leap towards the cursor, over everything, and bring the shovel down: 80 damage where you land. Every 7.1s.",
+      "Space: leap towards the cursor, over everything, and bring the shovel down: 104 damage where you land. Every 6.7s."
+    ]
+  },
+  {
+    "en": ", piercing 2",
+    "zh": "，可穿透 2 名敌人",
+    "contexts": [
+      "Hurls 4 bolts at the nearest foes for 52 damage, piercing 2.",
+      "Hurls 4 bolts at the nearest foes for 58 damage, piercing 2."
+    ]
+  },
+  {
+    "en": ", slowing them",
+    "zh": "，并使其减速",
+    "contexts": [
+      "Tips the firebox out: a pool of burning coals burns all in it for 100 damage a second, for 6.8s, slowing them.",
+      "Tips the firebox out: a pool of burning coals burns all in it for 113 damage a second, for 7.1s, slowing them."
+    ]
+  },
+  {
+    "en": ", stunning them",
+    "zh": "，击晕敌人",
+    "contexts": [
+      "L Shift: charge through foes, steering as you run, for 40 damage each, taking 60% less. Press again to slam for 104, stunning them.",
+      "L Shift: charge through foes, steering as you run, for 48 damage each, taking 60% less. Press again to slam for 124, stunning them."
+    ]
+  },
+  {
+    "en": ", stunning them and splitting the ground",
+    "zh": "，击晕敌人并撕裂大地",
+    "contexts": [
+      "L Shift: charge through foes, steering as you run, for 64 damage each, taking 60% less. Press again to slam for 164, stunning them and splitting the ground.",
+      "L Shift: charge through foes, steering as you run, for 72 damage each, taking 60% less. Press again to slam for 184, stunning them and splitting the ground."
+    ]
+  },
+  {
+    "en": ", stunning what it catches",
+    "zh": "，眩晕命中的敌人",
+    "contexts": [
+      "Brings the shovel down ahead of you: 112 damage in a ring of broken ground, stunning what it catches.",
+      "Brings the shovel down ahead of you: 134 damage in a ring of broken ground, stunning what it catches."
+    ]
+  },
+  {
+    "en": ", they all come back: ",
+    "zh": " 颗时将全部收回：对自身周围造成 ",
+    "contexts": [
+      "Each foe he kills adds a stone to it. At 36, they all come back: 130 damage around him, and 24 stones thrown out all round for 49.",
+      "Each foe he kills adds a stone to it. At 36, they all come back: 170 damage around him, and 24 stones thrown out all round for 64."
+    ]
+  },
+  {
+    "en": ", wider",
+    "zh": "，范围更广",
+    "contexts": [
+      "Swings the shovel in a wide arc ahead of you for 45 damage, shoving foes aside, wider. Heals 1% of your max health per foe, up to 3 a swing.",
+      "Swings the shovel in a wide arc ahead of you for 54 damage, shoving foes aside, wider. Heals 1.5% of your max health per foe, up to 3 a swing."
+    ]
+  },
+  {
+    "en": ", wider and harder",
+    "zh": "，范围更广且伤害更高",
+    "contexts": [
+      "Swings the shovel in a wide arc ahead of you for 72 damage, shoving foes aside, wider and harder. Heals 2% of your max health per foe, up to 3 a swing.",
+      "Swings the shovel in a wide arc ahead of you for 81 damage, shoving foes aside, wider and harder. Heals 2% of your max health per foe, up to 3 a swing."
+    ]
+  },
+  {
+    "en": ". Every ",
+    "zh": "。每 ",
+    "contexts": [
+      "When surrounded or badly hurt, a bellow shoves foes back, and for 4.4s you take 31% less damage. Every 24s.",
+      "When surrounded or badly hurt, a bellow shoves foes back, and for 4.8s you take 34% less damage. Every 23s."
+    ]
+  },
+  {
+    "en": ". Nothing touches him as he goes. Every ",
+    "zh": "。翻滚途中处于无敌。每 ",
+    "contexts": [
+      "Space: roll towards the cursor. Nothing touches him as he goes. Every 8.0s.",
+      "Space: roll towards the cursor. Nothing touches him as he goes. Every 7.5s."
+    ]
+  },
+  {
+    "en": ". Whatever steps on one takes ",
+    "zh": "。踩中绊索石的敌人承受 ",
+    "contexts": [
+      "Leaves stones behind him as he goes, up to 6. Whatever steps on one takes 23 damage and goes down for a moment, with those beside it.",
+      "Leaves stones behind him as he goes, up to 7. Whatever steps on one takes 30 damage and goes down for a moment, with those beside it."
+    ]
+  },
+  {
+    "en": ". You can keep moving.",
+    "zh": "。你可以继续移动。",
+    "contexts": [
+      "When foes close in, spins with the shovel out for 3.8s: 13 damage about you with every turn. You can keep moving.",
+      "When foes close in, spins with the shovel out for 4.1s: 17 damage about you with every turn. You can keep moving."
+    ]
+  },
+  {
+    "en": ": charge",
+    "zh": "：冲锋",
+    "contexts": [
+      "L Shift: charge through foes, steering as you run, for 24 damage each, taking 60% less. Press again to slam for 64.",
+      "L Shift: charge through foes, steering as you run, for 32 damage each, taking 60% less. Press again to slam for 84."
+    ]
+  },
+  {
+    "en": ": leap towards the cursor",
+    "zh": "：向光标方向跃迁",
+    "contexts": [
+      "Space: leap towards the cursor, over everything, and bring the shovel down: 80 damage where you land. Every 7.1s.",
+      "Space: leap towards the cursor, over everything, and bring the shovel down: 104 damage where you land. Every 6.7s."
+    ]
+  },
+  {
+    "en": ": roll towards the cursor",
+    "zh": "：朝指针方向翻滚",
+    "contexts": [
+      "Space: roll towards the cursor. Nothing touches him as he goes. Every 8.0s.",
+      "Space: roll towards the cursor. Nothing touches him as he goes. Every 7.5s."
+    ]
+  },
+  {
+    "en": ": spend it all. ",
+    "zh": "：耗尽全部积热。",
+    "contexts": [
+      "LMB at full Heat: spend it all. Fissure: A few cracks run out to the crowds nearest him, and erupt. 350 damage where they erupt.",
+      "LMB at full Heat: spend it all. Vein: More of them, forking, and the ground burns along them. 1000 damage where they erupt."
+    ]
+  },
+  {
+    "en": ": step towards the cursor, as far as it is",
+    "zh": "：朝指针方向瞬间移动",
+    "contexts": [
+      "Space: step towards the cursor, as far as it is, burning away and re-forming there, untouched as you go. 25s cooldown.",
+      "Space: step towards the cursor, as far as it is, burning away and re-forming there, untouched as you go. 22s cooldown."
+    ]
+  },
+  {
+    "en": "A brand marks",
+    "zh": "一道烙印会标记",
+    "contexts": [
+      "A brand marks the toughest foe near you: it takes 20% more damage, and explodes for 55 when it dies.",
+      "A brand marks the toughest foe near you: it takes 20% more damage, and explodes for 70 when it dies."
+    ]
+  },
+  {
+    "en": "A crackling field around you slows foes inside by ",
+    "zh": "一道噼啪作响的力场环绕你，使范围内敌人减速 ",
+    "contexts": [
+      "A crackling field around you slows foes inside by 20%.",
+      "A crackling field around you slows foes inside by 24%."
+    ]
+  },
+  {
+    "en": "A few cracks run out to the crowds nearest him, and erupt.",
+    "zh": "数道裂缝向最近的敌群蔓延并喷发。",
+    "contexts": [
+      "LMB at full Heat: spend it all. Fissure: A few cracks run out to the crowds nearest him, and erupt. 350 damage where they erupt.",
+      "LMB at full Heat: spend it all. Fissure: A few cracks run out to the crowds nearest him, and erupt. 350 damage where they erupt."
+    ]
+  },
+  {
+    "en": "A shell of ash soaks ",
+    "zh": "灰烬外壳会吸收 ",
+    "contexts": [
+      "A shell of ash soaks 17% of your max health in damage, then bursts for 28 around you. Reforms after 10.2s.",
+      "A shell of ash soaks 19% of your max health in damage, then bursts for 36 around you. Reforms after 9.4s."
+    ]
+  },
+  {
+    "en": "Across most of the screen. It throws foes up, and a spire of coal bursts from the biggest crowd.",
+    "zh": "横扫大半个屏幕。将敌人掀翻击飞，并在最密集的敌群中喷发煤炭石笋。",
+    "contexts": [
+      "LMB at full Heat: spend it all. Seam: Across most of the screen. It throws foes up, and a spire of coal bursts from the biggest crowd. 2800 damage where they erupt.",
+      "LMB at full Heat: spend it all. Seam: Across most of the screen. It throws foes up, and a spire of coal bursts from the biggest crowd. 2800 damage where they erupt."
+    ]
+  },
+  {
+    "en": "An ember spirit follows you. Every ",
+    "zh": "一只余烬之灵跟随你。每 ",
+    "contexts": [
+      "An ember spirit follows you. Every 2.6s it hurls a heavy fireball that bursts for 31 damage.",
+      "An ember spirit follows you. Every 2.5s it hurls a heavy fireball that bursts for 40 damage."
+    ]
+  },
+  {
+    "en": "Blasts a long jet of furnace fire ahead of you: ",
+    "zh": "向身前喷出一道长长的炉火：",
+    "contexts": [
+      "Blasts a long jet of furnace fire ahead of you: 672 damage in all to what it catches, and the kick shoves you back.",
+      "Blasts a long jet of furnace fire ahead of you: 924 damage in all to what it catches, and the kick shoves you back."
+    ]
+  },
+  {
+    "en": "Brings the shovel down ahead of you: ",
+    "zh": "在身前砸下铲刃：",
+    "contexts": [
+      "Brings the shovel down ahead of you: 68 damage in a ring of broken ground.",
+      "Brings the shovel down ahead of you: 90 damage in a ring of broken ground."
+    ]
+  },
+  {
+    "en": "Drags the shovel through the ground: a line of fire runs ",
+    "zh": "拖动铲刃划过地面：一道火线",
+    "contexts": [
+      "Drags the shovel through the ground: a line of fire runs ahead of you, 31 damage to all it passes, and it keeps burning.",
+      "Drags the shovel through the ground: a line of fire runs ahead of you, 40 damage to all it passes, and it keeps burning."
+    ]
+  },
+  {
+    "en": "Each foe he kills adds a stone to it. At ",
+    "zh": "每次击杀敌人为其增添一块石子。累积至 ",
+    "contexts": [
+      "Each foe he kills adds a stone to it. At 36, they all come back: 130 damage around him, and 24 stones thrown out all round for 49.",
+      "Each foe he kills adds a stone to it. At 36, they all come back: 170 damage around him, and 24 stones thrown out all round for 64."
+    ]
+  },
+  {
+    "en": "Empties the pouch at the nearest foe: ",
+    "zh": "朝最近的敌人倾倒弹袋：呈锥形散落 ",
+    "contexts": [
+      "Empties the pouch at the nearest foe: 6 stones in a cone, 36 damage each.",
+      "Empties the pouch at the nearest foe: 6 stones in a cone, 46 damage each."
+    ]
+  },
+  {
+    "en": "From edge to edge of the screen. Spires at every crowd, and the ground left burning.",
+    "zh": "从屏幕一端横贯至另一端。在每个敌群处冲起石笋，并在地面留下烈焰焦土。",
+    "contexts": [
+      "LMB at full Heat: spend it all. Mother Lode: From edge to edge of the screen. Spires at every crowd, and the ground left burning. 6500 damage where they erupt.",
+      "LMB at full Heat: spend it all. Mother Lode: From edge to edge of the screen. Spires at every crowd, and the ground left burning. 6500 damage where they erupt."
+    ]
+  },
+  {
+    "en": "Kindred Flame",
+    "zh": "同源之焰",
+    "contexts": []
+  },
+  {
+    "en": "L Ctrl",
+    "zh": "左控制键",
+    "contexts": []
+  },
+  {
+    "en": "L Shift",
+    "zh": "左 Shift",
+    "contexts": [
+      "L Shift: charge through foes, steering as you run, for 24 damage each, taking 60% less. Press again to slam for 64.",
+      "L Shift: charge through foes, steering as you run, for 32 damage each, taking 60% less. Press again to slam for 84."
+    ]
+  },
+  {
+    "en": "Leaves stones behind him as he goes, up to ",
+    "zh": "沿途在身后留下绊索石，至多存在 ",
+    "contexts": [
+      "Leaves stones behind him as he goes, up to 6. Whatever steps on one takes 23 damage and goes down for a moment, with those beside it.",
+      "Leaves stones behind him as he goes, up to 7. Whatever steps on one takes 30 damage and goes down for a moment, with those beside it."
+    ]
+  },
+  {
+    "en": "Level-ups offer 4 boons instead of 3",
+    "zh": "升级时提供 4 个恩赐，而非 3 个",
+    "contexts": [
+      "Level-ups offer 4 boons instead of 3",
+      "Level-ups offer 4 boons instead of 3"
+    ]
+  },
+  {
+    "en": "Lightning leaps between ",
+    "zh": "闪电在 ",
+    "contexts": [
+      "Lightning leaps between 3 foes for 22 damage each.",
+      "Lightning leaps between 4 foes for 30 damage each."
+    ]
+  },
+  {
+    "en": "Linked. You can sign in with either now.",
+    "zh": "已关联。现在可使用任意一种方式登录。",
+    "contexts": []
+  },
+  {
+    "en": "Lodges a stone in the toughest foe near. ",
+    "zh": "将一枚爆裂石楔入附近最强韧的敌人体内。",
+    "contexts": [
+      "Lodges a stone in the toughest foe near. 2.4s later it bursts: 82 damage around it, half as much again to that foe. The last hit of a Skipstone lodges a weaker one.",
+      "Lodges a stone in the toughest foe near. 2.4s later it bursts: 104 damage around it, half as much again to that foe. The last hit of a Skipstone lodges a weaker one."
+    ]
+  },
+  {
+    "en": "More of them, forking, and the ground burns along them.",
+    "zh": "裂缝数量增多且会分叉，沿途地面持续燃烧。",
+    "contexts": [
+      "LMB at full Heat: spend it all. Vein: More of them, forking, and the ground burns along them. 1000 damage where they erupt.",
+      "LMB at full Heat: spend it all. Vein: More of them, forking, and the ground burns along them. 1000 damage where they erupt."
+    ]
+  },
+  {
+    "en": "Mother Lode",
+    "zh": "富矿脉",
+    "contexts": [
+      "LMB at full Heat: spend it all. Mother Lode: From edge to edge of the screen. Spires at every crowd, and the ground left burning. 6500 damage where they erupt.",
+      "LMB at full Heat: spend it all. Mother Lode: From edge to edge of the screen. Spires at every crowd, and the ground left burning. 6500 damage where they erupt."
+    ]
+  },
+  {
+    "en": "Once a run, rise from death at half health",
+    "zh": "每局一次，死亡时以半生命复活",
+    "contexts": [
+      "Once a run, rise from death at half health",
+      "Once a run, rise from death at half health"
+    ]
+  },
+  {
+    "en": "Phoenix’s Favour",
+    "zh": "不死鸟庇护",
+    "contexts": []
+  },
+  {
+    "en": "Potions heal twice as much",
+    "zh": "药水治疗量翻倍",
+    "contexts": [
+      "Potions heal twice as much",
+      "Potions heal twice as much"
+    ]
+  },
+  {
+    "en": "R Ctrl",
+    "zh": "右控制键",
+    "contexts": []
+  },
+  {
+    "en": "R Shift",
+    "zh": "右换档键",
+    "contexts": []
+  },
+  {
+    "en": "Raises a cairn where the crowd is, for ",
+    "zh": "在敌群密集处升起一座石标，持续 ",
+    "contexts": [
+      "Raises a cairn where the crowd is, for 6.5s: it slows all near it and shakes them for 13 damage. A Skipstone that's done comes off it at someone new.",
+      "Raises a cairn where the crowd is, for 7.0s: it slows all near it and shakes them for 17 damage. A Skipstone that's done comes off it at someone new."
+    ]
+  },
+  {
+    "en": "Regenerate 0.6 health per second.",
+    "zh": "每秒回复 0.6 点生命。",
+    "contexts": [
+      "Regenerate 0.6 health per second.",
+      "Regenerate 0.6 health per second."
+    ]
+  },
+  {
+    "en": "Sign-in cancelled.",
+    "zh": "登录已取消。",
+    "contexts": []
+  },
+  {
+    "en": "Sign-in failed. Try again in a moment.",
+    "zh": "登录失败，请稍后重试。",
+    "contexts": []
+  },
+  {
+    "en": "Sign-in failed. Try again.",
+    "zh": "登录失败，请重试。",
+    "contexts": []
+  },
+  {
+    "en": "Signed in. Your progress is kept.",
+    "zh": "已登录。你的进度已保存。",
+    "contexts": []
+  },
+  {
+    "en": "Skills recharge 7% faster.",
+    "zh": "技能冷却速度提高 7%。",
+    "contexts": [
+      "Skills recharge 7% faster.",
+      "Skills recharge 7% faster."
+    ]
+  },
+  {
+    "en": "Skims a stone at the nearest foe, ",
+    "zh": "朝最近的敌人掷出扁平跳石，",
+    "contexts": [
+      "Skims a stone at the nearest foe, along the ground and through everything on its line: 31 damage.",
+      "Skims a stone at the nearest foe, along the ground and through everything on its line: 40 damage."
+    ]
+  },
+  {
+    "en": "Slain foes have a ",
+    "zh": "被击杀的敌人有 ",
+    "contexts": [
+      "Slain foes have a 16% chance to burst into flame, dealing 25 damage nearby.",
+      "Slain foes have a 22% chance to burst into flame, dealing 35 damage nearby."
+    ]
+  },
+  {
+    "en": "Slings a stone at the nearest foe for ",
+    "zh": "用投索朝最近的敌人发射石块，造成 ",
+    "contexts": [
+      "Slings a stone at the nearest foe for 24 damage. It skips on to 2 more, a quarter weaker each time.",
+      "Slings a stone at the nearest foe for 30 damage. It skips on to 2 more, a quarter weaker each time."
+    ]
+  },
+  {
+    "en": "Stones rise around the thick of the crowd: ",
+    "zh": "在最密集的敌群周围升起环形石阵：对内部所有敌人造成 ",
+    "contexts": [
+      "Stones rise around the thick of the crowd: 52 damage to all inside, and none of them gets out for 3.9s. Then they fall in, for 116. A boss walks through it, hit all the same.",
+      "Stones rise around the thick of the crowd: 68 damage to all inside, and none of them gets out for 4.2s. Then they fall in, for 152. A boss walks through it, hit all the same."
+    ]
+  },
+  {
+    "en": "Swings the shovel in a wide arc ahead of you for ",
+    "zh": "挥动铲刃，在身前扫出宽阔的弧线，造成 ",
+    "contexts": [
+      "Swings the shovel in a wide arc ahead of you for 27 damage, shoving foes aside.",
+      "Swings the shovel in a wide arc ahead of you for 36 damage, shoving foes aside."
+    ]
+  },
+  {
+    "en": "Tap its button at full Heat",
+    "zh": "满积热时点击按键",
+    "contexts": []
+  },
+  {
+    "en": "Tap its button to charge",
+    "zh": "点击按键发起冲锋",
+    "contexts": []
+  },
+  {
+    "en": "Tap its button to leap the way you're heading",
+    "zh": "点击按钮，朝你前进的方向跃迁",
+    "contexts": []
+  },
+  {
+    "en": "Tap its button to roll the way you're heading",
+    "zh": "点击按键朝移动方向翻滚",
+    "contexts": []
+  },
+  {
+    "en": "Tap its button to step the way you're heading",
+    "zh": "点击按键朝移动方向闪步",
+    "contexts": []
+  },
+  {
+    "en": "That account is already linked to other progress.",
+    "zh": "该账号已关联至其他存档。",
+    "contexts": []
+  },
+  {
+    "en": "That sign-in isn’t available right now.",
+    "zh": "该登录方式暂不可用。",
+    "contexts": []
+  },
+  {
+    "en": "That sign-in took too long. Try again.",
+    "zh": "登录超时，请重试。",
+    "contexts": []
+  },
+  {
+    "en": "The big one: from the pile to the pouch to the whirl, then a boulder that rolls ",
+    "zh": "巨石终结技：从石堆到弹袋再到回旋聚力，随后掷出一块巨石滚滚 ",
+    "contexts": [
+      "The big one: from the pile to the pouch to the whirl, then a boulder that rolls through everything on its way for 142 damage.",
+      "The big one: from the pile to the pouch to the whirl, then a boulder that rolls through everything on its way for 184 damage."
+    ]
+  },
+  {
+    "en": "Throws a bola at the toughest foe near: ",
+    "zh": "朝附近最强韧的敌人掷出流星索：造成 ",
+    "contexts": [
+      "Throws a bola at the toughest foe near: 37 damage, and it and 2 beside it are bound where they stand for 1.8s. A boss is only slowed.",
+      "Throws a bola at the toughest foe near: 48 damage, and it and 2 beside it are bound where they stand for 2.0s. A boss is only slowed."
+    ]
+  },
+  {
+    "en": "Tips the firebox out: a pool of burning coals burns all in it for ",
+    "zh": "倾倒火箱：一池燃烧的煤炭灼烧其中的所有敌人，造成 ",
+    "contexts": [
+      "Tips the firebox out: a pool of burning coals burns all in it for 35 damage a second, for 5.3s.",
+      "Tips the firebox out: a pool of burning coals burns all in it for 48 damage a second, for 5.6s."
+    ]
+  },
+  {
+    "en": "When foes close in, spins with the shovel out for ",
+    "zh": "当敌人逼近时，挥铲旋转 ",
+    "contexts": [
+      "When foes close in, spins with the shovel out for 3.8s: 13 damage about you with every turn. You can keep moving.",
+      "When foes close in, spins with the shovel out for 4.1s: 17 damage about you with every turn. You can keep moving."
+    ]
+  },
+  {
+    "en": "When surrounded or badly hurt, a bellow shoves foes back",
+    "zh": "当被包围或身受重伤时，一声怒吼会击退敌人",
+    "contexts": [
+      "When surrounded or badly hurt, a bellow shoves foes back, and for 4.4s you take 31% less damage. Every 24s.",
+      "When surrounded or badly hurt, a bellow shoves foes back, and for 4.8s you take 34% less damage. Every 23s."
+    ]
+  },
+  {
+    "en": "Whirls the sling low around him: ",
+    "zh": "贴地低旋投索：对触及的所有敌人造成 ",
+    "contexts": [
+      "Whirls the sling low around him: 13 damage to all in reach, knocking them back.",
+      "Whirls the sling low around him: 16 damage to all in reach, knocking them back."
+    ]
+  },
+  {
+    "en": "You leave a trail of fire that deals ",
+    "zh": "你留下一条火焰轨迹，造成 ",
+    "contexts": [
+      "You leave a trail of fire that deals 14 damage twice a second to foes in it, for 3.0s.",
+      "You leave a trail of fire that deals 20 damage twice a second to foes in it, for 3.5s."
+    ]
+  },
+  {
+    "en": "You were signed out. Sign in again.",
+    "zh": "你已登出，请重新登录。",
+    "contexts": []
+  },
+  {
+    "en": "a geyser bursts",
+    "zh": "一道地热泉",
+    "contexts": [
+      "Every 5.1s, a geyser bursts up under the thickest crowds near you for 34 damage, throwing them in the air. Stronger in water; swarmed, one bursts at your feet.",
+      "Every 4.8s, a geyser bursts up under the thickest crowds near you for 44 damage, throwing them in the air. Stronger in water; swarmed, one bursts at your feet."
+    ]
+  },
+  {
+    "en": "a meteor falls",
+    "zh": "一颗流星坠落",
+    "contexts": [
+      "Every 3.2s, a meteor falls on the thickest crowds near you for 42 damage.",
+      "Every 3.2s, a meteor falls on the thickest crowds near you for 54 damage."
+    ]
+  },
+  {
+    "en": "ahead of you, ",
+    "zh": "延伸到前方，造成 ",
+    "contexts": [
+      "Drags the shovel through the ground: a line of fire runs ahead of you, 31 damage to all it passes, and it keeps burning.",
+      "Drags the shovel through the ground: a line of fire runs ahead of you, 40 damage to all it passes, and it keeps burning."
+    ]
+  },
+  {
+    "en": "along the ground and through everything on its line: ",
+    "zh": "贴地滑行并贯穿路径上的一切：造成 ",
+    "contexts": [
+      "Skims a stone at the nearest foe, along the ground and through everything on its line: 31 damage.",
+      "Skims a stone at the nearest foe, along the ground and through everything on its line: 40 damage."
+    ]
+  },
+  {
+    "en": "an arm",
+    "zh": "一只",
+    "contexts": [
+      "Every 9.6s, an arm of molten slag rise behind the thickest crowd near you and slam through it for 96 damage.",
+      "Every 9.2s, an arm of molten slag rise behind the thickest crowd near you and slam through it for 122 damage."
+    ]
+  },
+  {
+    "en": "one of them",
+    "zh": "一个敌人",
+    "contexts": [
+      "Slings one of them into the thick of the rest: 34 damage to all it lands on. A foe too big to throw takes a heavy stone instead.",
+      "Slings one of them into the thick of the rest: 43 damage to all it lands on. A foe too big to throw takes a heavy stone instead."
+    ]
+  },
+  {
+    "en": "s all your blows deal ",
+    "zh": " 秒内，你所有攻击的伤害提高 ",
+    "contexts": [
+      "Every 22s when foes press in, a roar: for 5.5s all your blows deal 24% more and your skills recharge a third faster.",
+      "Every 21s when foes press in, a roar: for 6.0s all your blows deal 28% more and your skills recharge a third faster."
+    ]
+  },
+  {
+    "en": "s cooldown.",
+    "zh": " 秒冷却。",
+    "contexts": [
+      "Space: step towards the cursor, as far as it is, burning away and re-forming there, untouched as you go. 25s cooldown.",
+      "Space: step towards the cursor, as far as it is, burning away and re-forming there, untouched as you go. 22s cooldown."
+    ]
+  },
+  {
+    "en": "s it hurls a heavy fireball that bursts for ",
+    "zh": " 秒，它会掷出一颗重型火球，爆炸造成 ",
+    "contexts": [
+      "An ember spirit follows you. Every 2.6s it hurls a heavy fireball that bursts for 31 damage.",
+      "An ember spirit follows you. Every 2.5s it hurls a heavy fireball that bursts for 40 damage."
+    ]
+  },
+  {
+    "en": "s later it bursts: ",
+    "zh": " 秒后爆裂：对周围造成 ",
+    "contexts": [
+      "Lodges a stone in the toughest foe near. 2.4s later it bursts: 82 damage around it, half as much again to that foe. The last hit of a Skipstone lodges a weaker one.",
+      "Lodges a stone in the toughest foe near. 2.4s later it bursts: 104 damage around it, half as much again to that foe. The last hit of a Skipstone lodges a weaker one."
+    ]
+  },
+  {
+    "en": "s when foes press in, a roar: for ",
+    "zh": " 秒，当敌人逼近时发出一声怒吼：在 ",
+    "contexts": [
+      "Every 22s when foes press in, a roar: for 5.5s all your blows deal 24% more and your skills recharge a third faster.",
+      "Every 21s when foes press in, a roar: for 6.0s all your blows deal 28% more and your skills recharge a third faster."
+    ]
+  },
+  {
+    "en": "s while moving, you surge ",
+    "zh": " 秒（移动时），你获得 ",
+    "contexts": [
+      "Every 7.0s while moving, you surge 34% faster for 1.5s, leaving a trail of steam that deals 19 damage twice a second.",
+      "Every 6.6s while moving, you surge 38% faster for 1.6s, leaving a trail of steam that deals 26 damage twice a second."
+    ]
+  },
+  {
+    "en": "s you take ",
+    "zh": " 秒内，你受到的伤害降低 ",
+    "contexts": [
+      "When surrounded or badly hurt, a bellow shoves foes back, and for 4.4s you take 31% less damage. Every 24s.",
+      "When surrounded or badly hurt, a bellow shoves foes back, and for 4.8s you take 34% less damage. Every 23s."
+    ]
+  },
+  {
+    "en": "s, a blast of ash deals ",
+    "zh": " 秒，一股灰烬冲击造成 ",
+    "contexts": [
+      "Every 4.2s, a blast of ash deals 22 damage around you and shoves foes back.",
+      "Every 3.8s, a blast of ash deals 32 damage around you and shoves foes back."
+    ]
+  },
+  {
+    "en": "s, a fireball bursts on the thickest crowd for ",
+    "zh": " 秒朝最密集的敌群引爆一枚火球，造成 ",
+    "contexts": [
+      "Every 7.2s, a fireball bursts on the thickest crowd for 82 damage, setting it burning; lightning chains to 4 Burning foes.",
+      "Every 6.8s, a fireball bursts on the thickest crowd for 104 damage, setting it burning; lightning chains to 5 Burning foes."
+    ]
+  },
+  {
+    "en": "s, a wave of storm surges out, shocking all it passes for ",
+    "zh": " 秒爆发一道风暴狂潮，电击途经的所有敌人造成 ",
+    "contexts": [
+      "Every 6.3s, a wave of storm surges out, shocking all it passes for 35 damage. Runs far over water, soon dies on land.",
+      "Every 6.0s, a wave of storm surges out, shocking all it passes for 42 damage. Runs far over water, soon dies on land."
+    ]
+  },
+  {
+    "en": "s, a wave snaps out the way you face, dealing ",
+    "zh": " 秒，一道冲击波朝你面向的方向弹出，造成 ",
+    "contexts": [
+      "Every 3.0s, a wave snaps out the way you face, dealing 10 damage and hurling foes aside.",
+      "Every 2.8s, a wave snaps out the way you face, dealing 14 damage and hurling foes aside."
+    ]
+  },
+  {
+    "en": "s, a whirl of ash drags the foes around it together for ",
+    "zh": " 秒，灰烬漩涡将周围敌人拖拽到一起，持续 ",
+    "contexts": [
+      "Every 6.0s, a whirl of ash drags the foes around it together for 1.8s, dealing 14 damage a second.",
+      "Every 5.8s, a whirl of ash drags the foes around it together for 1.8s, dealing 18 damage a second."
+    ]
+  },
+  {
+    "en": "s, dealing ",
+    "zh": " 秒，造成 ",
+    "contexts": [
+      "Every 6.0s, a whirl of ash drags the foes around it together for 1.8s, dealing 14 damage a second.",
+      "Every 5.8s, a whirl of ash drags the foes around it together for 1.8s, dealing 18 damage a second."
+    ]
+  },
+  {
+    "en": "s, leaving a trail of steam that deals ",
+    "zh": " 秒，并留下蒸气轨迹，造成 ",
+    "contexts": [
+      "Every 7.0s while moving, you surge 34% faster for 1.5s, leaving a trail of steam that deals 19 damage twice a second.",
+      "Every 6.6s while moving, you surge 38% faster for 1.6s, leaving a trail of steam that deals 26 damage twice a second."
+    ]
+  },
+  {
+    "en": "s, plants a spire that zaps the nearest foe for ",
+    "zh": " 秒，种下一座尖塔，电击最近的敌人，造成 ",
+    "contexts": [
+      "Every 5.6s, plants a spire that zaps the nearest foe for 15 damage for 5s.",
+      "Every 5.2s, plants a spire that zaps the nearest foe for 20 damage for 5s."
+    ]
+  },
+  {
+    "en": "s, the thickest crowd boils for ",
+    "zh": " 秒使最密集的敌群沸腾翻滚，造成 ",
+    "contexts": [
+      "Every 8.2s, the thickest crowd boils for 6s. Foes slain have a 40% chance to burst for 21 damage, more in water.",
+      "Every 7.8s, the thickest crowd boils for 6s. Foes slain have a 45% chance to burst for 28 damage, more in water."
+    ]
+  },
+  {
+    "en": "s, thunder cracks around you: ",
+    "zh": " 秒，雷霆在你周围炸裂：",
+    "contexts": [
+      "Every 5.1s, thunder cracks around you: 28 damage, and foes are stunned for 0.8s.",
+      "Every 5.0s, thunder cracks around you: 36 damage, and foes are stunned for 0.8s."
+    ]
+  },
+  {
+    "en": "s, two beams sweep round you, dealing ",
+    "zh": " 秒两道提灯光束环绕自身扫击，造成 ",
+    "contexts": [
+      "Every 6.1s, two beams sweep round you, dealing 28 damage to all they pass and leaving them Burning.",
+      "Every 5.8s, two beams sweep round you, dealing 35 damage to all they pass and leaving them Burning."
+    ]
+  },
+  {
+    "en": "s.",
+    "zh": " 秒。",
+    "contexts": [
+      "Every 8.2s, the thickest crowd boils for 6s. Foes slain have a 40% chance to burst for 21 damage, more in water.",
+      "Every 7.8s, the thickest crowd boils for 6s. Foes slain have a 45% chance to burst for 28 damage, more in water."
+    ]
+  },
+  {
+    "en": "s. A boss is only slowed.",
+    "zh": " 秒。首领仅会被减速。",
+    "contexts": [
+      "Throws a bola at the toughest foe near: 37 damage, and it and 2 beside it are bound where they stand for 1.8s. A boss is only slowed.",
+      "Throws a bola at the toughest foe near: 48 damage, and it and 2 beside it are bound where they stand for 2.0s. A boss is only slowed."
+    ]
+  },
+  {
+    "en": "s. Foes slain have a ",
+    "zh": " 秒。被击杀的敌人有 ",
+    "contexts": [
+      "Every 8.2s, the thickest crowd boils for 6s. Foes slain have a 40% chance to burst for 21 damage, more in water.",
+      "Every 7.8s, the thickest crowd boils for 6s. Foes slain have a 45% chance to burst for 28 damage, more in water."
+    ]
+  },
+  {
+    "en": "s. Then they fall in, for ",
+    "zh": " 秒无法脱身。随后石阵向内崩塌合拢，追加 ",
+    "contexts": [
+      "Stones rise around the thick of the crowd: 52 damage to all inside, and none of them gets out for 3.9s. Then they fall in, for 116. A boss walks through it, hit all the same.",
+      "Stones rise around the thick of the crowd: 68 damage to all inside, and none of them gets out for 4.2s. Then they fall in, for 152. A boss walks through it, hit all the same."
+    ]
+  },
+  {
+    "en": "s: it slows all near it and shakes them for ",
+    "zh": " 秒：使周围所有敌人减速并引发震颤造成 ",
+    "contexts": [
+      "Raises a cairn where the crowd is, for 6.5s: it slows all near it and shakes them for 13 damage. A Skipstone that's done comes off it at someone new.",
+      "Raises a cairn where the crowd is, for 7.0s: it slows all near it and shakes them for 17 damage. A Skipstone that's done comes off it at someone new."
+    ]
+  },
+  {
+    "en": "signed out",
+    "zh": "已登出",
+    "contexts": []
+  },
+  {
+    "en": "th blow, ",
+    "zh": " 次攻击，",
+    "contexts": [
+      "Every 6th blow, 5 fissures of fire run out ahead of you: 47 damage to all they pass.",
+      "Every 6th blow, 5 fissures of fire run out ahead of you: 62 damage to all they pass."
+    ]
+  },
+  {
+    "en": "through everything on its way for ",
+    "zh": "碾压途经的一切，造成 ",
+    "contexts": [
+      "The big one: from the pile to the pouch to the whirl, then a boulder that rolls through everything on its way for 142 damage.",
+      "The big one: from the pile to the pouch to the whirl, then a boulder that rolls through everything on its way for 184 damage."
+    ]
+  }
+]

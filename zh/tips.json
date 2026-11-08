@@ -1,0 +1,74 @@
+[
+  {
+    "en": "Cinder Shield soaks damage until it breaks, then bursts outward and slowly reforms.",
+    "zh": "烬火护盾会吸收伤害直至碎裂，随后向外猛烈爆发并缓慢重聚。"
+  },
+  {
+    "en": "Ranking up a skill you already have often beats learning a new one.",
+    "zh": "集中升级已有的技能，往往比盲目学习新技能更为有效。"
+  },
+  {
+    "en": "Skip a skill on a level-up and it comes up less often afterwards.",
+    "zh": "在升级选项中跳过某个技能，之后该技能出现的频率会降低。"
+  },
+  {
+    "en": "Each boss that falls brings stronger skills into the draft.",
+    "zh": "每击溃一位首领，技能抽取池中便会解锁加入更强力的技能。"
+  },
+  {
+    "en": "With every slot full, a stronger skill can take the place of a weaker one, and keep its rank.",
+    "zh": "在技能槽全满时，更强力的技能可以直接替换较弱的技能，并保留其原有等级。"
+  },
+  {
+    "en": "Pyre Brand seeks the toughest foe nearby. The tougher the foe, the bigger the blast when it dies.",
+    "zh": "烈焰烙印会锁定附近最为强悍的敌人。目标越强韧，击杀它时引发的爆炸威力就越大。"
+  },
+  {
+    "en": "Ember Rain falls where the horde is thickest.",
+    "zh": "烬雨流星会精准轰击敌群最为密集之处。"
+  },
+  {
+    "en": "Thunderclap stuns everything around you, but a boss is only slowed.",
+    "zh": "惊雷破能击晕周身的一切敌人，但对首领仅能造成减速。"
+  },
+  {
+    "en": "Every skill you're offered is recorded in the codex. Press K to read it.",
+    "zh": "每一次升级向你提供的技能都会记录在图鉴中。按 K 键随时查阅。"
+  },
+  {
+    "en": "A boss rises every three minutes. The clock stops while one is up.",
+    "zh": "首领每三分钟升起降临一次。在首领存活期间，生存计时器将暂停倒计时。"
+  },
+  {
+    "en": "Stay out of the Hollow Warden's reach: hug him and the void erupts.",
+    "zh": "切勿靠近空洞守卫的攻击范围：一旦贴身近战，虚空便会剧烈喷涌爆发。"
+  },
+  {
+    "en": "The Twin Kilns must fall together, or each rekindles the other.",
+    "zh": "双生熔窑必须在短时间内同时击破，否则其中一座会重新复活另一座。"
+  },
+  {
+    "en": "The Mother of Ash's heart opens when she breathes. Strike it then.",
+    "zh": "余烬之母每次呼吸时心脏便会敞开。抓住时机全力猛攻。"
+  },
+  {
+    "en": "Strike any part of the Cinder Wyrm and its head feels it.",
+    "zh": "攻击烬火巨龙露在地表的任何部位，其头部都会同样承受创伤。"
+  },
+  {
+    "en": "Kill a Lantern Thief to get its stolen shards back, and a bonus.",
+    "zh": "击杀提灯飞贼能悉数夺回被其偷走的经验晶片，并额外获得丰厚奖励。"
+  },
+  {
+    "en": "Where the ground churns, an Ashgrub is about to surface.",
+    "zh": "地面开始翻滚涌动之处，便是灰烬幼虫破土而出的征兆。"
+  },
+  {
+    "en": "Cinders are kept even when you fall. Spend them at the Hearth.",
+    "zh": "即便利刃折断不幸阵亡，收集的余烬也会保留。可在暖炉处将其消费转化为永久能力。"
+  },
+  {
+    "en": "The Hollow Warden carries relics. Defeat him for gear.",
+    "zh": "空洞守卫携带着远古遗物。击溃他即可缴获强力装备。"
+  }
+]

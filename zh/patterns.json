@@ -1,0 +1,570 @@
+[
+  {
+    "en": "+{0}% move speed",
+    "zh": "+{0}% 移动速度"
+  },
+  {
+    "en": "+{0}% pickup range",
+    "zh": "+{0}% 拾取范围"
+  },
+  {
+    "en": "Every {0}s when foes press in, a roar: for {1}s all your blows deal {2}% more and your skills recharge a third faster.",
+    "zh": "敌人逼近时每 {0} 秒发出怒吼：{1} 秒内所有攻击伤害提高 {2}%，技能冷却速度加快 33%。"
+  },
+  {
+    "en": "When surrounded or badly hurt, a bellow shoves foes back{0}, and for {1}s you take {2}% less damage. Every {3}s.",
+    "zh": "被包围或受重创时发出咆哮击退敌人{0}，且在 {1} 秒内承受伤害降低 {2}%。每 {3} 秒触发一次。"
+  },
+  {
+    "en": "Swings the shovel in a wide arc ahead of you for {0} damage to all it catches, shoving them aside{1}{2}.",
+    "zh": "朝前方大范围挥动铁铲，对击中的所有敌人造成 {0} 点伤害并推开{1}{2}。"
+  },
+  {
+    "en": "Flings {0} hot coals ahead of you: {1} damage where each lands, and it leaves the ground burning.",
+    "zh": "朝前方掷出 {0} 块滚烫煤炭：每块着地处造成 {1} 点伤害，并留下一片燃烧焦土。"
+  },
+  {
+    "en": "Drags the shovel through the ground: a line of fire runs {0}ahead of you, {1} damage to all it passes, and it keeps burning.",
+    "zh": "铁铲犁地拖行：在前方犁出一条延续 {0}的火线，对途经的一切造成 {1} 点伤害，且地面持续燃烧。"
+  },
+  {
+    "en": "Brings the shovel down ahead of you: {0} damage in a ring of broken ground{1}.",
+    "zh": "朝前方猛砸铁铲：在震裂的地面环形区域内造成 {0} 点伤害{1}。"
+  },
+  {
+    "en": "{0}, over everything, and bring the shovel down: {1} damage where you land{2}. Every {3}s.",
+    "zh": "{0}，越过一切阻碍重砸铁铲：落地点造成 {1} 点伤害{2}。每 {3} 秒冷却。"
+  },
+  {
+    "en": "When foes close in, spins with the shovel out for {0}s: {1} damage about you with every turn{2}. You can keep moving.",
+    "zh": "敌群逼近时伸出铁铲旋转 {0} 秒：每圈对周围造成 {1} 点伤害{2}。旋转期间可保持移动。"
+  },
+  {
+    "en": "Tips the firebox out: a pool of burning coals burns all in it for {0} damage a second, for {1}s{2}.",
+    "zh": "倾倒炉火：倾倒出的滚烫煤坑使其中敌人每秒受到 {0} 点伤害，持续 {1} 秒{2}。"
+  },
+  {
+    "en": "Blasts a long jet of furnace fire ahead of you: {0} damage in all to what it catches, and the kick shoves you back.",
+    "zh": "朝前方喷射一道漫长的熔炉烈焰：对触及的敌人共造成 {0} 点伤害，后坐力将自身向后推开。"
+  },
+  {
+    "en": "Every {0}th blow, {1} fissures of fire run out ahead of you: {2} damage to all they pass.",
+    "zh": "每第 {0} 次攻击，前方迸发 {1} 道烈焰地裂：对途经的所有敌人造成 {2} 点伤害。"
+  },
+  {
+    "en": "Hurls {0} bolt{1} at the nearest foes for {2} damage{3}.",
+    "zh": "朝最近的敌人掷出 {0} 枚烬火箭{1}，造成 {2} 点伤害{3}。"
+  },
+  {
+    "en": "Every {0}s, a blast of ash deals {1} damage around you and shoves foes back.",
+    "zh": "每 {0} 秒爆发一次灰烬新星，对周围造成 {1} 点伤害并推开敌人。"
+  },
+  {
+    "en": "{0} runestones circle you, striking foes for {1} damage.",
+    "zh": "{0} 块符石环绕你盘旋，碰撞敌人时造成 {1} 点伤害。"
+  },
+  {
+    "en": "Lightning leaps between {0} foes for {1} damage each.",
+    "zh": "闪电在 {0} 名敌人间跳跃，各自造成 {1} 点伤害。"
+  },
+  {
+    "en": "Slain foes have a {0}% chance to burst into flame, dealing {1} damage nearby.",
+    "zh": "消灭敌人有 {0}% 几率引爆烈焰，对附近造成 {1} 点伤害。"
+  },
+  {
+    "en": "You leave a trail of fire that deals {0} damage twice a second to foes in it, for {1}s.{2}{3}",
+    "zh": "身后留下一道烈焰足迹，对身处其中的敌人每秒造成两次 {0} 点伤害，持续 {1} 秒。{2}{3}"
+  },
+  {
+    "en": "Every {0}s, a wave snaps out the way you face, dealing {1} damage and hurling foes aside.{2}{3}",
+    "zh": "每 {0} 秒朝面朝方向打出一道冲击波，造成 {1} 点伤害并将敌人震飞两旁。{2}{3}"
+  },
+  {
+    "en": "Every {0}s, plants a spire that zaps the nearest foe for {1} damage for {2}s.{3}{4}",
+    "zh": "每 {0} 秒插下一座风暴尖塔，持续电击最近的敌人，每次造成 {1} 点伤害，持续 {2} 秒。{3}{4}"
+  },
+  {
+    "en": "A crackling field around you slows foes inside by {0}%.{1}{2}",
+    "zh": "周身环绕噼啪作响的静电场，使其中敌人减速 {0}%。{1}{2}"
+  },
+  {
+    "en": "{0} fireflies drift around you and dart at foes for {1} damage, rekindling after each hit.{2}",
+    "zh": "{0} 只火萤在周围飘飞并扑向敌人造成 {1} 点伤害，每次击中后片刻重燃。{2}"
+  },
+  {
+    "en": "A shell of ash soaks {0}% of your max health in damage, then bursts for {1} around you. Reforms after {2}s.{3}{4}",
+    "zh": "一层灰烬护盾可吸收相当于最大生命值 {0}% 的伤害，碎裂时对周围爆发 {1} 点伤害。{2} 秒后重新凝聚。{3}{4}"
+  },
+  {
+    "en": "An ember spirit follows you. Every {0}s it hurls a heavy fireball that bursts for {1} damage.{2}{3}",
+    "zh": "一只灰烬魔宠跟随你。每 {0} 秒掷出一团沉重火球，落地爆裂造成 {1} 点伤害。{2}{3}"
+  },
+  {
+    "en": "Every {0}s, {1} on the thickest crowds near you for {2} damage.{3}",
+    "zh": "每 {0} 秒，{1} 砸向附近最密集的敌群，造成 {2} 点伤害。{3}"
+  },
+  {
+    "en": "Every {0}s, thunder cracks around you: {1} damage, and foes are stunned for {2}s.{3}{4}",
+    "zh": "每 {0} 秒周身响彻雷霆：造成 {1} 点伤害，并使敌人眩晕 {2} 秒。{3}{4}"
+  },
+  {
+    "en": "Every {0}s, a whirl of ash drags the foes around it together for {1}s, dealing {2} damage a second.{3}{4}",
+    "zh": "每 {0} 秒一道灰烬漩涡将周围敌人强行聚拢 {1} 秒，每秒造成 {2} 点伤害。{3}{4}"
+  },
+  {
+    "en": "{0} the toughest foe near you: it takes {1}% more damage, and explodes for {2} damage when it dies, the brand leaping on.{3}",
+    "zh": "{0} 附近最强大的敌人：使其受到的伤害增加 {1}%，死亡时爆发 {2} 点范围伤害，烙印自动传递至下一目标。{3}"
+  },
+  {
+    "en": "Not yet found. It stirs once {0} fallen.",
+    "zh": "尚未发现。在击败 {0} 后苏醒。"
+  },
+  {
+    "en": "{0} (you don't have it)",
+    "zh": "{0}（尚未拥有）"
+  },
+  {
+    "en": "No runs as {0} yet. Be the first.",
+    "zh": "暂无作为 {0} 的记录，快来拔得头筹！"
+  },
+  {
+    "en": "Press the new key for it. Esc to keep {0}.",
+    "zh": "按下新键位绑定。按 Esc 保留原有键位 [{0}]。"
+  },
+  {
+    "en": "{0} can't be used. Try another, or Esc.",
+    "zh": "按键 [{0}] 不可用。请重试其他按键或按 Esc。"
+  },
+  {
+    "en": "{0} Takes the rank of the skill it replaces.",
+    "zh": "{0} 将继承被替换技能的等级。"
+  },
+  {
+    "en": "{0} Cinders earned",
+    "zh": "获得 {0} 余烬"
+  },
+  {
+    "en": "{0} more Cinders for {1}",
+    "zh": "升级 {1} 还差 {0} 余烬"
+  },
+  {
+    "en": "No {0} yet. Relics are dropped by the Hollow Warden.",
+    "zh": "暂无 {0}。空洞守卫会掉落遗物装备。"
+  },
+  {
+    "en": "Replace which? (1-{0})",
+    "zh": "替换哪一个？(1-{0})"
+  },
+  {
+    "en": "Rank {0}: replace this",
+    "zh": "等级 {0}：替换此项"
+  },
+  {
+    "en": "The {0} Kiln falls: quench its twin within {1}s!",
+    "zh": "{0}熔窑已被击溃：必须在 {1} 秒内熄灭另一座熔窑！"
+  },
+  {
+    "en": "Kills {0}",
+    "zh": "击杀 {0}"
+  },
+  {
+    "en": "{0} in {1}:{2}",
+    "zh": "{0} 还有 {1}:{2}"
+  },
+  {
+    "en": "{0} walks",
+    "zh": "{0} 正在逼近"
+  },
+  {
+    "en": "{0} burn",
+    "zh": "{0} 正在燃烧"
+  },
+  {
+    "en": "Playing as {0} · Difficulty: {1}",
+    "zh": "当前角色：{0} · 难度：{1}"
+  },
+  {
+    "en": "Playing as {0}",
+    "zh": "当前角色：{0}"
+  },
+  {
+    "en": "Changing to {0}…",
+    "zh": "正在切换为 {0}…"
+  },
+  {
+    "en": "Changing to {0}",
+    "zh": "正在切换为 {0}"
+  },
+  {
+    "en": "Keep {0}",
+    "zh": "保留{0}"
+  },
+  {
+    "en": "Change to {0}",
+    "zh": "切换为{0}"
+  },
+  {
+    "en": "Rekindling in {0}…",
+    "zh": "将在 {0} 后重燃…"
+  },
+  {
+    "en": "Rekindling in {0}...",
+    "zh": "将在 {0} 后重燃…"
+  },
+  {
+    "en": "#{0} · {1} XP · {2} · {3} kills",
+    "zh": "#{0} · {1} 经验 · {2} · 击杀 {3}"
+  },
+  {
+    "en": "Level {0} · {1} survived · {2} kills",
+    "zh": "等级 {0} · 生存 {1} · 击杀 {2}"
+  },
+  {
+    "en": "Held the line for {0} · Level {1} · {2} kills · {*3}",
+    "zh": "坚守了 {0} · 等级 {1} · 击杀 {2} · {3}"
+  },
+  {
+    "en": "Survived {0} · Level {1} · {2} kills · {*3}",
+    "zh": "生存 {0} · 等级 {1} · 击杀 {2} · {3}"
+  },
+  {
+    "en": "{0} · Level {1} · {2} kills · {*3}",
+    "zh": "{0} · 等级 {1} · 击杀 {2} · {3}"
+  },
+  {
+    "en": "{0} · Level {1} · {2} kills",
+    "zh": "{0} · 等级 {1} · 击杀 {2}"
+  },
+  {
+    "en": "Becomes {0} rank {1}: {*2}",
+    "zh": "变为 {0} 等级 {1}：{2}"
+  },
+  {
+    "en": "Choose a boon ({*0})",
+    "zh": "选择强化（{0}）"
+  },
+  {
+    "en": "Tap a boon",
+    "zh": "点击选择强化"
+  },
+  {
+    "en": "Talent {0}/{1}",
+    "zh": "天赋 {0}/{1}"
+  },
+  {
+    "en": "Rank {0}",
+    "zh": "等级 {0}"
+  },
+  {
+    "en": "Level {0}",
+    "zh": "等级 {0}"
+  },
+  {
+    "en": "{0} · Tier {1}",
+    "zh": "{0} · 阶级 {1}"
+  },
+  {
+    "en": "{0} XP",
+    "zh": "{0} 经验"
+  },
+  {
+    "en": "Posted. Rank #{0}",
+    "zh": "已上传，排名第 {0} 名"
+  },
+  {
+    "en": "Posting…",
+    "zh": "正在上传…"
+  },
+  {
+    "en": "Couldn’t post: {*0}",
+    "zh": "上传失败：{0}"
+  },
+  {
+    "en": "Couldn't post: {*0}",
+    "zh": "上传失败：{0}"
+  },
+  {
+    "en": "You can afford {0}: {*1}",
+    "zh": "你可以购买 {0}：{1}"
+  },
+  {
+    "en": "+{0} health, {1}/s regen",
+    "zh": "生命值 +{0}，每秒回复 {1}"
+  },
+  {
+    "en": "{0} II",
+    "zh": "{0} II"
+  },
+  {
+    "en": "{0} III",
+    "zh": "{0} III"
+  },
+  {
+    "en": "{0} IV",
+    "zh": "{0} IV"
+  },
+  {
+    "en": "{0} V",
+    "zh": "{0} V"
+  },
+  {
+    "en": "{*0} (you don't have it)",
+    "zh": "{*0}（尚未拥有）"
+  },
+  {
+    "en": "Choose a boon ({0})",
+    "zh": "选择一项强化（{0}）"
+  },
+  {
+    "en": "Tap a boon to choose",
+    "zh": "点击一项强化进行选择"
+  },
+  {
+    "en": "Held the line for {0} · Level {1} · {2} kills · {3}",
+    "zh": "坚守防线 {0} · 等级 {1} · 击杀 {2} · {3}"
+  },
+  {
+    "en": "Survived {0} · Level {1} · {2} kills · {3}",
+    "zh": "存活 {0} · 等级 {1} · 击杀 {2} · {3}"
+  },
+  {
+    "en": "Gained {0} cinders",
+    "zh": "获得 {0} 余烬"
+  },
+  {
+    "en": "Cost: {0} cinders",
+    "zh": "消耗：{0} 余烬"
+  },
+  {
+    "en": "Rank {0} / {1}",
+    "zh": "位阶 {0} / {1}"
+  },
+  {
+    "en": "{0} / {1} discovered",
+    "zh": "已发现 {0} / {1}"
+  },
+  {
+    "en": "{0} / {1} seen",
+    "zh": "已见识 {0} / {1}"
+  },
+  {
+    "en": "{0} / {1} met",
+    "zh": "已遭遇 {0} / {1}"
+  },
+  {
+    "en": "Upgrades {0}",
+    "zh": "升级 {0}"
+  },
+  {
+    "en": "Replaces {0}",
+    "zh": "替换 {0}"
+  },
+  {
+    "en": "Requires {0} rank {1}",
+    "zh": "需要 {0} 位阶 {1}"
+  },
+  {
+    "en": "Unlocked at Level {0}",
+    "zh": "在等级 {0} 解锁"
+  },
+  {
+    "en": "Level {0} → {1}",
+    "zh": "等级 {0} → {1}"
+  },
+  {
+    "en": "+{0}% damage",
+    "zh": "+{0}% 伤害"
+  },
+  {
+    "en": "+{0}% area",
+    "zh": "+{0}% 范围"
+  },
+  {
+    "en": "+{0}% health",
+    "zh": "+{0}% 生命"
+  },
+  {
+    "en": "+{0}% cooldowns",
+    "zh": "+{0}% 冷却缩减"
+  },
+  {
+    "en": "+{0}% regeneration",
+    "zh": "+{0}% 生命回复"
+  },
+  {
+    "en": "Signed in as {0}, with {*1}.",
+    "zh": "已作为 {0} 登录，关联 {*1}。"
+  },
+  {
+    "en": "We’ll email {0} when Act 2 is out.",
+    "zh": "第 2 幕上线时，我们将向 {0} 发送邮件通知。"
+  },
+  {
+    "en": "We'll email {0} when Act 2 is out.",
+    "zh": "第 2 幕上线时，我们将向 {0} 发送邮件通知。"
+  },
+  {
+    "en": "{0} for fullscreen",
+    "zh": "按 {0} 进入全屏"
+  },
+  {
+    "en": "Signed in as {0} ·",
+    "zh": "已登录为 {0} ·"
+  },
+  {
+    "en": "Signed in as {0} · {*1}",
+    "zh": "已登录为 {0} · {*1}"
+  },
+  {
+    "en": "Progress is saved in this browser · {*0}",
+    "zh": "游戏进度保存在当前浏览器中 · {*0}"
+  },
+  {
+    "en": "Your sign-in has ended · {*0}",
+    "zh": "你的登录状态已失效 · {*0}"
+  },
+  {
+    "en": "{0} is in early development: Act 2 is on its way.",
+    "zh": "{0} 尚处于早期开发阶段：第 2 幕即将到来。"
+  },
+  {
+    "en": "Sign in with {0}",
+    "zh": "使用 {0} 登录"
+  },
+  {
+    "en": "Unlock for {0} Cinders",
+    "zh": "花费 {0} 余烬解锁"
+  },
+  {
+    "en": "Locked · {0} Cinders",
+    "zh": "锁定 · {0} 余烬"
+  },
+  {
+    "en": "{0} · Playing",
+    "zh": "{0} · 游玩中"
+  },
+  {
+    "en": "Picture {0} of {1}",
+    "zh": "第 {0} 张，共 {1} 张"
+  },
+  {
+    "en": "{0} fps · {1} ms",
+    "zh": "{0} 帧/秒 · {1} 毫秒"
+  },
+  {
+    "en": "They burst where they meet. Every third sweep swings back, more often at ranks 8 and 10.",
+    "zh": "光束交汇处会爆裂。每第三次扫击会折返，8 级与 10 级时更频繁。"
+  },
+  {
+    "en": "Total damage {0} · {1} per second",
+    "zh": "总伤害 {0} · 每秒 {1}"
+  },
+  {
+    "en": "{0} in {1}",
+    "zh": "{0}（耗时 {1}）"
+  },
+  {
+    "en": "On {0}, who's in testing",
+    "zh": "关于测试中的角色 {0}"
+  },
+  {
+    "en": "Tell us how {0} plays",
+    "zh": "告诉我们角色 {0} 的游玩体验"
+  },
+  {
+    "en": "Not yet met. It walks the {0} somewhere.",
+    "zh": "尚未遇到。它出没在{0}的某处。"
+  },
+  {
+    "en": "Empowered: +{0}% damage (+{1}% in all).",
+    "zh": "强化：伤害 +{0}%（累计 +{1}%）。"
+  },
+  {
+    "en": "You have {0} Cinders. Runs on the maps you have earn more.",
+    "zh": "你有 {0} 余烬。在已拥有的地图游玩可赚取更多余烬。"
+  },
+  {
+    "en": "Ended: {0} at {1}:{2}, level {3}, {4} kills",
+    "zh": "本局结束：{0} · {1}:{2} · {3} 级 · 击杀 {4}"
+  },
+  {
+    "en": "Playing {0}",
+    "zh": "正在游玩：{0}"
+  },
+  {
+    "en": "Skills: {0}",
+    "zh": "技能：{0}"
+  },
+  {
+    "en": "Gear: {0}",
+    "zh": "装备：{0}"
+  },
+  {
+    "en": "Tier {0}",
+    "zh": "{0} 阶"
+  },
+  {
+    "en": "Press the new key for it, or click here again for the left mouse button. Esc to keep {0}.",
+    "zh": "按下新键，或再次点击此处设为鼠标左键。按 Esc 保留 {0}。"
+  },
+  {
+    "en": "{0} / arrows to move. Your skills cast on their own. Level up to learn new ones. Esc to pause, {1} for your kit, {2} for the codex.",
+    "zh": "用 {0} 或方向键移动。技能自动释放，升级可学习新技能。Esc 暂停，{1} 查看装备，{2} 打开图鉴。"
+  },
+  {
+    "en": "{0}: he rolls towards the cursor, and nothing touches him as he goes. His from the start, in no skill slot.",
+    "zh": "{0}：朝鼠标指针翻滚，期间无敌。开局自带，不占技能栏。"
+  },
+  {
+    "en": "{0}: she burns away and re-forms where the cursor is, up to a short way off, and nothing touches her as she goes. On a long cooldown, so save it for when it counts.",
+    "zh": "{0}：化为火焰，朝鼠标指针短距离闪现，期间无敌。冷却较长，留到关键时刻使用。"
+  },
+  {
+    "en": "{0}: he leaps, breaking the ground where he lands. His from the start, in no skill slot: in to hit them, or out when it goes wrong.",
+    "zh": "{0}：飞跃并砸裂落点。开局自带，不占技能栏，可跳入敌群攻击，也可用来脱险。"
+  },
+  {
+    "en": "A skill to find as you level. {0}: he runs through them, steered as he goes and taking far less damage. Press it again to slam the shovel down.",
+    "zh": "升级时可习得。{0}：冲入敌群，可在冲锋中转向，所受伤害大幅降低。再次按下会挥铲砸地。"
+  },
+  {
+    "en": "His at level 20, growing at 40, 60 and 80. {0}: at full Heat he spends it all, and cracks race out to the crowds round him and erupt.",
+    "zh": "20 级解锁，40、60 和 80 级强化。{0}：满积热时耗尽积热，裂缝向四周敌群蔓延并喷发。"
+  },
+  {
+    "en": "The Stoker can now Leap from the start, on {0}, without using a skill slot, and there's a new skill to find: Charge, on {1}, which you steer as he runs. Both build Heat: dive into a crowd to hit harder and heal.",
+    "zh": "司炉工现在开局自带飞跃（按 {0}），不占技能栏。升级可习得冲锋（按 {1}），冲锋中可以转向。两招都能积热，冲进敌群可提高伤害并回血。"
+  },
+  {
+    "en": "The Emberwright has Ember Step, on {0}: she burns away and re-forms at the cursor, every 25 seconds.",
+    "zh": "灰烬使者获得余烬闪步（按 {0}）：化为火焰，随后在鼠标指针处重现。冷却 25 秒。"
+  },
+  {
+    "en": "{0}: roll towards the cursor. Nothing touches him as he goes. Every {1}s.",
+    "zh": "{0}：朝鼠标指针翻滚，期间无敌。冷却 {1} 秒。"
+  },
+  {
+    "en": "{0}: step towards the cursor, as far as it is, burning away and re-forming there, untouched as you go. {1}s cooldown.",
+    "zh": "{0}：化为火焰，在鼠标指针处重现，闪步期间无敌。冷却 {1} 秒。"
+  },
+  {
+    "en": "{0}: leap towards the cursor, over everything, and bring the shovel down: {1} damage where you land. Every {2}s.",
+    "zh": "{0}：朝鼠标指针飞跃，越过障碍并挥铲砸地，在落点造成 {1} 点伤害。冷却 {2} 秒。"
+  },
+  {
+    "en": "{0}: leap towards the cursor, over everything, and bring the shovel down: {1} damage where you land, stunning what it catches. Every {2}s.",
+    "zh": "{0}：朝鼠标指针飞跃，越过障碍并挥铲砸地，在落点造成 {1} 点伤害并眩晕敌人。冷却 {2} 秒。"
+  },
+  {
+    "en": "{0}: charge through foes, steering as you run, for {1} damage each, taking {2}% less. Press again to slam for {3}.",
+    "zh": "{0}：冲锋时可转向，对经过的每名敌人造成 {1} 点伤害，所受伤害降低 {2}%。再次按下会砸地，造成 {3} 点伤害。"
+  },
+  {
+    "en": "{0}: charge through foes, steering as you run, for {1} damage each, taking {2}% less. Press again to slam for {3}, stunning them and splitting the ground.",
+    "zh": "{0}：冲锋时可转向，对经过的每名敌人造成 {1} 点伤害，所受伤害降低 {2}%。再次按下会砸裂地面，造成 {3} 点伤害并眩晕敌人。"
+  },
+  {
+    "en": "{0} at full Heat: spend it all. {1}: {*2} {3} damage where they erupt.",
+    "zh": "满积热时按 {0} 耗尽积热。{1}：{2} 喷发处造成 {3} 点伤害。"
+  }
+]

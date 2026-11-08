@@ -1,0 +1,1166 @@
+{
+  "skills": [
+    {
+      "id": "cinder_bolt",
+      "tags": [
+        "Projectile"
+      ],
+      "nameZh": "烬火飞弹",
+      "textEn": "Your first spark. Bolts of cinder fly at the nearest foes on their own, more of them as it grows. At its height they pierce, burning through two foes before they go out.",
+      "textZh": "你的第一缕火花。余烬飞弹会自动射向最近的敌人，随着技能提升，飞弹数量也会增加。升至满级时飞弹具有穿透效果，熄灭前可连续穿透并灼烧两名敌人。"
+    },
+    {
+      "id": "ash_nova",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "灰烬新星",
+      "textEn": "Every few seconds the ash around you bursts outward, hurting everything close and shoving it back. It doesn't aim: it's at its best when you're surrounded, buying room to breathe.",
+      "textZh": "周身的灰烬每隔数秒便向外猛烈爆发，重创近处的一切敌人并将其推开。此技能无需瞄准：身陷重围时效果最强，能为你争取喘息之机。"
+    },
+    {
+      "id": "wardstones",
+      "tags": [
+        "Aura"
+      ],
+      "nameZh": "守卫符石",
+      "textEn": "Runestones circle you, striking whatever they pass through, and more join as it grows. They guard close: let the horde come to you and the stones do the rest.",
+      "textZh": "符石环绕着你盘旋，击打一切穿过的目标；随着技能提升，加入盘旋的符石数量也会增多。它们紧密护卫着你：只需让敌群围拢过来，剩下的交给符石便好。"
+    },
+    {
+      "id": "arc_lash",
+      "tags": [
+        "Projectile"
+      ],
+      "nameZh": "电弧鞭笞",
+      "textEn": "Lightning leaps from foe to foe, each strike jumping on to the next nearest, one more with every level. Best against packs, where the chain never runs short of targets.",
+      "textZh": "闪电在敌人之间跳跃奔涌，每次打击都会跃向下一名最近的目标；每升一级额外跳跃一次。对付成群的密集敌人时最为致命，跳跃链条永远不缺目标。"
+    },
+    {
+      "id": "kindling",
+      "tags": [
+        "Passive",
+        "AOE"
+      ],
+      "nameZh": "引火星",
+      "textEn": "When a foe falls, it may burst into flame, burning those around it. The chance and the blast grow with every level: in a thick crowd, kills start coming in clusters.",
+      "textZh": "敌人阵亡时可能爆发出一团烈焰，灼烧周围的同伴。其触发几率与爆炸规模随等级提升而增大：面对密集的敌群，连锁击杀往往接踵而至。"
+    },
+    {
+      "id": "flame_wake",
+      "tags": [
+        "Passive",
+        "AOE"
+      ],
+      "nameZh": "烈焰余迹",
+      "textEn": "You leave a trail of fire wherever you walk. Foes that follow you walk through it and burn: keep moving, and let them chase you through the fire. It burns wider as it grows, and at its height it burns hotter the faster you move.",
+      "textZh": "你的足迹所至皆会留下一道燃烧的火径。尾随而至的敌人踏入其中便会遭受灼烧：保持跑动，诱使它们在烈焰中一路追赶。随着技能提升，火径范围更宽；升至满级时，移动速度越快，火径燃烧得越炽烈。"
+    },
+    {
+      "id": "wardens_echo",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "守卫回响",
+      "textEn": "An echo of the Hollow Warden's push. Every few seconds a wave snaps out the way you face, hurting the foes in it and flinging them aside. From level 3 it strikes twice; at its height, a second wave snaps out behind you.",
+      "textZh": "源自空洞守卫猛推的回响。每隔数秒朝你面朝的方向迸发出一道冲击波，重创途经的敌人并将其掀飞到两旁。达到 3 级后可连续冲击两次；升至满级时，还会朝你身后额外迸发出一道冲击波。"
+    },
+    {
+      "id": "storm_spire",
+      "tags": [
+        "Familiar"
+      ],
+      "nameZh": "风暴尖塔",
+      "textEn": "Every few seconds you plant a spire of storm crystal that zaps the nearest foe until it fades. From level 3 two can stand at once, and at its height each zap jumps on to two more foes. Plant them, then lead the horde past.",
+      "textZh": "每隔数秒伫立起一座风暴水晶尖塔，持续释放电弧轰击最近的敌人，直至消散。达到 3 级后场上可同时存在两座尖塔；升至满级时，每次电击都会额外跃向两名敌人。立起尖塔，随后将敌群引诱过去即可。"
+    },
+    {
+      "id": "static_field",
+      "tags": [
+        "Aura"
+      ],
+      "nameZh": "静电场",
+      "textEn": "A crackling field surrounds you, slowing every foe inside it. It widens at level 3, and at its height it zaps a foe inside it too. It kills little on its own, but it gives everything else more time.",
+      "textZh": "噼啪作响的电场笼罩周身，减速身处其中的每一个敌人。达到 3 级后电场范围扩大；升至满级时，还会劈打场内的敌人。它本身击杀的敌人或许不多，却能为你的其他手段争取宝贵的时间。"
+    },
+    {
+      "id": "fireflies",
+      "tags": [
+        "Familiar"
+      ],
+      "nameZh": "烬火萤",
+      "textEn": "Fireflies drift around you and dart at nearby foes, burning out with each hit and rekindling a moment later. More join at level 3; at their height, every hit splashes fire onto the foes around it.",
+      "textZh": "烬火萤环绕在你身侧飘浮，随后猛扑向近处的敌人；每次命中后便会熄灭，片刻之后重新燃起。达到 3 级后会有更多火萤加入；升至满级时，每次命中都会将烈火溅射到周围的敌人身上。"
+    },
+    {
+      "id": "cinder_shield",
+      "tags": [
+        "Passive",
+        "AOE"
+      ],
+      "nameZh": "烬火护盾",
+      "textEn": "A shell of ash wraps around you and soaks up damage: a share of your max health, more with every level. When it breaks it bursts outward, hurting and throwing back the foes around you, then slowly reforms. At its height the burst sets the ground alight.",
+      "textZh": "一层灰烬外壳将你紧紧包裹并吸收伤害，吸收量基于你的最大生命值，且随等级提升而增长。护盾碎裂时会向外迸发，重创并击退周围的敌人，随后缓慢重聚。升至满级时，护盾碎裂的冲击会直接点燃地面。"
+    },
+    {
+      "id": "ember_familiar",
+      "tags": [
+        "Familiar",
+        "AOE"
+      ],
+      "nameZh": "灰烬使魔",
+      "textEn": "A small ember spirit follows at your shoulder, and every few seconds it hurls a heavy fireball that bursts where it lands. Its burst widens at level 3, and at its height a second familiar joins it.",
+      "textZh": "一只小小的余烬精灵跟随在你的肩头，每隔数秒投掷出一枚沉重的火球，落点处产生剧烈爆炸。达到 3 级后爆炸范围扩大；升至满级时，将有第二只使魔加入随行。"
+    },
+    {
+      "id": "ember_rain",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "烬雨流星",
+      "textEn": "Every few seconds meteors fall on the thickest crowd near you, more of them together as it grows. At its height the ground they strike keeps burning. It seeks out crowds: the denser the horde, the better it gets.",
+      "textZh": "每隔数秒便有漫天流星轰击近处敌群最密集之处，随着技能提升，坠落的流星数量也会增多。升至满级时，流星砸中的地面将久燃不息。此技能专挑群怪：敌潮越汹涌，威力就越惊人。"
+    },
+    {
+      "id": "thunderclap",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "惊雷破",
+      "textEn": "Every few seconds thunder cracks around you, hurting every foe nearby and stunning them where they stand (a boss is only slowed). It widens at level 3, and at its height the foes it stuns take more damage for a few seconds after.",
+      "textZh": "每隔数秒周身惊雷炸响，重创周围所有敌人并将其击晕在原地（对首领仅造成减速）。达到 3 级后范围扩大；升至满级时，被击晕的敌人在随后的数秒内受到的伤害提升。"
+    },
+    {
+      "id": "ash_vortex",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "灰烬漩涡",
+      "textEn": "Every few seconds a whirl of ash opens among the foes near you and drags them together, grinding them while it lasts. It grows longer and wider at level 3; at its height it collapses into an Ash Nova, blasting the gathered crowd apart.",
+      "textZh": "每隔数秒在近处敌人之间生成一团灰烬旋风，将它们强行聚拢并持续绞碎磨削。达到 3 级后持续时间更长、范围更宽；升至满级时漩涡向内坍缩，引发一场灰烬新星大爆炸，将聚集的敌群彻底轰飞。"
+    },
+    {
+      "id": "pyre_brand",
+      "tags": [
+        "Passive",
+        "AOE"
+      ],
+      "nameZh": "烈焰烙印",
+      "textEn": "A brand of fire marks the toughest foe near you, magic and rare ones above all. The branded foe takes more damage from everything, and the brand stays on it until it dies. Then it explodes, and the tougher the foe, the bigger the blast, before the brand leaps on to the next. On a boss, which won't fall soon, it pulses fire around it instead. From level 3 you carry two brands; at its height, the brand burns its foe too.",
+      "textZh": "一道烈火烙印会标记附近最为棘手的敌人，魔法怪与稀有怪尤为优先。被烙印的敌人受到来自一切来源的伤害提升，烙印会一直附着直至其死亡。随后烙印引爆——目标越强韧，爆炸威力就越庞大，随后烙印跃向下一个强敌。若是附在难以速杀的首领身上，则会转而向周围周期性脉冲烈焰。达到 3 级后你可同时维持两枚烙印；升至满级时，烙印还会持续灼烧被标记的目标。"
+    },
+    {
+      "id": "boiling_curse",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "沸腾诅咒",
+      "textEn": "Her fire under their skin. The thickest crowd near you starts to boil, leaking steam, and those that die while it lasts may burst in a scalding blast that hurts the crowd round them. Likelier and bigger in water. At its height, what a blast hits starts boiling too.",
+      "textZh": "把火焰种进他们皮下。你附近最密集的一群敌人开始沸腾、冒出蒸汽；在此期间死亡的敌人可能炸开一团滚烫的爆裂，灼伤周围的同伙。在水中更易触发，爆裂也更大。升至满级时，被爆裂波及的敌人也会开始沸腾。"
+    },
+    {
+      "id": "geysers",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "喷泉地热",
+      "textEn": "The fen turned on itself. The ground under the thickest crowd boils and a column of steam bursts up through it, throwing them in the air. Stronger in water, and when you're swarmed one bursts at your feet.",
+      "textZh": "沼泽开始反噬自己。最密集敌群脚下的地面沸腾，一道蒸汽柱从中冲起，把他们抛向空中。在水中威力更强；当你被围住时，还会有一道在你脚下炸开。"
+    },
+    {
+      "id": "storm_orbs",
+      "tags": [
+        "AOE",
+        "Projectile"
+      ],
+      "nameZh": "风暴法球",
+      "textEn": "The Abbess's orbs, made yours. Orbs of lightning curl out from you in a spiral, shocking all they pass through and arcing to Shocked foes. Wider over water. At its height they burst at the end of their run.",
+      "textZh": "女修道院长的法球，如今归你所有。雷球以螺旋从你身周卷出，电击途经的一切，并向感电的敌人跳弧。在水面上范围更广。升至满级时，法球在路径末端爆开。"
+    },
+    {
+      "id": "steam_stride",
+      "tags": [
+        "Passive"
+      ],
+      "nameZh": "蒸气奔踏",
+      "textEn": "While you're moving, your stride surges now and then in a burst of steam, and what you run past is left in a scalding trail. Your way out of what's coming. Later the trail slows too, and the surge throws back what's on top of you.",
+      "textZh": "移动时，你的步伐会时不时在一股蒸汽中猛冲一下，掠过的地带被留下滚烫的轨迹。这是你逃离危机的出路。后期轨迹还会减速敌人，猛冲则会击退压在你身上的敌人。"
+    },
+    {
+      "id": "storm_nova",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "风暴新星",
+      "textEn": "Water conducts. A wave of storm surges out from you and leaves you behind, striking everything it passes. Over water it runs far; on dry ground it soon dies, for less. Later it arcs on to foes out of the water, and at its height a second wave follows.",
+      "textZh": "水能导电。一道风暴浪潮从你身上涌出、把你留在身后，击打途经的一切。在水面上它能跑得很远；在干燥地面上很快便会消散，威力也更低。后期它会向不在水中的敌人跳弧，升至满级时还会有第二道浪潮跟上。"
+    },
+    {
+      "id": "lantern_beam",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "提灯光束",
+      "textEn": "The Lamplighter's lantern, yours now. Two beams of light swing round you from both sides and meet on the far side, leaving all they cross Burning. Later they burst where they meet; at its height they're wider, and every third sweep swing back, more often as it ranks up.",
+      "textZh": "点灯人的提灯，如今是你的了。两道光束从两侧绕着你旋转，在对侧交汇，凡被划过的敌人都会燃烧。后期它们会在交汇处爆开；升至满级时光束更宽，并且每第三次挥扫会反向回扫，位阶越高越频繁。"
+    },
+    {
+      "id": "stormfire",
+      "tags": [
+        "AOE",
+        "Projectile"
+      ],
+      "nameZh": "风暴之炎",
+      "textEn": "Both your fires at once. A heavy fireball bursts on the crowd, and lightning forks out of the blast to what burns, whatever lit it. At its height, each it forks to bursts too.",
+      "textZh": "两种火焰同时燃起。一颗沉重的火球在人群中炸开，闪电从爆点闪向正在燃烧的敌人——不论那火是谁点起的。升至满级时，每个被闪电跳到的敌人也会炸开。"
+    },
+    {
+      "id": "slag_arm",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "熔渣之臂",
+      "textEn": "An arm of the Heart Below, answering to you. It bursts up behind the thickest crowd and slams through them. Later it sweeps round itself before it sinks; at its height, two.",
+      "textZh": "渊薮之心的一条手臂，听从你的号令。它从最密集敌群的后方破土而出，横扫而过。后期它会在下沉前绕自身扫一圈；升至满级时为两条。"
+    },
+    {
+      "id": "ember_step",
+      "tags": [
+        "Movement"
+      ],
+      "nameZh": "余烬闪步",
+      "textEn": "She burns away from the feet up and re-forms where the cursor is, up to a short way off, and nothing touches her as she goes. It deals no damage: it's for getting out of what you can't walk out of, so keep it for when it counts.",
+      "textZh": "从脚下开始化为余烬消散，并在光标位置重聚（一段短距离内），穿梭期间处于完全无敌状态。该技能不造成伤害，专用于摆脱无法徒步逃离的绝境，请在紧要关头施展。"
+    },
+    {
+      "id": "skipstone",
+      "tags": [
+        "Projectile"
+      ],
+      "nameZh": "跳石",
+      "textEn": "His first skill: a stone from the sling at the nearest foe. It hits, skips on to the next, and the next, a quarter weaker each time, and what it hits staggers. With no one else near, it comes down just past them and back at them once more.",
+      "textZh": "他的初始技能：用投索向最近的敌人掷出一枚飞石。命中后弹向下一名敌人并不断弹跳，每次威力衰减四分之一，被击中的目标会产生硬直。若附近没有其他敌人，飞石会稍稍越过目标并再次反弹击中对方一次。"
+    },
+    {
+      "id": "scatter_pouch",
+      "tags": [
+        "Projectile",
+        "AOE"
+      ],
+      "nameZh": "散弹袋",
+      "textEn": "The whole pouch at the nearest foe, a cone of small stones that knock what they hit back. Short reach: it's for what has come too close.",
+      "textZh": "将整个弹袋倾泻向最近的敌人，扇形喷出一片碎石并将命中的目标击退。射程较短：专用于应对逼近身前的敌人。"
+    },
+    {
+      "id": "flatstone",
+      "tags": [
+        "Projectile"
+      ],
+      "nameZh": "扁平跳石",
+      "textEn": "Skimmed along the ground, straight through everything on its line. It goes off at the nearest foe, so it's at its best when they come in a file.",
+      "textZh": "贴着地面低空掠过，直线穿透沿途的一切。朝最近的敌人发射，在敌人排成一线涌来时效果最佳。"
+    },
+    {
+      "id": "long_cord",
+      "tags": [
+        "Melee",
+        "AOE"
+      ],
+      "nameZh": "长绳投索",
+      "textEn": "All the cord he has, whirled low around him, whenever something's in reach. It knocks them back out, so he gets to go on slinging.",
+      "textZh": "放长全部绳索在周身低空旋转横扫，只要有敌人进入范围便会触发。将敌人击退开去，好让他能继续从容投石。"
+    },
+    {
+      "id": "tripstones",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "绊索石",
+      "textEn": "He leaves stones behind him as he goes. Whatever steps on one goes down for a moment, with those beside it. Walk them through it.",
+      "textZh": "行走时在身后留下一串绊索石。任何踩中的敌人都会与周围目标一同短暂倒地。引诱敌人踏入石阵。"
+    },
+    {
+      "id": "burststone",
+      "tags": [
+        "Projectile",
+        "AOE"
+      ],
+      "nameZh": "爆裂石",
+      "textEn": "For what the crowd skills don't kill: a stone lodged in the toughest foe near, that bursts a moment later, hardest on that foe. If they fall first it goes off where they fell. With this, the last hit of each Skipstone lodges a weaker one.",
+      "textZh": "专用于补杀群体技能未能消灭的目标：将一枚飞石嵌入附近最强韧的敌人体内，片刻后剧烈炸裂，重创该目标及周围。若宿主提前阵亡则直接在原地引爆。习得后，跳石的最后一次命中也会附带一枚威力稍弱的爆裂石。"
+    },
+    {
+      "id": "bola",
+      "tags": [
+        "Projectile"
+      ],
+      "nameZh": "流星索",
+      "textEn": "Stones on cords, at the toughest foe near: it and those beside it are bound where they stand. A boss is only slowed.",
+      "textZh": "向附近最强韧的敌人投掷绳石索：该目标及身边敌群将被死死缠绕定在原地。首领只会被减速。"
+    },
+    {
+      "id": "raise_cairn",
+      "tags": [
+        "AOE",
+        "Aura"
+      ],
+      "nameZh": "升起石标",
+      "textEn": "A stack of stones where the crowd is, slowing all around it and shaking them where they stand. A Skipstone that has run out comes off it at someone new.",
+      "textZh": "在敌群密集处升起一座石标堆，减速周围所有敌人并令其在原地摇晃受创。消耗殆尽的跳石会从石标处重新反弹射向新的目标。"
+    },
+    {
+      "id": "living_shot",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "活体投射",
+      "textEn": "He slings one of them into the thick of the rest, and everything it lands on is hurt. A foe too big to throw takes a heavy stone instead.",
+      "textZh": "用投索抓起一名敌人砸入其余敌群深处，着陆点周围所有目标均受伤害。体型过大无法投掷的敌人则会承受沉重飞石痛击。"
+    },
+    {
+      "id": "landslide",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "山崩滚石",
+      "textEn": "The long way: a rock from the pile, into the pouch, up in the whirl, and let go. The boulder rolls through everything on its way.",
+      "textZh": "蓄力掷石：从石堆搬起巨岩放入皮兜，高高抡起投出。滚滚巨石势不可挡，碾碎沿途一切。"
+    },
+    {
+      "id": "stone_circle",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "环形石阵",
+      "textEn": "Stones rise around the thick of the crowd. None of those inside gets out until they fall in on them. A boss walks through, hit all the same.",
+      "textZh": "在敌群深处拔地而起一圈环形石阵。内部的敌人插翅难逃，直至巨石向内崩塌砸碎一切。首领可强行穿过，但同样承受全额伤害。"
+    },
+    {
+      "id": "last_cairn",
+      "tags": [
+        "AOE",
+        "Passive"
+      ],
+      "nameZh": "终末石标",
+      "textEn": "Each foe he kills adds a stone to it, and they gather slowly by themselves in a fight. When it's full they all come back, around him and out in every direction.",
+      "textZh": "击杀的每一名敌人都为其积累一块灵石，在战斗中也会自行缓慢汇聚。当积满时灵石将齐齐崩散，环绕其身向四面八方暴射而出。"
+    },
+    {
+      "id": "roll",
+      "tags": [
+        "Movement"
+      ],
+      "nameZh": "翻滚",
+      "textEn": "His from the start, in no skill slot. Down and over towards the cursor, the stack going round beside him, and nothing touches him as he goes. It deals no damage: it's for getting clear.",
+      "textZh": "开局自带，不占用技能槽。俯身向光标方向快速翻滚，背负的石标顺势环转，翻滚期间处于完全无敌状态。该技能不造成伤害，专用于脱离合围。"
+    },
+    {
+      "id": "the_swing",
+      "tags": [
+        "Melee",
+        "AOE"
+      ],
+      "nameZh": "大力挥铲",
+      "textEn": "His first skill and his steady work: a wide sweep of the shovel at whatever's ahead of him, shoving it aside. It only goes off with something in reach, and it's how he heals, so keep him close and turned to the crowd.",
+      "textZh": "他的初始技能与日常生计：横握铁铲对正前方发动大范围横扫，将敌群挥击开去。只有触及敌人时才会挥动，且这是他的回血手段，因此请保持贴近并正对敌群。"
+    },
+    {
+      "id": "leap",
+      "tags": [
+        "Movement",
+        "AOE"
+      ],
+      "nameZh": "飞跃重击",
+      "textEn": "His from the start, in no skill slot. Over everything and down with the shovel where the cursor is, or a shorter hop if it's close. Into a crowd it builds Heat; away from one, it's how he gets out of trouble.",
+      "textZh": "开局自带，不占用技能槽。纵身跃过万物并在光标处以铁铲重砸地面，若距离近则进行短距重跃。砸入敌群可积累积热；跃离敌群则是绝佳的脱困手段。"
+    },
+    {
+      "id": "charge",
+      "tags": [
+        "Movement",
+        "Melee"
+      ],
+      "nameZh": "冲锋",
+      "textEn": "Head down and through them, steered as he runs, throwing aside whatever's in his way and taking far less damage himself. Press it again to slam the shovel down where you want it. Every foe it catches builds Heat, with no limit, so it's the way to fill the bar.",
+      "textZh": "俯身全速冲撞穿透敌阵，奔跑中可自由调整方向，将沿途阻挡的一切掀翻一侧，期间自身承受伤害大幅减免。再次按下可在选定位置提前砸下铁铲。沿途撞击每名敌人都无上限积累积热，是积满热槽的关键手段。"
+    },
+    {
+      "id": "strike_seam",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "击穿矿脉",
+      "textEn": "At full Heat, he spends all of it: the shovel goes into the ground and cracks race out to the crowds round him, holding what they touch, and then it all goes up. His at level 20, and it grows at 40, 60 and 80. Worth the Heat when the crowds are thick, though he stands still for it.",
+      "textZh": "在满积热状态下倾泻全部热量：铁铲刺入大地，灼热裂隙奔涌袭向四周的层层敌群，所触之敌皆被定身，紧接着地层连环暴烈喷发。20 级解锁，在 40、60 与 80 级逐步进化。在敌潮汹涌时极其强悍，尽管施放时自身需短暂停步。"
+    },
+    {
+      "id": "shovelful",
+      "tags": [
+        "Projectile",
+        "AOE"
+      ],
+      "nameZh": "一铲炽炭",
+      "textEn": "A spray of hot coals flung ahead of him, each leaving a patch of burning ground where it lands. His reach beyond the shovel: it catches what his blows push away.",
+      "textZh": "向前泼洒一片滚烫红炭，每颗炭块着陆处均留下一片持续燃烧的焦土。铁铲攻击范围之外的延伸打击：正好重创被近身横扫击退的敌人。"
+    },
+    {
+      "id": "furrow",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "烈火犁痕",
+      "textEn": "He drags the blade through the ground and a line of fire runs out ahead of him, burning on where it passed. Best down the length of a crowd coming at him.",
+      "textZh": "铁铲拖过地面犁开一道向前延伸的烈火深痕，过隙之处焦灼不熄。在迎击成列涌来的大股敌群时长驱直入效果最佳。"
+    },
+    {
+      "id": "stoke",
+      "tags": [
+        "Shout"
+      ],
+      "nameZh": "添柴加温！",
+      "textEn": "A roar that goes off when foes press in: for a few seconds every blow of his hits harder and his skills come back sooner. It does no damage itself, but everything he has gains from it.",
+      "textZh": "当敌潮迫近时爆发的狂野怒吼：数秒内每次挥击伤害大幅提升，所有技能冷却恢复显著加快。怒吼本身不具伤害，却能极大强化他施展的每种手段。"
+    },
+    {
+      "id": "bellow",
+      "tags": [
+        "Shout"
+      ],
+      "nameZh": "怒吼",
+      "textEn": "When he's surrounded or badly hurt, a bellow shoves everything back and he takes less damage for a few seconds. The room it buys is often what keeps him standing.",
+      "textZh": "当身陷重围或伤势沉重时，一声暴吼将身遭所有事物猛力推开，并在接下来数秒内大幅减免承受伤害。争取的喘息空间往往是他屹立不倒的关键。"
+    },
+    {
+      "id": "ground_slam",
+      "tags": [
+        "Melee",
+        "AOE"
+      ],
+      "nameZh": "重锤砸地",
+      "textEn": "Over his head and down, breaking the ground in a ring ahead of him. A heavy blow for the thick of it, and from its third rank it stuns what it catches.",
+      "textZh": "高举铁铲过顶轰然砸下，在身前崩裂出一圈碎地冲击。直插敌潮腹地的毁灭重击，从第 3 阶起附带眩晕震慑被击中的目标。"
+    },
+    {
+      "id": "whirl",
+      "tags": [
+        "Melee",
+        "AOE"
+      ],
+      "nameZh": "旋风铲",
+      "textEn": "When foes close in he spins with the shovel out, striking all round him with every turn, and he can keep walking as he does. He can't aim at anything meanwhile, but in the middle of a crowd there's no need.",
+      "textZh": "当强敌近身时伸展铁铲狂暴旋舞，每一圈都痛击周身一切，旋转期间仍可从容移动步伐。施展时无法精确瞄准特定目标，但在密不透风的敌阵中根本无需瞄准。"
+    },
+    {
+      "id": "firebox_dump",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "火箱倾倒",
+      "textEn": "He tips the firebox out into a pool of burning coals that goes on burning everything in it. Draw the crowd across it, or leave it behind you as you go.",
+      "textZh": "倾覆火箱，泼洒出一大片炽烈燃烧的焦炭火海，持续灼烧踏入其中的一切敌人。引诱敌群踏火而过，或在撤退时将其弃于身后断敌去路。"
+    },
+    {
+      "id": "blowback",
+      "tags": [
+        "AOE"
+      ],
+      "nameZh": "反吹喷射",
+      "textEn": "A long jet of furnace fire ahead of him, far beyond the shovel's reach, and the kick of it shoves him back. It can throw him out of the crowd, so mind where that leaves you.",
+      "textZh": "从炉膛向正前方轰出一道极长的高压熔火烈焰，射程远超铁铲挥击范围，强大的反冲后坐力同时将自身推向后方。可顺势脱离敌群合围，但须留意身后的立足之处。"
+    },
+    {
+      "id": "boiler_burst",
+      "tags": [
+        "Passive",
+        "AOE"
+      ],
+      "nameZh": "锅炉爆裂",
+      "textEn": "Every so many blows, fissures of fire run out ahead of him and burn all they pass. Nothing to do but keep hitting things: the more often he lands a blow, the more often it goes.",
+      "textZh": "每挥砍命中一定次数，前方地面便会喷射出道道奔涌的火焰地裂，灼烧沿途一切。无需多想，尽情挥铲即可：击中敌人的频率越高，爆裂火裂喷发得越频繁。"
+    }
+  ],
+  "mobs": [
+    {
+      "id": "husk",
+      "tags": [
+        "Melee"
+      ],
+      "nameZh": "空壳枯骨",
+      "textEn": "The ash-plains' dead, risen and shambling after you. Slow and weak on its own, it comes in endless numbers and swipes at whatever it reaches.",
+      "textZh": "灰烬平原上的死者，死而复生后蹒跚尾随于你。单个行动迟缓且孱弱，却成群结队、无穷无尽，挥爪抓挠任何触手可及之物。",
+      "tipEn": "Never let them close a ring around you. Keep walking, and they never catch up.",
+      "tipZh": "切勿让它们合围成圈。保持脚步不停，它们就永远追不上你。"
+    },
+    {
+      "id": "skitter",
+      "tags": [
+        "Melee",
+        "Swift"
+      ],
+      "nameZh": "疾爬幼虫",
+      "textEn": "A small, twitching thing that darts at you in quick, crooked dashes, freezing between them. Little health, but fast enough to catch you.",
+      "textZh": "一种抽搐颤动的小型生物，以迅捷而诡异步伐朝你短途突刺，两次突刺间会稍作停顿。生命值极低，但速度快到足以追赶上你。",
+      "tipEn": "One stray hit kills it: your auras and bursts take care of it as it comes in.",
+      "tipZh": "随意的一击便能将其斩杀：你的光环和爆发伤害能轻松在它们逼近时料理干净。"
+    },
+    {
+      "id": "bulwark",
+      "tags": [
+        "Melee",
+        "Tanky"
+      ],
+      "nameZh": "重装石偶",
+      "textEn": "A hulk of cracked, burning stone. It plods after you and brings both fists down in an overhead slam, and it takes a lot of killing.",
+      "textZh": "由龟裂燃烧的岩石构成的巨怪。它迈着沉重步伐尾随而来，双手高举过顶猛力砸地；需要倾泻大量伤害才能将其消灭。",
+      "tipEn": "The slam is slow and easy to read: step out from under the fists, then turn back on it.",
+      "tipZh": "砸地动作缓慢且极易预判：及时走出巨拳笼罩的范围，随后回头反打。"
+    },
+    {
+      "id": "kindler",
+      "tags": [
+        "Volatile"
+      ],
+      "nameZh": "引火者",
+      "textEn": "A walking furnace. When it reaches you it stops, swells up and bursts in a ring of fire.",
+      "textZh": "一具行走的熔炉。逼近你时会驻足停步、身躯膨胀，随后爆裂成一道环状火环。",
+      "tipEn": "Kill it before it gets close, or walk away as it swells. Killed first, it bursts at once and burns the foes around it instead: catch it in the middle of a crowd.",
+      "tipZh": "趁它逼近前将其击杀，或在它膨胀时从容走开。若被提前击杀，它会立即爆裂并灼烧周围的敌群：尽量在怪群正中心引爆它。"
+    },
+    {
+      "id": "spitter",
+      "tags": [
+        "Ranged"
+      ],
+      "nameZh": "吐烬怪",
+      "textEn": "It keeps its distance and lobs burning cinders where you're about to be. Each one lands as a patch of fire that burns for a few seconds.",
+      "textZh": "始终与你保持距离，朝你的预判落脚点抛掷滚烫的余烬。每颗余烬落地都会化作一小片燃烧数秒的焦土烈火。",
+      "tipEn": "It aims ahead of you: change direction and its throws land behind. It backs away when you come for it.",
+      "tipZh": "它的预判会瞄准你的前方：及时变向走位，它的抛掷便会落空在你的身后。当你朝它逼近时，它会向后撤退。"
+    },
+    {
+      "id": "cindersmith",
+      "tags": [
+        "Melee",
+        "Tanky"
+      ],
+      "nameZh": "烬火铁匠",
+      "textEn": "A hulking smith of slag with a burning hammer. From a few steps away it brings the hammer down ahead of it, and lines of fire race out along the ground from where it lands.",
+      "textZh": "由熔渣凝聚而成的庞大铁匠，手持燃烧的锻锤。在数步之外便会朝前方猛力砸下重锤，落地处沿地面疾速窜出多道火线。",
+      "tipEn": "Don't stand in front of it: its reach is longer than it looks, and the fire spreads in a fan.",
+      "tipZh": "切勿正面迎击：它的攻击距离比目测更远，且火焰呈扇形蔓延扩散。"
+    },
+    {
+      "id": "pyre_cantor",
+      "tags": [
+        "Support"
+      ],
+      "nameZh": "烈火领唱者",
+      "textEn": "The Pyre Priest risen in rank, a tall robed cantor of the Hierophant's choir. It binds the foes round it with tethers of lime fire, making them faster and harder to kill. A foe it has bound burns where it falls and rises again once, a moment later.",
+      "textZh": "地位晋升的烈火祭司，是教皇唱诗班中身着长袍的高阶领唱。以黄绿色鬼火之链与周围的敌群相系，使其移动更快、更难被杀死。被其绑定的敌人阵亡处会燃起烈火，并在片刻后死而复生一次。",
+      "tipEn": "Kill the Cantor first: the fallen still burning stay down, and everything it raised falls with it.",
+      "tipZh": "务必优先击杀领唱者：尚未复活的燃烧尸体便无法再站起，而所有被其复活的怪物也会随之同归于尽。"
+    },
+    {
+      "id": "bellows",
+      "tags": [
+        "Support"
+      ],
+      "nameZh": "风箱怪",
+      "textEn": "A tall, hollow figure whose chest is a great leather bellows. It walks into the front of the crowd, draws a long breath and blows a low cone of smoke over you: inside it you're slowed, and the ground under it is hidden.",
+      "textZh": "高大而空洞的身躯，胸膛是一副巨大的皮革风箱。它会走到怪群前方深吸一口气，随后朝你吹出一大片锥形浓烟：身处烟中不仅移速受限，脚下的地面也会被遮蔽掩盖。",
+      "tipEn": "Watch for the breath: kill it before it blows, or step out of its way. Ash Nova blows the smoke away, and Wardstones keep the air clear round you.",
+      "tipZh": "留意它的吸气动作：赶在它喷吐前将其斩杀，或是抽身避开正面。灰烬新星能吹散浓烟，守卫符石亦能护你周围空气清明。"
+    },
+    {
+      "id": "slag_maw",
+      "tags": [
+        "Melee",
+        "Ranged"
+      ],
+      "nameZh": "熔渣巨口",
+      "textEn": "The Ashgrub grown into the Cinder Wyrm's young: longer, plated in slag, with a round mouth of molten teeth. It still surfaces under you where the ground cracks, but now it spits globs of slag round you as it does.",
+      "textZh": "灰烬幼虫长成了烬火巨龙的幼崽：身躯更长，覆满熔渣重甲，生有一圈熔融尖牙构成的巨口。它依然会在地面龟裂处破土而出，但破土的同时还会朝周身四处喷吐团团熔渣。",
+      "tipEn": "Step out of the crack, then clear of the marks where its globs will land.",
+      "tipZh": "迅速走出地面裂痕，并及时避开熔渣团落地的预警印记。"
+    },
+    {
+      "id": "pyreling",
+      "tags": [
+        "Melee"
+      ],
+      "nameZh": "烈焰火灵",
+      "textEn": "The Cinderling's hotter kin, drifting after you in flocks. One hit puts it out, but where it dies a small fire burns for a moment.",
+      "textZh": "烬火精灵更为炽热的同族，成群结队地尾随飘来。一击便能将其打灭，但死亡之处会在片刻内留下一小团烈火。",
+      "tipEn": "Mow a flock down before it reaches you, not on top of you: its embers are left where it falls.",
+      "tipZh": "趁火灵群接近前将其成片收割，切勿让其死在脚下：落点处留下的余烬仍会造成伤害。"
+    },
+    {
+      "id": "gloam_collector",
+      "tags": [
+        "Support",
+        "Ranged"
+      ],
+      "nameZh": "薄暮收集者",
+      "textEn": "The Lantern Thief grown greedy, carrying a great lantern on a crook. It keeps its distance and draws your experience shards into its lantern, its hoard strengthening the foes around it, and once the lantern is full it thrusts the staff at you and hurls the stolen light back as cold embers.",
+      "textZh": "贪得无厌的提灯飞贼，弯曲的长杖上挂着一盏巨大提灯。它与你保持距离，将掉落的经验晶片吸入提灯，积攒的储量能大幅强化周围的敌群；一旦提灯吸满，便会将长杖指向你，把偷来的光芒化作冰冷余烬猛掷回来。",
+      "tipEn": "Dodge the embers, then pick up what they drop: it is your own experience. Killed, it gives back everything and half again.",
+      "tipZh": "躲开掷来的余烬，随后拾取它们掉落的事物：那是本属于你的经验。将其击杀后，它会归还所盗走的一切，并额外赠予五成奖励。"
+    },
+    {
+      "id": "soot_shade",
+      "tags": [
+        "Melee",
+        "Swift"
+      ],
+      "nameZh": "煤烟幽影",
+      "textEn": "The Soot Wretch thinned into something barely solid, more soot than flesh. It darts at you on its long arms, and now and then dissolves into its soot and re-forms right beside you, lunging out of the cloud.",
+      "textZh": "煤烟可怜虫消解蜕变成了近乎无形的形态，身躯烟尘多过血肉。依靠细长的双臂朝你飞扑，并不时散作一团煤烟遁去，随后直接在你身侧重聚，自烟云中猛扑而出。",
+      "tipEn": "When soot starts drawing together near you, step away from it: that is where it comes back.",
+      "tipZh": "一旦身边有烟尘聚拢凝聚，立刻抽身离开：那正是它重聚现身之处。"
+    },
+    {
+      "id": "slag_forgemaster",
+      "tags": [
+        "Melee",
+        "Tanky"
+      ],
+      "nameZh": "熔渣锻造大师",
+      "textEn": "The Cindersmith grown into a master of the forge, dragging a great hammer behind him. He swings it low and round into the ground ahead of him, and burning cracks race out all round him in a star.",
+      "textZh": "已臻化境的烬火铁匠，身后拖拽着一把巨型锻锤。他抡动大锤贴地横扫，随后重重砸在前方地面，周身随即蔓延出呈星芒放射的燃烧地裂。",
+      "tipEn": "Get out of the star, and stay out: a moment later every crack erupts again.",
+      "tipZh": "迅速脱离星芒裂隙区域，并保持距离：片刻之后，每道地裂都将引发二次爆发喷涌。"
+    },
+    {
+      "id": "shard_thrall",
+      "tags": [
+        "Melee"
+      ],
+      "nameZh": "晶片奴仆",
+      "textEn": "A shambling body grown through with crimson crystal. Slow, but when it dies it breaks apart into three Shard Crawlers.",
+      "textZh": "一具被绯红水晶贯穿生长的蹒跚残躯。行动虽迟缓，死时却会碎裂并钻出三只晶片爬行者。",
+      "tipEn": "Killing it is only half the work: be ready for the Crawlers that scatter from it.",
+      "tipZh": "击碎本体只是完成了一半战斗：时刻戒备从残骸中向四处散开的爬行者。"
+    },
+    {
+      "id": "shard_crawler",
+      "tags": [
+        "Melee",
+        "Swift"
+      ],
+      "nameZh": "晶片爬行者",
+      "textEn": "A shard broken off a Thrall or a Colossus, scuttling at you fast and erratic. Weak, but it comes in threes.",
+      "textZh": "从晶片奴仆或巨像身上脱落碎裂的晶片，以极快且诡异的步伐朝你飞爬而来。单个虽然孱弱，但往往三只成群出没。",
+      "tipEn": null,
+      "tipZh": null
+    },
+    {
+      "id": "lantern_thief",
+      "tags": [
+        "Support"
+      ],
+      "nameZh": "提灯飞贼",
+      "textEn": "It keeps its distance and steals the experience shards you haven't picked up, drawing them into its cage. The more it holds, the stronger the foes around it grow.",
+      "textZh": "与你保持一定距离，偷偷吸走散落一地尚未捡拾的经验晶片，装入自己的囚笼中。装入的晶片越多，其周围的敌群就变得越发强横。",
+      "tipEn": "Kill it and it bursts, giving back everything it stole and half as much again. Worth chasing down.",
+      "tipZh": "将其斩杀后它会碎裂爆发，不仅悉数归还盗走的一切，还会额外赠予一半。绝对值得紧追不舍将其斩草除根。"
+    },
+    {
+      "id": "soot_wretch",
+      "tags": [
+        "Melee",
+        "Swift"
+      ],
+      "nameZh": "煤烟可怜虫",
+      "textEn": "A near-black crawler on long arms, darting at you in sudden bursts. Hard to see against the ash: look for the trail of soot it leaves.",
+      "textZh": "一具近乎纯黑、四肢修长的爬行生物，会以迅雷之势猝然爆发突刺。在漆黑的灰烬背景下极难辨认：留意它身后留下的煤烟轨迹。",
+      "tipEn": "It's faster than you and tougher than it looks: turn and fight it rather than run.",
+      "tipZh": "它的速度比你更快，身板也比看起来更抗揍：与其仓皇逃窜，不如掉头迎战。"
+    },
+    {
+      "id": "ashgrub",
+      "tags": [
+        "Melee"
+      ],
+      "nameZh": "灰烬幼虫",
+      "textEn": "A worm that burrows under the ash and travels unseen. The ground cracks where it's about to surface, and it bursts up there, biting.",
+      "textZh": "一种潜伏于灰烬地底无声穿行的沙虫。破土而出前地面会崩裂开缝，随后猛然窜出撕咬猎物。",
+      "tipEn": "When the ground cracks under your feet, move.",
+      "tipZh": "脚下地面一旦开裂，立即抽身躲避。"
+    },
+    {
+      "id": "cinderling",
+      "tags": [
+        "Melee"
+      ],
+      "nameZh": "烬火精灵",
+      "textEn": "A little flame spirit drifting after you in flocks. One hit puts it out, but it burns at a touch, and there are always more.",
+      "textZh": "一小团微弱的漂浮火灵，成群结队尾随于后。一击便能将其熄灭，但触碰即会遭灼烧，且总是源源不断涌现。",
+      "tipEn": null,
+      "tipZh": null
+    },
+    {
+      "id": "pyre_priest",
+      "tags": [
+        "Support"
+      ],
+      "nameZh": "烈火狂信徒",
+      "textEn": "A robed priest who keeps his distance and binds the foes around him with tethers of lime fire. A bound foe moves faster, hits harder and takes less damage.",
+      "textZh": "身披长袍的教派祭司，始终拉开距离，用黄绿色鬼火之链链接周围的同伴。被绑定的敌人移速更快、击打更重，受到的伤害也更少。",
+      "tipEn": "Kill the priest first: every bond breaks with him.",
+      "tipZh": "先杀祭司：只要他一倒下，所有的链接纽带都会随之应声而断。"
+    },
+    {
+      "id": "warden",
+      "tags": [
+        "Boss"
+      ],
+      "nameZh": "空洞守卫",
+      "textEn": "The first boss: a hollow suit of armour burning violet. He leaps and slams the ground, charges, pushes waves out ahead of him and claps the horde in around himself. Below half health he fights in a fury.",
+      "textZh": "第一位关底首领：一具燃烧着幽紫烈焰的空洞战铠。他会跃起践踏重击地面、发起蛮横冲锋、朝正前方推起汹涌气浪，或是猛力击掌将全场怪潮拉拢向自身。生命值低于半血后，将陷入狂暴姿态疯狂进攻。",
+      "tipEn": "Each attack has its own wind-up: learn them. The leap lands where you stood when he jumped.",
+      "tipZh": "每一种招式都有专属的前摇动作：牢记其规律。他的飞跃落点正是他起跳时你所在的位置。"
+    },
+    {
+      "id": "twin_kiln",
+      "tags": [
+        "Boss"
+      ],
+      "nameZh": "双生熔窑",
+      "textEn": "Two furnaces that fight as one, a wall of fire running between them. When one falls, the other rekindles it unless you finish both. They slam, sweep the ground with flame and call down meteors.",
+      "textZh": "两座彼此连通、协同迎战的烈火熔炉，两窑之间拉着一道贯穿的火墙。若不同时斩杀，其中一座倒下后另一座很快便会将其重新复活。它们会发动重砸、烈焰横扫大地，并从天际召唤倾盆陨石。",
+      "tipEn": "Bring them down together, and never stand between them.",
+      "tipZh": "必须将它们同时击破，且绝对不要站在两座熔窑正中间的连线上。"
+    },
+    {
+      "id": "mother_of_ash",
+      "tags": [
+        "Boss"
+      ],
+      "nameZh": "余烬之母",
+      "textEn": "A towering ghost of ash. Her heart opens and closes: while it's shut she shrugs off most of your damage, and while it's open she takes far more. She breathes waves of ash, dashes, raises pillars, sends her brood and slowly fills the field with smoke.",
+      "textZh": "如遮天巨影般耸立的灰烬幽魂。她的核心心脏会周期性开合：闭合期间能免疫抵消大部分伤害；而一旦敞开，便会承受大幅加深伤害。她能吐出滚滚灰烬浪潮、发动急速冲刺、拔起灰烬巨柱、放出大量虫卵子嗣，并逐渐让灰烬迷雾弥漫笼罩整片战场。",
+      "tipEn": "Save your strength for when her heart opens.",
+      "tipZh": "将爆发伤害留到她的心脏完全袒露时再全力倾泻。"
+    },
+    {
+      "id": "cinder_wyrm",
+      "tags": [
+        "Boss"
+      ],
+      "nameZh": "烬火巨龙",
+      "textEn": "A serpent of molten rock that lives under the plains. It tunnels after you, a trail of churned ash on the surface showing the way, marks where you stand and erupts through it in a high arc. Now and then it rears up further off and spits fire at you, and later it plunges down out of the sky. As it weakens, its tail breaks off as Ashgrubs.",
+      "textZh": "栖息在平原深处的熔岩巨蟒。它在地底穿行尾随，地表翻滚卷涌的灰烬轨迹揭示了它的去向；它会锁定你的脚下并破土而出划过一道高耸的抛物弧线。随后它会从远方昂首吐出连串火球，更会在濒死时由天际俯冲轰炸而下。随着身躯受创虚弱，它的尾部会断裂化作多只灰烬幼虫。",
+      "tipEn": "Read the ground: when the ash churns under your feet, move. Any part of it that's above the ground can be hit.",
+      "tipZh": "仔细观察地面动静：一旦脚下的灰烬开始翻涌，立即躲避。它露在地表之上的任何一段身躯均可受到攻击。"
+    },
+    {
+      "id": "pyre_hierophant",
+      "tags": [
+        "Boss"
+      ],
+      "nameZh": "烈焰教皇",
+      "textEn": "The head of the fire cult the Pyre Priests serve, towering over the horde with a great censer-staff. He binds elites to himself with tethers of lime fire, and while any of them lives, nothing can hurt him. He calls fire up from the ground beneath you, sweeps the staff across his front, and later preaches the horde into a frenzy. Each one bound to him gives up its soul as it dies: a Soot Shade that streams out of it and comes at you.",
+      "textZh": "烈火狂信徒们侍奉的火教领袖，手执巨大香炉法杖巍峨俯瞰整个平原。他以黄绿色鬼火之链与战场上的精英怪相连；只要尚有一只相连怪物存活，他便受法界保护刀枪不入。他能从你脚下唤出烈火柱、挥动法杖在身前大范围横扫横截，随后更会布道令整群敌人陷入狂乱。每一个与他相连的仆从死亡时都会献祭其灵魂：化作一道煤烟幽影破体而出朝你飞扑。",
+      "tipEn": "Hunt down the ones he binds: when the last one falls his ward breaks for a few seconds. Never cross a tether, and keep moving as they fall: their shades come for you.",
+      "tipZh": "优先追杀所有被他绑定的仆从：斩杀最后一只仆从后，他的护身屏障将暂时破裂数秒。切勿横穿火焰链接；击杀仆从时保持移动：它们的幽影会立刻反扑向你。"
+    },
+    {
+      "id": "unmade",
+      "tags": [
+        "Boss"
+      ],
+      "nameZh": "未成灰烬使者",
+      "textEn": "When she was made, some of the fire didn't take. It burned on without her, out in the dark, and learned her shape. The Unmade Emberwright comes at the end of the night, and the horde burns out before it: nothing else stands on the plain while it lives. It fights with her own skills, turned pale and wrong.",
+      "textZh": "当年铸造她时，有一缕烈焰未能彻底融入。那缕余火在黑暗中独自燃烧，并逐渐模仿学会了她的形态姿容。未成灰烬使者会在漫漫长夜的尽头降临，怪潮在它面前尽数化作飞灰：只要它尚存一息，平原上便容不下任何杂兵。它运用着与她相同的技能作战，但其招式惨白妖异、尽显畸变。",
+      "tipEn": "Whatever you carry, it carries: learn your own skills from the other side. Felled, it brings the dawn.",
+      "tipZh": "无论你身怀何种绝技，它亦尽皆掌握：从对手的角度重新审视你的技能招式吧。将其击溃之时，黎明便会重现人间。"
+    },
+    {
+      "id": "quencher",
+      "tags": [
+        "Support"
+      ],
+      "nameZh": "熄火祭司",
+      "textEn": "An acolyte of a sect that puts fires out, robed in wet black ash, an urn of dark water at its belly. It hangs back behind the crowd, and every few seconds it raises its hands over the urn and tips it out: a ring of steam that washes your marks off every foe in it, and none will take for a few seconds after.",
+      "textZh": "侍奉熄火教派的黑袍侍僧，身裹潮湿的漆黑骨灰，腹部悬挂着一尊盛放漆黑浊水的陶瓮。它缩在怪群后方，每隔数秒便举起双手倾覆水瓮：喷涌而出的蒸汽环能洗刷净化其中所有怪物身上的印记，且在随后的数秒内使其无法被施加任何印记。",
+      "tipEn": "When its hands go up, its steam is coming. Kill it first, or fight it with what needs no marks.",
+      "tipZh": "一旦它高举双手，蒸汽便即将来临。优先击杀它，或是换用无需依赖印记的手段来破敌。"
+    },
+    {
+      "id": "ember_stalker",
+      "tags": [
+        "Melee",
+        "Swift"
+      ],
+      "nameZh": "烬火潜行者",
+      "textEn": "A Skitter grown up, its horns burning magenta. It still darts in crooked dashes, and every few seconds it crouches and pounces over the crowd at you.",
+      "textZh": "彻底长成成熟形态的疾爬虫，犄角泛着妖异的洋红色烈光。它依然以诡异的步伐突刺，每隔数秒便会伏下身躯，越过整片怪群猛扑向你。",
+      "tipEn": "When it crouches it has marked where you stand: be somewhere else when it lands.",
+      "tipZh": "当它伏下身躯时，便已锁定了你的站位：待它落地时，务必已移位至安全地带。"
+    },
+    {
+      "id": "magma_spitter",
+      "tags": [
+        "Ranged"
+      ],
+      "nameZh": "熔岩喷吐者",
+      "textEn": "A Cinder Spitter run hotter, throwing molten gold. Every other throw is a fan that lands as a line of fire.",
+      "textZh": "更加炽热狂暴的吐烬怪，抛掷出滚烫的熔金烈焰。每隔一次投掷便是一记扇形齐射，落地点连成一片封锁通道的燃烧火线。",
+      "tipEn": "Cross its lines of fire rather than run along them.",
+      "tipZh": "面对火线，应横向跨越穿过，切勿顺着火线的走向直线奔逃。"
+    },
+    {
+      "id": "ash_revenant",
+      "tags": [
+        "Melee"
+      ],
+      "nameZh": "灰烬亡魂",
+      "textEn": "A Husk risen again, armoured in slag. When it's close it plants its feet and lunges at you with both claws.",
+      "textZh": "再度苏醒的枯骨亡魂，浑身披挂熔渣重铠。逼近身侧时会稳固双脚发力，双爪齐出朝你猛扑。",
+      "tipEn": "The lunge covers a few steps: when it plants, step sideways, not back.",
+      "tipZh": "这记猛扑能跨越数步距离：当它立定蓄力时，请向侧方闪避，切忌直线后退。"
+    },
+    {
+      "id": "brimstone_fiend",
+      "tags": [
+        "Volatile"
+      ],
+      "nameZh": "硫磺恶魔",
+      "textEn": "A Kindler grown into a demon. It swells and bursts like one, only bigger: the ground stays burning, and new Kindlers are thrown out of the blast.",
+      "textZh": "蜕变成恶魔形态的引火者。它的膨胀与爆裂与引火者如出一辙，但范围更为巨大：留下的焦土久燃不息，且大爆炸还会将新生的引火者向四周抛洒而出。",
+      "tipEn": "Kill it early and far from you. Killed first, it bursts on the foes around it instead.",
+      "tipZh": "及早将其斩杀在远离自身之处。若被提前击杀，它会反过来在周围的怪群中引爆。"
+    },
+    {
+      "id": "shard_colossus",
+      "tags": [
+        "Melee",
+        "Tanky"
+      ],
+      "nameZh": "晶片巨像",
+      "textEn": "A Shard Thrall grown into a cracked giant. Crawlers break off it as it's hurt, it stomps whatever is close, and it dies in a ring of crystal spikes.",
+      "textZh": "晶片奴仆蜕变成的龟裂巨人。随着受到创伤，身体会不断剥落出爬行者；它会践踏近处的一切，并在阵亡时爆裂出一圈致命的水晶尖刺。",
+      "tipEn": "Step back as it falls: the spikes come up all around where it stood.",
+      "tipZh": "它倒下时迅速后撤避让：尖刺会从它原本站立处的周遭全方位刺出。"
+    },
+    {
+      "id": "ashen_bastion",
+      "tags": [
+        "Tanky",
+        "Support"
+      ],
+      "nameZh": "灰烬堡垒",
+      "textEn": "A walking fortress that wards the horde it walks with: foes near it take half damage. The ward burns down on its own, and when it breaks, the Bastion rages, faster and swinging harder.",
+      "textZh": "一具行走的战争堡垒，能庇护同行的整片怪潮：其附近的敌人受到的伤害减半。该庇护屏障会自行缓慢衰竭耗尽；而一旦屏障破裂，堡垒便会陷入暴怒，移动更快且挥击更加迅猛致命。",
+      "tipEn": "Fight the horde away from it, or bring it down to half health quickly to break the ward.",
+      "tipZh": "将怪群引诱至远离堡垒之处交战，或是迅速将其血量压制至半血以下以强行破除庇护。"
+    },
+    {
+      "id": "mire_spawn",
+      "tags": [
+        "Melee"
+      ],
+      "nameZh": "沼泽子嗣",
+      "textEn": "A squat thing of mud and bone, the fen's own fodder. It crawls out of the shallows in numbers and snaps at whatever it reaches.",
+      "textZh": "泥与骨堆成的矮胖东西，沼泽自己的口粮。成群从浅滩里爬出来，抓到什么就咬什么。",
+      "tipEn": "Weak alone. Keep moving and let your skills thin them as they come.",
+      "tipZh": "落单时很弱。保持移动，让技能把它们一路削掉。"
+    },
+    {
+      "id": "ember_mire_spawn",
+      "tags": [
+        "Melee",
+        "Volatile"
+      ],
+      "nameZh": "烬火沼泽子嗣",
+      "textEn": "A Mire Spawn gone hot, embers of the drowned kilns in its mud. Where it dies the ground burns for a moment, unless it dies in water, where it only fizzles.",
+      "textZh": "烧起来的沼泽子嗣，泥里裹着沉没熔窑的余烬。它死在哪，地面就在那里烧上一阵；若死在水里，只会滋滋作响。",
+      "tipEn": "Don't let them die at your feet, or fight them in the water.",
+      "tipZh": "别让它们死在你脚边，也别在水里跟它们纠缠。"
+    },
+    {
+      "id": "fen_leech",
+      "tags": [
+        "Melee",
+        "Swift"
+      ],
+      "nameZh": "沼泽水蛭",
+      "textEn": "A fat purple leech that ripples through the water far faster than it looks. Almost no health, but it comes at you in a hurry.",
+      "textZh": "一条肥硕的紫色水蛭，在水中扭动前进，比看上去快得多。几乎没有生命，但冲过来极快。",
+      "tipEn": "It won't outrun your auras and bursts: don't waste a step on one.",
+      "tipZh": "它快不过你的光环与爆裂——别为单独一只浪费脚步。"
+    },
+    {
+      "id": "leaping_leech",
+      "tags": [
+        "Melee",
+        "Swift"
+      ],
+      "nameZh": "跳跃水蛭",
+      "textEn": "A Fen Leech grown big and crimson. Out of the water it throws itself over the crowd at you, its landing marked on the ground.",
+      "textZh": "一只长到巨大、通体赤红的沼泽爬行者。离水之后，它会越过整片敌群扑向你，落点会在地面标出。",
+      "tipEn": "When a mark appears under you, step off it. It lands where you were.",
+      "tipZh": "脚下出现标记就立刻挪开。它只会落在你刚才的位置。"
+    },
+    {
+      "id": "coil_brute",
+      "tags": [
+        "Melee",
+        "Tanky"
+      ],
+      "nameZh": "盘蜷巨兽",
+      "textEn": "A heavy naga that hauls both fists up and brings them down on the ground ahead of it. Now and then it roars, its gold blazing, and rushes you far faster than it walks.",
+      "textZh": "一头笨重的娜迦，双拳高举，砸向前方地面。它不时咆哮、金纹迸亮，以远超步行的速度冲向你。",
+      "tipEn": "When it roars, get out of its way. The rush lasts a few seconds, then it's slow again.",
+      "tipZh": "它一咆哮就让开。冲刺只持续几秒，之后又会慢下来。"
+    },
+    {
+      "id": "coil_crusher",
+      "tags": [
+        "Melee",
+        "Tanky"
+      ],
+      "nameZh": "盘蜷粉碎者",
+      "textEn": "A Coil Brute half turned to stone and cracked through with gold, very hard to knock back. Close in, it rears up and slams its coil down, throwing the ground up in a ring round itself. It rushes you as the Brute does.",
+      "textZh": "半化为岩石、金脉贯穿裂缝的盘蜷巨兽，几乎撞不动。近身时它会立起，把盘卷狠狠砸下，地面在它四周被掀起一圈。",
+      "tipEn": "When it rears up, its mark is on the ground: be outside it when the coil lands.",
+      "tipZh": "它立起时地面已有标记：盘卷落地前站到圈外。"
+    },
+    {
+      "id": "sluice_keeper",
+      "tags": [
+        "Melee",
+        "Tanky"
+      ],
+      "nameZh": "水闸看守者",
+      "textEn": "A sect brute who kept the sluice gates, the gate's counterweight swung on a chain. Its sweep is slow, wide and marked, and what it hits it throws toward the water.",
+      "textZh": "教派的打手，看守水闸，闸门配重挂在锁链上。它的横扫缓慢、范围大，且会提前标出，被打中的会被抛向水面。",
+      "tipEn": "Step out of the marked sweep, and mind what waits in the water it would throw you into.",
+      "tipZh": "走出被标记的横扫范围，并留神它要把你抛进去的那片水里有什么。"
+    },
+    {
+      "id": "naga_tidecaller",
+      "tags": [
+        "Ranged",
+        "Support"
+      ],
+      "nameZh": "娜迦唤潮者",
+      "textEn": "A pale naga singer who hangs back and lobs balls of water where you're going, bursting on their marks. Her song quickens the foes round her and sends a Coil Brute straight into its rush.",
+      "textZh": "苍白的娜迦歌者，躲在后方，把水球抛向你要去的地方，在落点爆开。她的歌声会让身边敌人加速，并让一头盘蜷巨兽径直发起冲刺。",
+      "tipEn": "Turn when you see a mark land ahead of you. Kill her before she sings to a crowd.",
+      "tipZh": "看到前方出现落点标记就转向。趁她还没对人群歌唱，先杀了她。"
+    },
+    {
+      "id": "tidemother",
+      "tags": [
+        "Ranged",
+        "Support"
+      ],
+      "nameZh": "潮汐之母",
+      "textEn": "An old matriarch of the singers. Her water leaves a pool that slows you, and her song quickens the nagas round her and mends them as well.",
+      "textZh": "歌者中最年长的女族长。她的水流会留下一片减速水洼，歌声则让周围的娜迦加速，还能为它们治疗。",
+      "tipEn": "Kill her first in a crowd of nagas, or you'll be fighting them twice.",
+      "tipZh": "娜迦群里先杀她，否则你要打的是两倍的敌人。"
+    },
+    {
+      "id": "naga_stormcaller",
+      "tags": [
+        "Ranged"
+      ],
+      "nameZh": "娜迦唤风者",
+      "textEn": "The sect's weather-witch, veined with lightning. Her strikes run through the water round you, or fall as a bolt on dry ground, and between them she lobs a storm orb that bursts into a shock and slows you.",
+      "textZh": "教派的天气女巫，浑身雷电纹路。她的攻击会顺着你周围的水蔓延，或在干燥地面上化作一道落雷；间隙里还会抛出风暴法球，爆开时电击并使你减速。",
+      "tipEn": "Get out of the water when she marks it, and away from the orb's mark before it lands.",
+      "tipZh": "她标记水面时离开水，法球落点出现时先走开。"
+    },
+    {
+      "id": "naga_lancer",
+      "tags": [
+        "Melee",
+        "Swift"
+      ],
+      "nameZh": "娜迦枪兵",
+      "textEn": "A naga hunter with a long spear that lands crackling. From a distance it plants, marks a line in gold and lunges down it, quicker for a few seconds after. Close in, it spins at you on its coiled tail.",
+      "textZh": "手持噼啪作响长矛的娜迦猎手。远距离时它扎稳身形、用金色标出一条直线并沿其突刺，之后几秒行动更快。近身时它盘尾旋身扫向你。",
+      "tipEn": "Step off the gold line while it plants, and give it room for a moment once it has dashed.",
+      "tipZh": "它扎稳时离开那条金线；它突刺之后给它留几秒空隙。"
+    },
+    {
+      "id": "naga_harpooner",
+      "tags": [
+        "Melee",
+        "Ranged"
+      ],
+      "nameZh": "娜迦鱼叉手",
+      "textEn": "A heavier hunter with a barbed harpoon on a chain. It throws down a marked line at you, and caught, you're dragged in and hurt. Up close it fights with the harpoon as a spear.",
+      "textZh": "更沉重的猎手，锁链上系着带倒钩的鱼叉。它会朝你抛出标明的一线，一旦命中就把你拖过去并造成伤害。贴身时它把鱼叉当长矛使用。",
+      "tipEn": "The line shows before the throw: leave it, and you're never reeled in.",
+      "tipZh": "抛出前那条线会先显现：离开它，你就永远不会被拉过去。"
+    },
+    {
+      "id": "kiln_drowned",
+      "tags": [
+        "Melee",
+        "Tanky"
+      ],
+      "nameZh": "溺亡窑工",
+      "textEn": "An acolyte of the fire cult, drowned with the kilns and still burning under the skin. The water boils round it as it walks, and every so often its fire boils over in a marked blast. Hard to knock back.",
+      "textZh": "火教的扈从，与熔窑一同溺亡，皮下仍在燃烧。它走过之处水面沸腾，并不时火焰外溢，在标记处炸开。难以击退。",
+      "tipEn": "Fight it from dry ground, and back away when its cracks flare.",
+      "tipZh": "在干燥地面与它交战，它身上裂缝亮起时就往后退。"
+    },
+    {
+      "id": "steam_wraith",
+      "tags": [
+        "Melee",
+        "Swift"
+      ],
+      "nameZh": "蒸气幽灵",
+      "textEn": "A shape of steam with two pale eyes, drifting in quickly with the horde. Its rake slows you for a moment, which is all the others need.",
+      "textZh": "一团长着两点苍白眼睛的蒸气，随敌群一同迅速飘来。它的耙击会让你短暂减速，而这正是其他敌人所需要的。",
+      "tipEn": "Don't let one reach you in a crowd. Kill it on the way in.",
+      "tipZh": "别让它在人群里碰到你。在它靠近的途中就解决掉。"
+    },
+    {
+      "id": "ethereal_wraith",
+      "tags": [
+        "Melee",
+        "Swift"
+      ],
+      "nameZh": "虚灵怨魂",
+      "textEn": "A colder, tougher wraith. It fades into streaming steam, out of reach of every hit, marks a line through you and dashes along it and on past, slowing you harder if it catches you.",
+      "textZh": "更寒冷、更坚韧的怨魂。它会化作流动的蒸气消散，任何攻击都触不到它，随后穿过你标出一条线，沿线掠过并继续前冲；若被它撞上，减速更重。",
+      "tipEn": "When it fades, step off the line. It comes back solid behind you, so turn your skills on it there.",
+      "tipZh": "它消散时离开那条线。它会在你身后重新凝实，把技能往那里招呼。"
+    },
+    {
+      "id": "crucible_bearer",
+      "tags": [
+        "Ranged",
+        "Volatile"
+      ],
+      "nameZh": "坩埚信徒",
+      "textEn": "A hunched worker of the drowned kilns, a crucible of slag on its back. It keeps its distance and throws burning slag at marks on the ground, and when it falls the crucible spills.",
+      "textZh": "沉没熔窑里佝偻的工匠，背上一只熔渣坩埚。它保持距离，把燃烧的熔渣抛向地面标记处，倒下时坩埚会倾泻而出。",
+      "tipEn": "Keep clear of the marks, and of where it falls.",
+      "tipZh": "远离那些标记，也远离它倒下的位置。"
+    },
+    {
+      "id": "peatburner",
+      "tags": [
+        "Ranged",
+        "Tanky"
+      ],
+      "nameZh": "泥炭焚烧者",
+      "textEn": "A hunched peat-cutter smouldering lime from inside. It keeps its distance and marks the ground where you're going, then sets the dry ground there alight. Water puts it out.",
+      "textZh": "佝偻的泥炭采掘者，体内闷烧着石灰。它保持距离，标记你要去的地面，然后把那片干地点燃。水会浇灭它。",
+      "tipEn": "Stand in the shallows and its fire can't touch you.",
+      "tipZh": "站在浅水里，它的火就碰不到你。"
+    },
+    {
+      "id": "lantern_acolyte",
+      "tags": [
+        "Support"
+      ],
+      "nameZh": "提灯扈从",
+      "textEn": "A small robed figure of the sunken shrine. It sets floating lanterns on the water among the horde, and whatever stands in their light takes half the damage. Killed in water, the water round it burns.",
+      "textZh": "沉没神殿里的小小身影，长袍裹身。它在敌群间的水面上放下漂浮的提灯，站在灯光里的一切所受伤减半。在水中被杀时，它周围的水会燃烧起来。",
+      "tipEn": "Stand in a lantern's ring for a moment to put it out, or kill the acolyte before it sets one.",
+      "tipZh": "在提灯光圈里站上一会儿就能熄灭它，或者趁扈从还没放下灯就先杀掉她。"
+    },
+    {
+      "id": "abbess",
+      "tags": [
+        "Boss"
+      ],
+      "nameZh": "熄火女修道院长",
+      "textEn": "The first of the Steamfen, the abbess of the sect that drowned the kilns. Her crozier slams the ground and sweeps water out in a cone, her undertow drags you in, her shock orbs roll out along marked lanes, and she calls her Quenchers to her side. Every so often the flood rises: the water hurts and slows you until it falls.",
+      "textZh": "蒸气沼泽的第一位，正是她这一派淹没了熔窑。她的权杖砸向地面，扇形扫出水流；退潮会把你拖进去；电击法球沿标记的轨道滚出；她还会把她的熄火者召到身边。她不时催动洪水上涨：水会伤害并减速你，直到它退去。",
+      "tipEn": "When the flood is called, get to dry ground. Step between the orbs' lanes, not along them.",
+      "tipZh": "洪水召来时赶紧上干燥地面。在法球的轨道之间穿行，不要顺着轨道走。"
+    },
+    {
+      "id": "sluice_colossus",
+      "tags": [
+        "Boss",
+        "Tanky"
+      ],
+      "nameZh": "水闸巨像",
+      "textEn": "The flood-works themselves, awake: a walking sluice gate of stone and iron. Its fists crack the ground and bring rocks down all round, its stomp sends spikes rippling out, and the sluices drag you in to its swinging chain. Worn down, it calls Lesser Colossi up beside it, and below half its health every slam comes twice.",
+      "textZh": "苏醒的洪水工事本身：一具行走的石铁水闸。它的拳头震裂地面，四周不断落下石块；踏地激起尖刺涟漪；水闸则把你拖向它甩动的锁链。被磨损后，它会召来次级巨像；生命过半之后，每次重砸都会来两下。",
+      "tipEn": "Watch the ground, not the Colossus: every falling rock is marked first.",
+      "tipZh": "盯着地面而不是巨像——每一块落石都会先被标出。"
+    },
+    {
+      "id": "lesser_colossus",
+      "tags": [
+        "Melee",
+        "Tanky"
+      ],
+      "nameZh": "次级巨像",
+      "textEn": "A smaller piece of the flood-works, risen at the Sluice Colossus's call. It fights as the Colossus does, with less reach, fewer rocks and half the damage, and it falls when the Colossus does.",
+      "textZh": "洪水工事的一小块，应水闸巨像的召唤升起。它的打法与巨像相同，但触及范围更短、落石更少、伤害减半，并随巨像一同倒下。",
+      "tipEn": "Kill them if they crowd you, but the Colossus is the fight: bring it down and they go with it.",
+      "tipZh": "它们围上来就清掉，但真正的战斗是巨像：把它打倒，它们会一起倒下。"
+    },
+    {
+      "id": "ember_heron",
+      "tags": [
+        "Boss",
+        "Swift"
+      ],
+      "nameZh": "烬火苍鹭",
+      "textEn": "A huge heron of smouldering ash, stalking the shallows. When it freezes, its spear strikes where you're going and sticks in the mud, leaving it open. It fans fire down a cone, bounds at you, pecks in quick runs and beats its wings in gusts of burning wind. The weaker it gets, the less room it gives you.",
+      "textZh": "一只由闷烧灰烬凝成的巨鹭，在浅滩上踱步。它凝住时，长喙会刺向你将要去的位置并卡进泥里，露出破绽。它会朝扇形范围扇下火焰、朝你跃击、连续快速啄击，并振翅掀起灼热的狂风。它愈虚弱，留给你的余地愈小。",
+      "tipEn": "Change direction when it freezes, then hit it hard while its spear is stuck.",
+      "tipZh": "它凝住时立刻变向，趁长喙卡在泥里时狠狠打它。"
+    },
+    {
+      "id": "wheel_mother",
+      "tags": [
+        "Boss",
+        "Swift"
+      ],
+      "nameZh": "车轮之母",
+      "textEn": "The sect's eldest, who bites her own tail and rolls through the fen as a wheel down a marked lane, bending after you more as she weakens. She topples at the end of it, open and dazed. On her feet she sweeps her tail and lunges with her jaws, and her Lancers join her.",
+      "textZh": "教派中最年长者，咬住自己的尾巴，如车轮般沿标出的轨道滚过沼泽，愈虚弱就愈会拐弯追你。滚到尽头她会栽倒，露出破绽、陷入眩晕。站立时她挥尾扫击、张口撕咬，她的枪兵也会加入战斗。",
+      "tipEn": "When she curls, leave her lane, then punish the topple. Turn or stop to dodge the bite.",
+      "tipZh": "她蜷起时离开她的轨道，然后惩罚她的栽倒。转向或停下都能躲过撕咬。"
+    },
+    {
+      "id": "lamplighter",
+      "tags": [
+        "Boss",
+        "Support"
+      ],
+      "nameZh": "点灯人",
+      "textEn": "The fire cult's last priest, warded while his drowned braziers burn. His lantern's beam crosses the water, his hook reaches for you up close, and his bell, his Stormcallers and his Acolytes join in as the fight goes on.",
+      "textZh": "火教最后的祭司，只要他那些沉在水下的火盆还燃着，就有护罩相护。提灯的光束横穿水面，近身时钩子会向你探来，随着战斗推进，他的铃铛、唤风者与扈从也会加入。",
+      "tipEn": "Stand in a brazier's ring to put it out. Only with every one dark does his ward break, and he relights them, so be quick.",
+      "tipZh": "站进火盆的光圈里把它熄掉。只有全部熄灭，他的护罩才会破——而他会重新点起，所以要快。"
+    },
+    {
+      "id": "heart_below",
+      "tags": [
+        "Boss",
+        "Tanky"
+      ],
+      "nameZh": "渊薮之心",
+      "textEn": "The drowned kilns' fire grown alive under the fen, a dome of slag round a beating heart. It never moves. Sunk, it shrugs off most of your fire while its tendrils boil up round you, and each one you break drives it up. Risen, it beats out rings of heat with a gap in them. Near the end it stays up for good, and the fen boils.",
+      "textZh": "沉没熔窑的火在沼泽之下活了过来：一具熔渣穹顶裹着一颗跳动的心脏。它从不移动。沉在下面时，它卸掉你大部分火力，同时触须在你周围翻涌沸腾，每打断一条都把它逼上来一分。升起之后，它会搏动出一圈圈留有缺口的灼热环。临近终局时它会永久升起，沼泽随之沸腾。",
+      "tipEn": "Break the tendrils to raise it, then pour everything in. Pass through the gap in its rings, and leave the water when the fen boils.",
+      "tipZh": "打断触须把它逼上来，然后把火力全倒进去。穿过它热环上的缺口，沼泽沸腾时离开水面。"
+    },
+    {
+      "id": "heart_tendril",
+      "tags": [
+        "Melee"
+      ],
+      "nameZh": "渊薮之心触须",
+      "textEn": "An arm of the Heart Below, bursting up out of a marked boil. It slams down a marked line, sweeps round itself or lashes out and drags you in, then sinks back, leaving the water boiling where it stood.",
+      "textZh": "渊薮之心的一条手臂，从被标记的沸腾处破水而出。它会沿标明的一线砸下、绕自身横扫，或抽击把你拖近，随后沉回水下，留下原处仍在沸腾的水。",
+      "tipEn": "Break them: each one drives the Heart up, where you can hurt it.",
+      "tipZh": "打断它们：每断一条都会把渊薮之心逼上来，在那里你才伤得到它。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "cinderwake-zh",
+  "version": "1.3.1",
+  "description": "Cinderwake (cinderwake.io) 简体中文汉化油猴脚本与词库工程",
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build-user-script.mjs",
+    "test": "node --test tests/*.test.js",
+    "coverage": "node tools/check-coverage.mjs",
+    "describe:chunks": "node tools/describe-dict.mjs chunks",
+    "describe:build": "node tools/describe-dict.mjs build",
+    "describe:audit": "node tools/describe-dict.mjs audit"
+  },
+  "keywords": [
+    "cinderwake",
+    "tampermonkey",
+    "userscript",
+    "localization",
+    "chinese"
+  ],
+  "author": "runking",
+  "license": "MIT"
+}

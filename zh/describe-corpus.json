@@ -1,0 +1,376 @@
+{
+  "vitality": [
+    "+10 health, 0.8/s regen",
+    "+15 health, 1.2/s regen",
+    "+20 health, 1.6/s regen",
+    "+25 health, 2.0/s regen",
+    "+28 health, 2.4/s regen",
+    "+5 health, 0.4/s regen"
+  ],
+  "might": [
+    "+12% damage",
+    "+15% damage",
+    "+17% damage",
+    "+3% damage",
+    "+6% damage",
+    "+9% damage"
+  ],
+  "stride": [
+    "+10% move speed",
+    "+11% move speed",
+    "+2% move speed",
+    "+4% move speed",
+    "+6% move speed",
+    "+8% move speed"
+  ],
+  "gathering": [
+    "+12% pickup range",
+    "+18% pickup range",
+    "+24% pickup range",
+    "+30% pickup range",
+    "+34% pickup range",
+    "+6% pickup range"
+  ],
+  "kindred": [
+    "+1 to every skill’s count: bolts, jumps, meteors, brands…"
+  ],
+  "foresight": [
+    "Level-ups offer 4 boons instead of 3"
+  ],
+  "hearthfire": [
+    "Potions heal twice as much"
+  ],
+  "phoenix": [
+    "Once a run, rise from death at half health"
+  ],
+  "stoke": [
+    "Every 17s when foes press in, a roar: for 8.0s all your blows deal 44% more and your skills recharge a third faster.",
+    "Every 18s when foes press in, a roar: for 7.5s all your blows deal 40% more and your skills recharge a third faster.",
+    "Every 19s when foes press in, a roar: for 7.0s all your blows deal 36% more and your skills recharge a third faster.",
+    "Every 20s when foes press in, a roar: for 6.5s all your blows deal 32% more and your skills recharge a third faster.",
+    "Every 21s when foes press in, a roar: for 6.0s all your blows deal 28% more and your skills recharge a third faster.",
+    "Every 22s when foes press in, a roar: for 5.5s all your blows deal 24% more and your skills recharge a third faster."
+  ],
+  "bellow": [
+    "When surrounded or badly hurt, a bellow shoves foes back and stuns them, and for 5.2s you take 37% less damage. Every 22s.",
+    "When surrounded or badly hurt, a bellow shoves foes back and stuns them, and for 5.6s you take 40% less damage. Every 21s.",
+    "When surrounded or badly hurt, a bellow shoves foes back and stuns them, and for 6.0s you take 43% less damage. Every 20s.",
+    "When surrounded or badly hurt, a bellow shoves foes back and stuns them, and for 6.4s you take 46% less damage. Every 19s.",
+    "When surrounded or badly hurt, a bellow shoves foes back, and for 4.4s you take 31% less damage. Every 24s.",
+    "When surrounded or badly hurt, a bellow shoves foes back, and for 4.8s you take 34% less damage. Every 23s."
+  ],
+  "the_swing": [
+    "Swings the shovel in a wide arc ahead of you for 27 damage to all it catches, shoving them aside.",
+    "Swings the shovel in a wide arc ahead of you for 36 damage to all it catches, shoving them aside.",
+    "Swings the shovel in a wide arc ahead of you for 45 damage to all it catches, shoving them aside, the arc wider. Each foe it hits heals you for 1% of your max health, up to 3 foes a swing.",
+    "Swings the shovel in a wide arc ahead of you for 54 damage to all it catches, shoving them aside, the arc wider. Each foe it hits heals you for 1.5% of your max health, up to 3 foes a swing.",
+    "Swings the shovel in a wide arc ahead of you for 63 damage to all it catches, shoving them aside, the arc wider. Each foe it hits heals you for 1.5% of your max health, up to 3 foes a swing.",
+    "Swings the shovel in a wide arc ahead of you for 72 damage to all it catches, shoving them aside, the arc wider, and harder. Each foe it hits heals you for 2% of your max health, up to 3 foes a swing."
+  ],
+  "shovelful": [
+    "Flings 10 hot coals ahead of you: 40 damage where each lands, and it leaves the ground burning.",
+    "Flings 11 hot coals ahead of you: 48 damage where each lands, and it leaves the ground burning.",
+    "Flings 12 hot coals ahead of you: 56 damage where each lands, and it leaves the ground burning.",
+    "Flings 13 hot coals ahead of you: 64 damage where each lands, and it leaves the ground burning.",
+    "Flings 6 hot coals ahead of you: 24 damage where each lands, and it leaves the ground burning.",
+    "Flings 7 hot coals ahead of you: 32 damage where each lands, and it leaves the ground burning."
+  ],
+  "furrow": [
+    "Drags the shovel through the ground: a line of fire runs ahead of you, 31 damage to all it passes, and it keeps burning.",
+    "Drags the shovel through the ground: a line of fire runs ahead of you, 40 damage to all it passes, and it keeps burning.",
+    "Drags the shovel through the ground: a line of fire runs far ahead of you, 49 damage to all it passes, and it keeps burning.",
+    "Drags the shovel through the ground: a line of fire runs far ahead of you, 58 damage to all it passes, and it keeps burning.",
+    "Drags the shovel through the ground: a line of fire runs far ahead of you, 67 damage to all it passes, and it keeps burning.",
+    "Drags the shovel through the ground: a line of fire runs far ahead of you, 76 damage to all it passes, and it keeps burning."
+  ],
+  "ground_slam": [
+    "Brings the shovel down ahead of you: 112 damage in a ring of broken ground, stunning what it catches.",
+    "Brings the shovel down ahead of you: 134 damage in a ring of broken ground, stunning what it catches.",
+    "Brings the shovel down ahead of you: 156 damage in a ring of broken ground, stunning what it catches.",
+    "Brings the shovel down ahead of you: 178 damage in a ring of broken ground, stunning what it catches.",
+    "Brings the shovel down ahead of you: 68 damage in a ring of broken ground.",
+    "Brings the shovel down ahead of you: 90 damage in a ring of broken ground."
+  ],
+  "leap": [
+    "Space: leap towards the cursor, over everything, and bring the shovel down: 104 damage where you land. Every 6.7s.",
+    "Space: leap towards the cursor, over everything, and bring the shovel down: 128 damage where you land, stunning what it catches. Every 6.3s.",
+    "Space: leap towards the cursor, over everything, and bring the shovel down: 152 damage where you land, stunning what it catches. Every 5.9s.",
+    "Space: leap towards the cursor, over everything, and bring the shovel down: 176 damage where you land, stunning what it catches. Every 5.5s.",
+    "Space: leap towards the cursor, over everything, and bring the shovel down: 200 damage where you land, stunning what it catches. Every 5.1s.",
+    "Space: leap towards the cursor, over everything, and bring the shovel down: 80 damage where you land. Every 7.1s.",
+    "Tap its button to leap the way you're heading, over everything, and bring the shovel down: 104 damage where you land. Every 6.7s.",
+    "Tap its button to leap the way you're heading, over everything, and bring the shovel down: 128 damage where you land, stunning what it catches. Every 6.3s.",
+    "Tap its button to leap the way you're heading, over everything, and bring the shovel down: 152 damage where you land, stunning what it catches. Every 5.9s.",
+    "Tap its button to leap the way you're heading, over everything, and bring the shovel down: 176 damage where you land, stunning what it catches. Every 5.5s.",
+    "Tap its button to leap the way you're heading, over everything, and bring the shovel down: 200 damage where you land, stunning what it catches. Every 5.1s.",
+    "Tap its button to leap the way you're heading, over everything, and bring the shovel down: 80 damage where you land. Every 7.1s."
+  ],
+  "whirl": [
+    "When foes close in, spins with the shovel out for 3.8s: 13 damage about you with every turn. You can keep moving.",
+    "When foes close in, spins with the shovel out for 4.1s: 17 damage about you with every turn. You can keep moving.",
+    "When foes close in, spins with the shovel out for 4.4s: 21 damage about you with every turn, further out. You can keep moving.",
+    "When foes close in, spins with the shovel out for 4.7s: 25 damage about you with every turn, further out. You can keep moving.",
+    "When foes close in, spins with the shovel out for 5.0s: 29 damage about you with every turn, further out. You can keep moving.",
+    "When foes close in, spins with the shovel out for 5.3s: 33 damage about you with every turn, further out. You can keep moving."
+  ],
+  "firebox_dump": [
+    "Tips the firebox out: a pool of burning coals burns all in it for 100 damage a second, for 6.8s, slowing them.",
+    "Tips the firebox out: a pool of burning coals burns all in it for 35 damage a second, for 5.3s.",
+    "Tips the firebox out: a pool of burning coals burns all in it for 48 damage a second, for 5.6s.",
+    "Tips the firebox out: a pool of burning coals burns all in it for 61 damage a second, for 5.9s.",
+    "Tips the firebox out: a pool of burning coals burns all in it for 74 damage a second, for 6.2s.",
+    "Tips the firebox out: a pool of burning coals burns all in it for 87 damage a second, for 6.5s."
+  ],
+  "blowback": [
+    "Blasts a long jet of furnace fire ahead of you: 1176 damage in all to what it catches, and the kick shoves you back.",
+    "Blasts a long jet of furnace fire ahead of you: 1428 damage in all to what it catches, and the kick shoves you back.",
+    "Blasts a long jet of furnace fire ahead of you: 1680 damage in all to what it catches, and the kick shoves you back.",
+    "Blasts a long jet of furnace fire ahead of you: 1932 damage in all to what it catches, and the kick shoves you back.",
+    "Blasts a long jet of furnace fire ahead of you: 672 damage in all to what it catches, and the kick shoves you back.",
+    "Blasts a long jet of furnace fire ahead of you: 924 damage in all to what it catches, and the kick shoves you back."
+  ],
+  "boiler_burst": [
+    "Every 5th blow, 5 fissures of fire run out ahead of you: 107 damage to all they pass.",
+    "Every 5th blow, 5 fissures of fire run out ahead of you: 77 damage to all they pass.",
+    "Every 5th blow, 5 fissures of fire run out ahead of you: 92 damage to all they pass.",
+    "Every 5th blow, 7 fissures of fire run out ahead of you: 122 damage to all they pass.",
+    "Every 6th blow, 5 fissures of fire run out ahead of you: 47 damage to all they pass.",
+    "Every 6th blow, 5 fissures of fire run out ahead of you: 62 damage to all they pass."
+  ],
+  "vigor": [
+    "+20 max health."
+  ],
+  "swiftness": [
+    "+8% movement speed."
+  ],
+  "focus": [
+    "Skills recharge 7% faster."
+  ],
+  "potency": [
+    "+12% damage."
+  ],
+  "breadth": [
+    "+10% area for novas, stones and flames."
+  ],
+  "reach": [
+    "+35% shard pickup range."
+  ],
+  "mending": [
+    "Regenerate 0.6 health per second."
+  ],
+  "cinder_bolt": [
+    "Hurls 1 bolt at the nearest foes for 22 damage.",
+    "Hurls 2 bolts at the nearest foes for 22 damage.",
+    "Hurls 2 bolts at the nearest foes for 28 damage.",
+    "Hurls 2 bolts at the nearest foes for 34 damage.",
+    "Hurls 3 bolts at the nearest foes for 22 damage.",
+    "Hurls 3 bolts at the nearest foes for 28 damage.",
+    "Hurls 3 bolts at the nearest foes for 34 damage.",
+    "Hurls 3 bolts at the nearest foes for 40 damage.",
+    "Hurls 3 bolts at the nearest foes for 46 damage.",
+    "Hurls 4 bolts at the nearest foes for 28 damage.",
+    "Hurls 4 bolts at the nearest foes for 34 damage.",
+    "Hurls 4 bolts at the nearest foes for 40 damage.",
+    "Hurls 4 bolts at the nearest foes for 46 damage.",
+    "Hurls 4 bolts at the nearest foes for 52 damage, piercing 2.",
+    "Hurls 5 bolts at the nearest foes for 40 damage.",
+    "Hurls 5 bolts at the nearest foes for 46 damage.",
+    "Hurls 5 bolts at the nearest foes for 52 damage, piercing 2.",
+    "Hurls 6 bolts at the nearest foes for 52 damage, piercing 2."
+  ],
+  "ash_nova": [
+    "Every 2.6s, a blast of ash deals 62 damage around you and shoves foes back.",
+    "Every 3.0s, a blast of ash deals 52 damage around you and shoves foes back.",
+    "Every 3.4s, a blast of ash deals 42 damage around you and shoves foes back.",
+    "Every 3.8s, a blast of ash deals 32 damage around you and shoves foes back.",
+    "Every 4.2s, a blast of ash deals 22 damage around you and shoves foes back."
+  ],
+  "wardstones": [
+    "2 runestones circle you, striking foes for 11 damage.",
+    "3 runestones circle you, striking foes for 11 damage.",
+    "3 runestones circle you, striking foes for 16 damage.",
+    "4 runestones circle you, striking foes for 11 damage.",
+    "4 runestones circle you, striking foes for 16 damage.",
+    "4 runestones circle you, striking foes for 21 damage.",
+    "5 runestones circle you, striking foes for 16 damage.",
+    "5 runestones circle you, striking foes for 21 damage.",
+    "5 runestones circle you, striking foes for 26 damage.",
+    "6 runestones circle you, striking foes for 21 damage.",
+    "6 runestones circle you, striking foes for 26 damage.",
+    "6 runestones circle you, striking foes for 31 damage.",
+    "7 runestones circle you, striking foes for 26 damage.",
+    "7 runestones circle you, striking foes for 31 damage.",
+    "8 runestones circle you, striking foes for 31 damage."
+  ],
+  "arc_lash": [
+    "Lightning leaps between 3 foes for 22 damage each.",
+    "Lightning leaps between 4 foes for 22 damage each.",
+    "Lightning leaps between 4 foes for 30 damage each.",
+    "Lightning leaps between 5 foes for 22 damage each.",
+    "Lightning leaps between 5 foes for 30 damage each.",
+    "Lightning leaps between 5 foes for 38 damage each.",
+    "Lightning leaps between 6 foes for 30 damage each.",
+    "Lightning leaps between 6 foes for 38 damage each.",
+    "Lightning leaps between 6 foes for 46 damage each.",
+    "Lightning leaps between 7 foes for 38 damage each.",
+    "Lightning leaps between 7 foes for 46 damage each.",
+    "Lightning leaps between 7 foes for 54 damage each.",
+    "Lightning leaps between 8 foes for 46 damage each.",
+    "Lightning leaps between 8 foes for 54 damage each.",
+    "Lightning leaps between 9 foes for 54 damage each."
+  ],
+  "kindling": [
+    "Slain foes have a 16% chance to burst into flame, dealing 25 damage nearby.",
+    "Slain foes have a 22% chance to burst into flame, dealing 35 damage nearby.",
+    "Slain foes have a 28% chance to burst into flame, dealing 45 damage nearby.",
+    "Slain foes have a 34% chance to burst into flame, dealing 55 damage nearby.",
+    "Slain foes have a 40% chance to burst into flame, dealing 65 damage nearby."
+  ],
+  "flame_wake": [
+    "You leave a trail of fire that deals 14 damage twice a second to foes in it, for 3.0s.",
+    "You leave a trail of fire that deals 20 damage twice a second to foes in it, for 3.5s.",
+    "You leave a trail of fire that deals 26 damage twice a second to foes in it, for 4.0s. It burns wider.",
+    "You leave a trail of fire that deals 32 damage twice a second to foes in it, for 4.5s.",
+    "You leave a trail of fire that deals 38 damage twice a second to foes in it, for 5.0s. It burns hotter the faster you move."
+  ],
+  "wardens_echo": [
+    "Every 2.0s, a wave snaps out the way you face, dealing 30 damage and hurling foes aside. Twice. Behind you too.",
+    "Every 2.2s, a wave snaps out the way you face, dealing 26 damage and hurling foes aside. Twice.",
+    "Every 2.4s, a wave snaps out the way you face, dealing 22 damage and hurling foes aside. Twice.",
+    "Every 2.6s, a wave snaps out the way you face, dealing 18 damage and hurling foes aside. Twice.",
+    "Every 2.8s, a wave snaps out the way you face, dealing 14 damage and hurling foes aside.",
+    "Every 3.0s, a wave snaps out the way you face, dealing 10 damage and hurling foes aside."
+  ],
+  "storm_spire": [
+    "Every 3.6s, plants a spire that zaps the nearest foe for 40 damage for 5s. Four can stand at once. Zaps jump to 2 more foes.",
+    "Every 3.6s, plants a spire that zaps the nearest foe for 40 damage for 5s. Three can stand at once. Zaps jump to 2 more foes.",
+    "Every 3.6s, plants a spire that zaps the nearest foe for 40 damage for 5s. Two can stand at once. Zaps jump to 2 more foes.",
+    "Every 4.0s, plants a spire that zaps the nearest foe for 35 damage for 5s. Four can stand at once.",
+    "Every 4.0s, plants a spire that zaps the nearest foe for 35 damage for 5s. Three can stand at once.",
+    "Every 4.0s, plants a spire that zaps the nearest foe for 35 damage for 5s. Two can stand at once.",
+    "Every 4.4s, plants a spire that zaps the nearest foe for 30 damage for 5s. Four can stand at once.",
+    "Every 4.4s, plants a spire that zaps the nearest foe for 30 damage for 5s. Three can stand at once.",
+    "Every 4.4s, plants a spire that zaps the nearest foe for 30 damage for 5s. Two can stand at once.",
+    "Every 4.8s, plants a spire that zaps the nearest foe for 25 damage for 5s. Four can stand at once.",
+    "Every 4.8s, plants a spire that zaps the nearest foe for 25 damage for 5s. Three can stand at once.",
+    "Every 4.8s, plants a spire that zaps the nearest foe for 25 damage for 5s. Two can stand at once.",
+    "Every 5.2s, plants a spire that zaps the nearest foe for 20 damage for 5s.",
+    "Every 5.2s, plants a spire that zaps the nearest foe for 20 damage for 5s. Three can stand at once.",
+    "Every 5.2s, plants a spire that zaps the nearest foe for 20 damage for 5s. Two can stand at once.",
+    "Every 5.6s, plants a spire that zaps the nearest foe for 15 damage for 5s.",
+    "Every 5.6s, plants a spire that zaps the nearest foe for 15 damage for 5s. Three can stand at once.",
+    "Every 5.6s, plants a spire that zaps the nearest foe for 15 damage for 5s. Two can stand at once."
+  ],
+  "static_field": [
+    "A crackling field around you slows foes inside by 20%.",
+    "A crackling field around you slows foes inside by 24%.",
+    "A crackling field around you slows foes inside by 28%. Wider.",
+    "A crackling field around you slows foes inside by 32%. Wider.",
+    "A crackling field around you slows foes inside by 36%. Wider.",
+    "A crackling field around you slows foes inside by 40%. Wider. It zaps a foe inside for 30 damage twice a second."
+  ],
+  "fireflies": [
+    "4 fireflies drift around you and dart at foes for 15 damage, rekindling after each hit.",
+    "4 fireflies drift around you and dart at foes for 20 damage, rekindling after each hit.",
+    "5 fireflies drift around you and dart at foes for 15 damage, rekindling after each hit.",
+    "5 fireflies drift around you and dart at foes for 20 damage, rekindling after each hit.",
+    "6 fireflies drift around you and dart at foes for 15 damage, rekindling after each hit.",
+    "6 fireflies drift around you and dart at foes for 20 damage, rekindling after each hit.",
+    "6 fireflies drift around you and dart at foes for 25 damage, rekindling after each hit.",
+    "6 fireflies drift around you and dart at foes for 30 damage, rekindling after each hit.",
+    "6 fireflies drift around you and dart at foes for 35 damage, rekindling after each hit.",
+    "6 fireflies drift around you and dart at foes for 40 damage, rekindling after each hit. Each hit splashes fire on the foes around it.",
+    "7 fireflies drift around you and dart at foes for 25 damage, rekindling after each hit.",
+    "7 fireflies drift around you and dart at foes for 30 damage, rekindling after each hit.",
+    "7 fireflies drift around you and dart at foes for 35 damage, rekindling after each hit.",
+    "7 fireflies drift around you and dart at foes for 40 damage, rekindling after each hit. Each hit splashes fire on the foes around it.",
+    "8 fireflies drift around you and dart at foes for 25 damage, rekindling after each hit.",
+    "8 fireflies drift around you and dart at foes for 30 damage, rekindling after each hit.",
+    "8 fireflies drift around you and dart at foes for 35 damage, rekindling after each hit.",
+    "8 fireflies drift around you and dart at foes for 40 damage, rekindling after each hit. Each hit splashes fire on the foes around it."
+  ],
+  "cinder_shield": [
+    "A shell of ash soaks 17% of your max health in damage, then bursts for 28 around you. Reforms after 10.2s.",
+    "A shell of ash soaks 19% of your max health in damage, then bursts for 36 around you. Reforms after 9.4s.",
+    "A shell of ash soaks 22% of your max health in damage, then bursts for 44 around you. Reforms after 8.6s. A wider burst.",
+    "A shell of ash soaks 24% of your max health in damage, then bursts for 52 around you. Reforms after 7.8s. A wider burst.",
+    "A shell of ash soaks 27% of your max health in damage, then bursts for 60 around you. Reforms after 7.0s. A wider burst.",
+    "A shell of ash soaks 29% of your max health in damage, then bursts for 68 around you. Reforms after 6.2s. A wider burst. The burst sets the ground alight."
+  ],
+  "ember_familiar": [
+    "An ember spirit follows you. Every 1.9s it hurls a heavy fireball that bursts for 76 damage. A wider burst. Four familiars in all.",
+    "An ember spirit follows you. Every 1.9s it hurls a heavy fireball that bursts for 76 damage. A wider burst. Three familiars in all.",
+    "An ember spirit follows you. Every 1.9s it hurls a heavy fireball that bursts for 76 damage. A wider burst. Two familiars in all.",
+    "An ember spirit follows you. Every 2.0s it hurls a heavy fireball that bursts for 67 damage. A wider burst.",
+    "An ember spirit follows you. Every 2.0s it hurls a heavy fireball that bursts for 67 damage. A wider burst. Three familiars in all.",
+    "An ember spirit follows you. Every 2.0s it hurls a heavy fireball that bursts for 67 damage. A wider burst. Two familiars in all.",
+    "An ember spirit follows you. Every 2.2s it hurls a heavy fireball that bursts for 58 damage. A wider burst.",
+    "An ember spirit follows you. Every 2.2s it hurls a heavy fireball that bursts for 58 damage. A wider burst. Three familiars in all.",
+    "An ember spirit follows you. Every 2.2s it hurls a heavy fireball that bursts for 58 damage. A wider burst. Two familiars in all.",
+    "An ember spirit follows you. Every 2.3s it hurls a heavy fireball that bursts for 49 damage. A wider burst.",
+    "An ember spirit follows you. Every 2.3s it hurls a heavy fireball that bursts for 49 damage. A wider burst. Three familiars in all.",
+    "An ember spirit follows you. Every 2.3s it hurls a heavy fireball that bursts for 49 damage. A wider burst. Two familiars in all.",
+    "An ember spirit follows you. Every 2.5s it hurls a heavy fireball that bursts for 40 damage.",
+    "An ember spirit follows you. Every 2.5s it hurls a heavy fireball that bursts for 40 damage. Three familiars in all.",
+    "An ember spirit follows you. Every 2.5s it hurls a heavy fireball that bursts for 40 damage. Two familiars in all.",
+    "An ember spirit follows you. Every 2.6s it hurls a heavy fireball that bursts for 31 damage.",
+    "An ember spirit follows you. Every 2.6s it hurls a heavy fireball that bursts for 31 damage. Three familiars in all.",
+    "An ember spirit follows you. Every 2.6s it hurls a heavy fireball that bursts for 31 damage. Two familiars in all."
+  ],
+  "ember_rain": [
+    "Every 2.8s, five meteors fall on the thickest crowds near you for 102 damage. The ground burns for 26 damage a second.",
+    "Every 2.8s, four meteors fall on the thickest crowds near you for 102 damage. The ground burns for 26 damage a second.",
+    "Every 2.8s, four meteors fall on the thickest crowds near you for 66 damage.",
+    "Every 2.8s, four meteors fall on the thickest crowds near you for 78 damage.",
+    "Every 2.8s, four meteors fall on the thickest crowds near you for 90 damage.",
+    "Every 2.8s, three meteors fall on the thickest crowds near you for 102 damage. The ground burns for 26 damage a second.",
+    "Every 2.8s, three meteors fall on the thickest crowds near you for 66 damage.",
+    "Every 2.8s, three meteors fall on the thickest crowds near you for 78 damage.",
+    "Every 2.8s, three meteors fall on the thickest crowds near you for 90 damage.",
+    "Every 2.8s, two meteors fall on the thickest crowds near you for 66 damage.",
+    "Every 2.8s, two meteors fall on the thickest crowds near you for 78 damage.",
+    "Every 2.8s, two meteors fall on the thickest crowds near you for 90 damage.",
+    "Every 3.2s, a meteor falls on the thickest crowds near you for 42 damage.",
+    "Every 3.2s, a meteor falls on the thickest crowds near you for 54 damage.",
+    "Every 3.2s, three meteors fall on the thickest crowds near you for 42 damage.",
+    "Every 3.2s, three meteors fall on the thickest crowds near you for 54 damage.",
+    "Every 3.2s, two meteors fall on the thickest crowds near you for 42 damage.",
+    "Every 3.2s, two meteors fall on the thickest crowds near you for 54 damage."
+  ],
+  "thunderclap": [
+    "Every 4.6s, thunder cracks around you: 68 damage, and foes are stunned for 1.1s. Wider. They take 25% more damage for 3s.",
+    "Every 4.7s, thunder cracks around you: 60 damage, and foes are stunned for 1.1s. Wider.",
+    "Every 4.8s, thunder cracks around you: 52 damage, and foes are stunned for 1.1s. Wider.",
+    "Every 4.9s, thunder cracks around you: 44 damage, and foes are stunned for 1.1s. Wider.",
+    "Every 5.0s, thunder cracks around you: 36 damage, and foes are stunned for 0.8s.",
+    "Every 5.1s, thunder cracks around you: 28 damage, and foes are stunned for 0.8s."
+  ],
+  "ash_vortex": [
+    "Every 5.0s, a whirl of ash drags the foes around it together for 2.6s, dealing 34 damage a second. Longer, and wider. It collapses into an Ash Nova for 130 damage.",
+    "Every 5.2s, a whirl of ash drags the foes around it together for 2.6s, dealing 30 damage a second. Longer, and wider.",
+    "Every 5.4s, a whirl of ash drags the foes around it together for 2.6s, dealing 26 damage a second. Longer, and wider.",
+    "Every 5.6s, a whirl of ash drags the foes around it together for 2.6s, dealing 22 damage a second. Longer, and wider.",
+    "Every 5.8s, a whirl of ash drags the foes around it together for 1.8s, dealing 18 damage a second.",
+    "Every 6.0s, a whirl of ash drags the foes around it together for 1.8s, dealing 14 damage a second."
+  ],
+  "pyre_brand": [
+    "A brand marks the toughest foe near you: it takes 20% more damage, and explodes for 55 damage when it dies, the brand leaping on.",
+    "A brand marks the toughest foe near you: it takes 20% more damage, and explodes for 70 damage when it dies, the brand leaping on.",
+    "Four brands mark the toughest foe near you: it takes 20% more damage, and explodes for 100 damage when it dies, the brand leaping on.",
+    "Four brands mark the toughest foe near you: it takes 20% more damage, and explodes for 115 damage when it dies, the brand leaping on.",
+    "Four brands mark the toughest foe near you: it takes 20% more damage, and explodes for 130 damage when it dies, the brand leaping on. The brand burns for 36 damage a second.",
+    "Four brands mark the toughest foe near you: it takes 20% more damage, and explodes for 85 damage when it dies, the brand leaping on.",
+    "Three brands mark the toughest foe near you: it takes 20% more damage, and explodes for 100 damage when it dies, the brand leaping on.",
+    "Three brands mark the toughest foe near you: it takes 20% more damage, and explodes for 115 damage when it dies, the brand leaping on.",
+    "Three brands mark the toughest foe near you: it takes 20% more damage, and explodes for 130 damage when it dies, the brand leaping on. The brand burns for 36 damage a second.",
+    "Three brands mark the toughest foe near you: it takes 20% more damage, and explodes for 55 damage when it dies, the brand leaping on.",
+    "Three brands mark the toughest foe near you: it takes 20% more damage, and explodes for 70 damage when it dies, the brand leaping on.",
+    "Three brands mark the toughest foe near you: it takes 20% more damage, and explodes for 85 damage when it dies, the brand leaping on.",
+    "Two brands mark the toughest foe near you: it takes 20% more damage, and explodes for 100 damage when it dies, the brand leaping on.",
+    "Two brands mark the toughest foe near you: it takes 20% more damage, and explodes for 115 damage when it dies, the brand leaping on.",
+    "Two brands mark the toughest foe near you: it takes 20% more damage, and explodes for 130 damage when it dies, the brand leaping on. The brand burns for 36 damage a second.",
+    "Two brands mark the toughest foe near you: it takes 20% more damage, and explodes for 55 damage when it dies, the brand leaping on.",
+    "Two brands mark the toughest foe near you: it takes 20% more damage, and explodes for 70 damage when it dies, the brand leaping on.",
+    "Two brands mark the toughest foe near you: it takes 20% more damage, and explodes for 85 damage when it dies, the brand leaping on."
+  ]
+}

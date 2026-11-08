@@ -1,0 +1,350 @@
+[
+  {
+    "id": "2026-11-08b",
+    "date": "8 November 2026",
+    "titleEn": "Sound Density, and the view from the Tower",
+    "titleZh": "音效密度与高塔远景",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "New setting: Sound Density, under Gameplay. Turn it down to thin out how many sounds play at once in a busy fight, or up to 125% for a fuller one. Your own sounds and a boss's always play.",
+      "In the Tower Preview, look past the walls: the Ash Plains lie far below, their lava glowing through drifting smoke, among the stumps of other dead chimneys.",
+      "The Spearguards and the Ashscale Champion have their own colours, so they stand out on the Tower's floor."
+    ],
+    "notesZh": [
+      "「游戏玩法」下新增「音效密度」。调低可减少激战中同时播放的音效，最高可调至 125%，让战斗声更饱满。你的音效和首领音效始终会播放。",
+      "在高塔预览中越过塔墙向外看，可以看见远在下方的灰烬平原，熔岩在飘荡的烟雾中透出亮光，周围散布着废弃烟囱的残骸。",
+      "长矛卫士和灰鳞勇士现在各有专属配色，在高塔里更容易辨认。"
+    ]
+  },
+  {
+    "id": "2026-11-08",
+    "date": "8 November 2026",
+    "titleEn": "A first look at the Tower",
+    "titleZh": "初探高塔",
+    "summaryEn": "The Tower Preview is open under Select Map: three levels up the chimney where the first kiln was lit.",
+    "summaryZh": "「选择地图」下已开放「高塔预览」：沿着最初点燃窑火的烟道向上攀登三层。",
+    "notesEn": [
+      "Its own enemies come for you: Flue Crawlers dropping from the dark, Turnkeys, Door Wardens, and the Spearguards, the first dragonkin.",
+      "At the top waits the Ashscale Champion.",
+      "Traps in the floor you can turn on the horde.",
+      "No leaderboard yet; clearing it pays 100 Cinders."
+    ],
+    "notesZh": [
+      "高塔专属敌人将向你袭来：从黑暗中坠落的烟道爬行者、狱吏、闸门看守，以及最初的龙族后裔——长矛卫士。",
+      "塔顶等待着首领「灰鳞勇士」。",
+      "地面设有可以反制敌群的机关陷阱。",
+      "暂无排行榜；通关将奖励 100 余烬。"
+    ]
+  },
+  {
+    "id": "2026-11-07b",
+    "date": "7 November 2026",
+    "titleEn": "The Stoker's ultimate: Strike the Seam",
+    "titleZh": "司炉工终极技能：击穿矿脉",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "The Stoker gets an ultimate at level 20. At full Heat, left click spends it all: the shovel goes in, cracks race out to the crowds around him, and the ground erupts.",
+      "It grows at levels 40, 60 and 80, up to the Mother Lode, which reaches across the whole screen.",
+      "On a phone, it has its own button, above Leap and Charge."
+    ],
+    "notesZh": [
+      "司炉工在 20 级获得终极技能。在满「积热」状态下，点击鼠标左键将消耗所有积热：铁铲重重砸入地面，裂隙奔袭向四周的敌群，随即大地轰然喷发。",
+      "该技能在 40、60 和 80 级时获得强化，直至进化为覆盖整个屏幕的「富矿脉」。",
+      "在手机上，它拥有独立按钮，位于「飞跃」和「冲锋」上方。"
+    ]
+  },
+  {
+    "id": "2026-11-07",
+    "date": "7 November 2026",
+    "titleEn": "The Cairnslinger: smoother throws, clearer stones",
+    "titleZh": "石标投掷手：更流畅的投掷，更清晰的飞石",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "A Skipstone on a lone foe now bounces off them and lands on them again, instead of dipping into the ground first.",
+      "Landslide's boulders roll on their edge like wheels, rather than tumbling end over end.",
+      "Flatstone is bigger and slower, and leaves a ring on the ground each time it skims, so you can follow it.",
+      "Stones have a shorter trail that follows their flight round each turn, and a little less glow.",
+      "His throwing arm no longer jerks when several skills go off together."
+    ],
+    "notesZh": [
+      "当「跳石」命中孤立敌人时，现在会直接在敌人身上反弹并再次落于其身上，而不再先钻入地面。",
+      "「山崩滚石」的巨石现在像轮子一样直立侧滚，而非头尾颠簸翻滚。",
+      "「扁平跳石」体型更大且速度放缓，每次掠过地面都会留下一圈痕迹，方便辨识其轨迹。",
+      "飞石尾迹缩短并紧随飞行转向，光晕微幅减弱。",
+      "多项技能同时触发时，他的投掷手臂不再出现卡顿抖动。"
+    ]
+  },
+  {
+    "id": "2026-11-06g",
+    "date": "6 November 2026",
+    "titleEn": "A new character, in testing: The Cairnslinger",
+    "titleZh": "测试中新角色：石标投掷手",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "The Cairnslinger joins the Emberwright and the Stoker: a slinger whose stones skip from foe to foe, with a roll to get clear. Pick him under Select Character.",
+      "He's in testing, so he doesn't have everything the others do yet, and he'll change as we see how he plays.",
+      "Feedback is welcome. After a run with him, press Give feedback above Rise Again on the end screen, choose Bug or Feature, and tell us what you found."
+    ],
+    "notesZh": [
+      "石标投掷手加入灰烬使者与司炉工的行列：一名投石者，其飞石能在敌人间连续弹跳，并拥有脱离包围的翻滚位移。可在「选择角色」中选取。",
+      "该角色目前处于测试阶段，尚不具备其他角色全部完整特性，我们将根据实战表现持续调整。",
+      "欢迎反馈建议。使用他完成一局后，可在结算界面「重燃战火」上方点击「提供反馈」，选择「Bug」或「建议」，告诉我们你的体验。"
+    ]
+  },
+  {
+    "id": "2026-11-06f",
+    "date": "6 November 2026",
+    "titleEn": "Heat, Ember Step and the codex",
+    "titleZh": "积热、余烬闪步与图鉴",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "Taking damage now cools the Stoker's Heat, except explosions, and one Leap can only half-fill the bar, so filling it takes Charge too.",
+      "Ember Step can now be upgraded: rare level-up cards bring its cooldown from 25 seconds down to 13.",
+      "The codex now shows the skills of whoever you're playing, so the Stoker's are finally there, with Charge and Ember Step among them."
+    ],
+    "notesZh": [
+      "受到伤害现在会减少司炉工的「积热」（受到爆炸伤害除外），且单次「飞跃」最多只能填满半管，因此需要配合「冲锋」来攒满积热。",
+      "「余烬闪步」现在可以升级：稀有升级卡可将其冷却时间从 25 秒缩减至 13 秒。",
+      "图鉴现在会显示当前使用角色的专属技能，司炉工的技能现已收录，其中包含「冲锋」与「余烬闪步」。"
+    ]
+  },
+  {
+    "id": "2026-11-06e",
+    "date": "6 November 2026",
+    "titleEn": "Ember Step for the Emberwright",
+    "titleZh": "灰烬使者新增「余烬闪步」",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "Press Space to burn away and re-form where the cursor is, up to a short way off, with nothing touching you as you go. It's hers from the start, takes no skill slot, and has a 25 second cooldown."
+    ],
+    "notesZh": [
+      "按空格键化为余烬消散并在光标处重聚（一段短距离内），穿梭期间处于无敌状态。该技能开局自带，不占用技能槽，基础冷却时间 25 秒。"
+    ]
+  },
+  {
+    "id": "2026-11-06d",
+    "date": "6 November 2026",
+    "titleEn": "A new main menu",
+    "titleZh": "全新主菜单",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "Your hero and map are now up front, and the difficulty is chosen right on the menu instead of in Settings."
+    ],
+    "notesZh": [
+      "角色与地图选择现已置于主界面显著位置，难度可直接在主菜单选择，无需再进入「设置」。"
+    ]
+  },
+  {
+    "id": "2026-11-06c",
+    "date": "6 November 2026",
+    "titleEn": "See where your damage came from",
+    "titleZh": "查看详细伤害来源统计",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "The end screen now shows your total damage, with a breakdown for each skill."
+    ],
+    "notesZh": [
+      "结算界面现在会显示你的总伤害量，并按各项技能提供伤害构成明细。"
+    ]
+  },
+  {
+    "id": "2026-11-06b",
+    "date": "6 November 2026",
+    "titleEn": "The Stoker: Charge, Leap from the start, and Heat",
+    "titleZh": "司炉工：冲锋、初始飞跃与积热机制",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "Charge is a new skill on Left Shift: he runs through the horde throwing them aside, steered with the keys or the cursor, and taking far less damage. Press it again to slam the shovel down, or it comes down by itself.",
+      "Leap is his from the start and no longer takes a skill slot.",
+      "Heat: Leap and Charge build it from every foe they catch. It makes all his blows hit harder and The Swing heal more, and a dive into a crowd brings the other one back sooner."
+    ],
+    "notesZh": [
+      "左 Shift 键新增技能「冲锋」：穿透敌群并将其击退两侧，可用按键或光标转向操控，期间受到伤害大幅降低。再次按下可提前重砸铁铲，或在冲刺结束时自动砸地。",
+      "「飞跃」现在开局自带，不再占用技能槽。",
+      "「积热」机制：「飞跃」与「冲锋」每命中一名敌人都将积累积热。积热期间所有攻击威力提升，且「大力挥铲」生命回复提升；扑入敌群还能缩短另一技能的冷却时间。"
+    ]
+  },
+  {
+    "id": "2026-11-05",
+    "date": "5 November 2026",
+    "titleEn": "Glass Wick and Vitality",
+    "titleZh": "琉璃灯芯与生命力",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "Glass Wick was too strong, so it's weaker now: skills recharge 20% faster at 20% less max health, rising to 30% faster at 20% less by tier III.",
+      "Vitality at the Hearth now regenerates half as much: 0.2 health a second per rank, down from 0.4."
+    ],
+    "notesZh": [
+      "「琉璃灯芯」此前过强，现已削弱：技能充能加快 20%，最大生命值降低 20%；到 III 阶则加快 30%，最大生命值仍降低 20%。",
+      "暖炉处的「生命力」现在回复量减半：每级每秒 0.2 点生命值，此前为 0.4 点。"
+    ]
+  },
+  {
+    "id": "2026-11-05b",
+    "date": "5 November 2026",
+    "titleEn": "Act 2: The Steamfen is open",
+    "titleZh": "第 2 幕开放：蒸气沼泽",
+    "summaryEn": "A drowned kiln city in a steaming marsh, with six new bosses and a new narrator. Choose it under Select Map: it costs 150 Cinders to unlock, and each map has its own leaderboards. Some tuning may still come, and gear for the Steamfen comes later.",
+    "summaryZh": "雾气蒸腾的湿地中，一座沉没的熔窑之城；六位全新首领，以及一位新的旁白。在「选择地图」中选择它：解锁需 150 余烬，每张地图各有独立的排行榜。部分数值仍可能调整，蒸气沼泽的装备会在之后推出。",
+    "notesEn": [],
+    "notesZh": []
+  },
+  {
+    "id": "2026-11-06",
+    "date": "6 November 2026",
+    "titleEn": "A clearer night",
+    "titleZh": "更清晰的夜色",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "Dark colours display better on both maps: the Ash Plains' ground now reads as ash and fire stands out from it. Brightness and Bloom now start at 100%."
+    ],
+    "notesZh": [
+      "深色在两张地图上都显示得更好：灰烬平原的地面更接近灰烬本色，火焰也从中跳脱出来。亮度与泛光现在默认 100%。"
+    ]
+  },
+  {
+    "id": "2026-11-03",
+    "date": "3 November 2026",
+    "titleEn": "Act 2: Steamfen is coming",
+    "titleZh": "第 2 幕即将推出：蒸气沼泽",
+    "summaryEn": "A drowned kiln city in a steaming marsh. The nagas hunt in the water, and their Abbess commands the flood.",
+    "summaryZh": "雾气蒸腾的湿地中，一座沉没的熔窑之城悄然浮现。娜迦在水泽中游猎，其女修道院院长主宰着汹涌狂潮。",
+    "notesEn": [],
+    "notesZh": []
+  },
+  {
+    "id": "2026-11-02b",
+    "date": "2 November 2026",
+    "titleEn": "Clearer fights, and fire on phones",
+    "titleZh": "更清晰的战斗视野，以及手机端火焰特效修复",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "Fire shows on phones again: Flame Wake's trail, flames, explosions, burning ground and the lava were missing.",
+      "On phones the night is brighter: the ground and the horde are easier to see, and the fire is as bright as before.",
+      "Clearer fights: a boss no longer drowns in your fire. A foe hit again and again shows fewer full blasts, and a boss shows through the fire on him. See Hit Effects under Gameplay in Settings to choose how much (100% is every hit in full, as before).",
+      "The colour look is Neutral by default now (it was Filmic): truer fire colours. If you liked it as it was, choose Filmic under Display: Colour in Settings."
+    ],
+    "notesZh": [
+      "手机端重新正常显示火焰特效：此前烈焰余迹的火径、火焰、爆炸、燃烧地面以及熔岩曾发生缺失。",
+      "提升手机端的夜间画面亮度：地面和敌群更加清晰易辨，同时火焰光效依旧同以往一样明亮绚丽。",
+      "战斗视野更清晰：首领不再被你密集的烈焰彻底遮蔽掩盖。持续受到打击的敌人现在会减少全屏大爆炸的重叠特效，且首领身上的火焰会呈现半透穿透显示。可在「设置 -> 游戏玩法 -> 击中特效」中调整呈现比例（100% 为原始完整特效）。",
+      "色彩风格现已默认改为「中性自然 (Neutral)」（此前为「电影感 (Filmic)」）：呈现更加真实的火焰色彩。若你更青睐原本的风格，可在「设置 -> 显示 -> 色彩风格」中选回「电影感」。"
+    ]
+  },
+  {
+    "id": "2026-11-02",
+    "date": "2 November 2026",
+    "titleEn": "The Quencher, and better fire",
+    "titleZh": "全新敌人「熄火祭司」登场，以及更出色的火焰视觉",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "Late in the night a new foe walks with the horde: the Quencher. Its steam washes your marks off the foes around it, and for a few seconds none will take.",
+      "Burning ground looks like fire now: low flames on glowing cracks instead of a flat glowing disc. An enemy's fire marks where it stops hurting with a line of embers."
+    ],
+    "notesZh": [
+      "在深夜的后半段，怪潮中将出现一位全新敌人：熄火祭司。它喷涌的蒸汽会洗刷驱散周围敌人身上的印记，且在随后的数秒内使其无法被施加印记。",
+      "燃烧焦土的视觉表现全面重做：现在呈现为龟裂发光地面上跃动的低矮火苗，取代了原先平坦发光的圆盘。敌人的火焰在伤害范围边缘处会以一圈余烬清晰勾勒标记。"
+    ]
+  },
+  {
+    "id": "2026-11-01c",
+    "date": "1 November 2026",
+    "titleEn": "The Ash Plains have an end",
+    "titleZh": "灰烬平原终将迎来破晓",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "Something waits at the end of the night, after the Pyre Hierophant. Bring it down and the dawn comes.",
+      "At the dawn, leave the plains with your score, or hold the line: night falls again and the run goes on, harder.",
+      "A sun by your name on the leaderboard once you've seen the dawn."
+    ],
+    "notesZh": [
+      "在长夜的尽头，烈焰教皇之后仍有未知强敌潜伏守候。击溃它，黎明破晓终将降临。",
+      "破晓黎明之际，你可以选择携带当前积分凯旋离开平原，亦可坚守阵地：长夜将再次降临，征途将变得更加艰难残酷。",
+      "亲历并见证过黎明的勇士，将在排行榜上的名字旁荣获一枚象征荣耀的太阳印记。"
+    ]
+  },
+  {
+    "id": "2026-11-01b",
+    "date": "1 November 2026",
+    "titleEn": "Easier Easy, and a Hearth that changes your runs",
+    "titleZh": "简单难度曲线优化，以及带来战术质变的暖炉升级",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "Easy is a good deal easier: the horde toughens more slowly, hits softer and comes thinner, and potions heal more. Medium is a little easier too.",
+      "Four new unlocks at the Hearth: Kindred Flame (+1 to every skill's count), Foresight (four boons to choose from), Hearthfire (stronger potions) and Phoenix's Favour (once a run, the Phoenix raises you from death).",
+      "The Mother of Ash fights harder once she's wounded.",
+      "The enemies' bigger fires show a red edge where the danger ends, and your own fire can burn gold or red instead (Settings: My Fire).",
+      "Settings in tabs: Gameplay, Display and Graphics."
+    ],
+    "notesZh": [
+      "简单难度显著平缓：敌潮战力增长更加平缓，造成的伤害更低且刷怪更为稀疏，同时药水的生命恢复量大幅提升。普通难度亦略微调低了门槛。",
+      "暖炉新增 4 种局外解锁强化：同源之焰（所有技能数量上限 +1）、远见（升级提供 4 选 1 恩赐选项）、灶火庇佑（大幅强化药水恢复量）以及凤凰恩赐（每局可在阵亡时浴火重生一次）。",
+      "余烬之母在负伤残血后战斗姿态将更加凶悍残暴。",
+      "敌人的大体量火焰攻击现在会以红色边缘清晰标记危险范围边界；你自身的火焰颜色亦可在「设置 -> 自身火焰颜色」中切换为金黄或绯红。",
+      "设置菜单全面整合为标签页分类：「游戏玩法」、「显示」与「画质」。"
+    ]
+  },
+  {
+    "id": "2026-11-01",
+    "date": "1 November 2026",
+    "titleEn": "Gear that combines your skills",
+    "titleZh": "技能联动的全新装备系统",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "13 new items that make your skills work together: fire hits harder on Shocked foes, a killed Branded foe sets off the Burning ones round it, and more.",
+      "Every item now has a third tier, and picking up a copy of an item you wear upgrades it.",
+      "Item cards show which skills an item works with.",
+      "A Gear tab in the codex (K): every item you've seen, its tiers and what it works with.",
+      "Icons over enemies show the marks your gear uses (Settings: Mark Icons).",
+      "A narrator for the run's big moments (Settings: Narrator).",
+      "Calmer fire light in big fights, and dimmer braziers."
+    ],
+    "notesZh": [
+      "新增 13 件促成技能联动的全新装备：火焰对「感电」敌人造成更高伤害、击杀「烙印」目标会连锁引爆周围「燃烧」的敌人，更多联动等你发掘。",
+      "所有装备现在拥有第 3 阶形态，且在局内拾取已穿戴装备的副本即可直接晋升强化。",
+      "装备卡片上现可直接直观查看与之联动的协同技能。",
+      "图鉴（快捷键 K）新增「装备」标签页：可查阅所有已目击的装备、各阶详情及协同技能。",
+      "敌人头顶将显示你的装备所对应的印记图标（可在「设置 -> 印记图标」中配置）。",
+      "为游戏局内的关键高光时刻增添了生动的语音旁白（可在「设置 -> 旁白」中开启）。",
+      "优化了大型混战中的火焰光照晃动感，并调暗了火盆亮度以保持画面舒适。"
+    ]
+  },
+  {
+    "id": "2026-10-31",
+    "date": "31 October 2026",
+    "titleEn": "The Ash Plains, rebuilt",
+    "titleZh": "灰烬平原地貌全面重构",
+    "summaryEn": "",
+    "summaryZh": "",
+    "notesEn": [
+      "The map has places now: shrines, ruins, graveyards, lava fields, a fallen idol, and a chasm at the edge of the world.",
+      "Fires light the ground, and a low haze glows round them.",
+      "Smoother: no more hitches at level-ups, and faster frames.",
+      "New setting: Anti-aliasing.",
+      "Returning players only download what changed."
+    ],
+    "notesZh": [
+      "整张地图现已拥有丰富的地理风貌：神龛、遗迹、墓地、熔岩之野、倒塌的神像，以及世界尽头的无底深渊。",
+      "烈焰点亮了灰暗的大地，火苗周围环绕着薄薄的朦胧热浪霞光。",
+      "流畅度全面提升：彻底消除了升级选择时的瞬间卡顿，帧率表现大幅飙升。",
+      "新增画质选项：「抗锯齿」。",
+      "回归老玩家现在只需增量下载更新内容，大幅节省等待时间。"
+    ]
+  }
+]
